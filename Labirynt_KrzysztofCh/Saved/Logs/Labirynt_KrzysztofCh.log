@@ -940,3 +940,374 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.10.15-15.22.10:092][256]AssetCheck: New page: Asset Save: multiple assets
 [2020.10.15-15.22.10:092][256]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
 [2020.10.15-15.22.10:092][256]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2020.10.15-15.44.55:275][114]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{d7d7e9bd-a4ca-4a2c-96bd-d385645df83b}.
+[2020.10.15-15.44.55:275][114]LogTemp: Resetting audio stream to device id 
+[2020.10.15-15.44.55:335][114]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.15-15.44.55:335][114]LogAudioMixer: Display: 1: FrontRight
+[2020.10.15-15.57.24:767][ 11]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{7d791603-362e-4130-a8d5-ff6082b379be}.
+[2020.10.15-15.57.24:767][ 11]LogTemp: Resetting audio stream to device id 
+[2020.10.15-15.57.24:854][ 11]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.15-15.57.24:854][ 11]LogAudioMixer: Display: 1: FrontRight
+[2020.10.15-16.37.16:483][336]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.10.15-16.37.37:954][866]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.10.15-16.37.40:830][202]Cmd: DELETE
+[2020.10.15-16.37.40:830][202]Cmd: ACTOR DELETE
+[2020.10.15-16.37.40:836][202]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.10.15-16.37.40:850][202]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.10.15-16.37.40:851][202]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2020.10.15-16.38.06:333][244]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture)
+[2020.10.15-16.38.12:354][945]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture10)
+[2020.10.15-16.38.14:806][224]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture)
+[2020.10.15-16.38.15:288][276]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2020.10.15-16.38.17:281][495]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture)
+[2020.10.15-16.38.35:749][683]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.10.15-16.38.42:664][494]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2020.10.15-16.39.46:307][752]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.10.15-16.39.46:335][752]LogSavePackage: Moving '../../../../../Git project/Labirynt_KrzysztofCh/Saved/Minimal_Default668F5814410317FC596862ABC8CD8141.tmp' to '../../../../../Git project/Labirynt_KrzysztofCh/Content/StarterContent/Maps/Minimal_Default.umap'
+[2020.10.15-16.39.46:381][752]LogSavePackage: Moving '../../../../../Git project/Labirynt_KrzysztofCh/Saved/Minimal_Default_BuiltData1FE387B34077CF3EBA38AC9B86DAE7EE.tmp' to '../../../../../Git project/Labirynt_KrzysztofCh/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2020.10.15-16.39.46:390][752]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.15-16.39.46:390][752]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2020.10.15-16.39.46:390][752]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2020.10.15-16.40.08:473][934]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chair)
+[2020.10.15-16.40.37:450][383]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2020.10.15-16.40.42:303][946]LogEditorViewport: Clicking on Actor (LMB): AmbientSound (Starter_Background_Cue)
+[2020.10.15-16.40.44:514][202]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture10)
+[2020.10.15-16.40.49:367][781]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2020.10.15-16.41.17:783][133]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chair)
+[2020.10.15-16.41.28:965][452]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chair9)
+[2020.10.15-16.41.30:357][616]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chair)
+[2020.10.15-16.41.54:779][456]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.15-16.41.54:785][456]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.15-16.41.54:791][456]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.15-16.41.54:798][456]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.15-16.41.56:690][623]LogSlate: Window 'Viewport 2' being destroyed
+[2020.10.15-16.41.56:694][623]LogSlate: Window 'Viewport 2' being destroyed
+[2020.10.15-16.42.12:782][438]LogSlate: Window 'Details' being destroyed
+[2020.10.15-16.42.59:994][953]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Statue)
+[2020.10.15-16.43.00:756][ 33]LogSlate: Took 0.006320 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.10.15-16.43.06:162][633]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Statue2)
+[2020.10.15-16.43.11:556][245]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Statue)
+[2020.10.15-16.43.18:584][ 32]Cmd: MODE GRID=0
+[2020.10.15-16.43.26:748][995]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.10.15-16.43.28:717][207]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chair8)
+[2020.10.15-16.43.35:674][ 21]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chair9)
+[2020.10.15-16.43.40:038][538]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chair)
+[2020.10.15-16.43.43:861][990]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chair)
+[2020.10.15-16.43.46:318][278]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chair10)
+[2020.10.15-16.43.51:037][827]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Table)
+[2020.10.15-16.43.57:399][562]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.10.15-16.44.33:606][920]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chair10)
+[2020.10.15-16.45.07:939][322]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.10.15-16.45.08:672][404]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chair3)
+[2020.10.15-16.45.16:096][257]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.10.15-16.45.19:406][632]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Statue2)
+[2020.10.15-16.45.31:727][ 84]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.10.15-16.45.33:789][306]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chair11)
+[2020.10.15-16.45.39:217][931]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.10.15-16.46.16:366][937]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chair4)
+[2020.10.15-16.46.35:986][209]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chair5)
+[2020.10.15-16.46.36:951][319]Cmd: DELETE
+[2020.10.15-16.46.36:951][319]Cmd: ACTOR DELETE
+[2020.10.15-16.46.36:952][319]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.10.15-16.46.36:966][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.10.15-16.46.36:967][319]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2020.10.15-16.46.39:753][652]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor4)
+[2020.10.15-16.46.43:531][ 79]Cmd: DELETE
+[2020.10.15-16.46.43:531][ 79]Cmd: ACTOR DELETE
+[2020.10.15-16.46.43:533][ 79]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.10.15-16.46.43:533][ 79]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.10.15-16.46.43:533][ 79]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.10.15-16.46.43:533][ 79]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.10.15-16.46.43:533][ 79]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.10.15-16.46.43:546][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.10.15-16.46.43:547][ 79]LogEditorActor: Deleted 5 Actors (0.016 secs)
+[2020.10.15-16.46.47:022][490]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chair4)
+[2020.10.15-16.47.06:331][747]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Statue3)
+[2020.10.15-16.47.07:482][866]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Statue3)
+[2020.10.15-16.47.13:997][632]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chair4)
+[2020.10.15-16.47.16:250][878]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Statue3)
+[2020.10.15-16.47.18:164][ 96]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Statue3)
+[2020.10.15-16.47.27:724][217]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.10.15-16.47.31:728][672]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.10.15-16.47.31:756][672]LogSavePackage: Moving '../../../../../Git project/Labirynt_KrzysztofCh/Saved/Minimal_Default43A4727D4CCE584F5FD3B1B1C0F98C73.tmp' to '../../../../../Git project/Labirynt_KrzysztofCh/Content/StarterContent/Maps/Minimal_Default.umap'
+[2020.10.15-16.47.31:807][672]LogSavePackage: Moving '../../../../../Git project/Labirynt_KrzysztofCh/Saved/Minimal_Default_BuiltDataD957483C49BC0F6C580C3ABF89EA519C.tmp' to '../../../../../Git project/Labirynt_KrzysztofCh/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2020.10.15-16.47.31:816][672]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.15-16.47.31:816][672]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2020.10.15-16.47.31:816][672]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2020.10.15-16.47.48:576][518]MapCheck: New page: Map Check
+[2020.10.15-16.47.48:592][518]LightingResults: New page: Lighting Build - 15 paź 2020, 20:47:48
+[2020.10.15-16.47.48:681][518]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.10.15-16.47.48:881][518]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.10.15-16.47.48:896][518]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.10.15-16.47.49:417][518]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.10.15-16.47.49:417][518]LogSwarmInterface: [TryOpenConnection] Local Process ID is 117248
+[2020.10.15-16.47.56:350][518]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.10.15-16.47.56:350][518]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.10.15-16.47.56:350][518]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.10.15-16.47.56:350][518]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.10.15-16.47.56:350][518]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.10.15-16.47.56:350][518]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.10.15-16.47.56:622][518]LogEditorBuildUtils: Build time 0:08
+[2020.10.15-16.47.56:628][518]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Metal_Brushed_Nickel, compiling. 
+[2020.10.15-16.47.56:637][518]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Metal_Brushed_Nickel, compiling. 
+[2020.10.15-16.47.56:663][519]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 4
+[2020.10.15-16.47.56:663][519]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 3
+[2020.10.15-16.47.56:663][519]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2020.10.15-16.47.56:663][519]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2020.10.15-16.47.56:667][519]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_TableRound, compiling. 
+[2020.10.15-16.47.56:672][519]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_TableRound, compiling. 
+[2020.10.15-16.47.56:676][519]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Chair, compiling. 
+[2020.10.15-16.47.56:679][519]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Chair, compiling. 
+[2020.10.15-16.47.56:713][520]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 8
+[2020.10.15-16.47.56:713][520]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 7
+[2020.10.15-16.47.56:713][520]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 6
+[2020.10.15-16.47.56:713][520]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 5
+[2020.10.15-16.47.56:713][520]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 4
+[2020.10.15-16.47.56:713][520]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 3
+[2020.10.15-16.47.56:713][520]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2
+[2020.10.15-16.47.56:713][520]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 1
+[2020.10.15-16.47.56:715][520]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_StatueGlass, compiling. 
+[2020.10.15-16.47.56:718][520]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_StatueGlass, compiling. 
+[2020.10.15-16.47.56:721][520]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Metal_Burnished_Steel, compiling. 
+[2020.10.15-16.47.56:725][520]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Metal_Burnished_Steel, compiling. 
+[2020.10.15-16.47.56:766][521]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2020.10.15-16.47.56:769][521]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2020.10.15-16.47.58:463][521]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 12
+[2020.10.15-16.47.58:463][521]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 10
+[2020.10.15-16.47.58:463][521]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2020.10.15-16.47.58:463][521]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 7
+[2020.10.15-16.47.58:463][521]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 6
+[2020.10.15-16.47.58:463][521]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 5
+[2020.10.15-16.47.58:464][521]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 4
+[2020.10.15-16.47.58:464][521]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 3
+[2020.10.15-16.47.58:464][521]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 2
+[2020.10.15-16.47.58:464][521]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 1
+[2020.10.15-16.47.58:661][531]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.10.15-16.48.01:311][677]Job is a success!
+[2020.10.15-16.48.01:457][678]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.012s
+[2020.10.15-16.48.01:457][678]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.10.15-16.48.01:457][678]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb
+[2020.10.15-16.48.01:457][678]LogVolumetricLightmapImport:      Bricks at depth
+[2020.10.15-16.48.01:457][678]LogVolumetricLightmapImport:          0: 10.0% covering 100.0% of volume
+[2020.10.15-16.48.01:457][678]LogVolumetricLightmapImport:          1: 10.0% covering 1.6% of volume
+[2020.10.15-16.48.01:457][678]LogVolumetricLightmapImport:          2: 80.0% covering 0.2% of volume
+[2020.10.15-16.48.01:457][678]LogVolumetricLightmapImport:      Bricks in each level
+[2020.10.15-16.48.01:457][678]LogVolumetricLightmapImport:          Minimal_Default 			 10 bricks 	 100.0% (Persistent Level)
+[2020.10.15-16.48.01:672][678]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 1024X512)
+[2020.10.15-16.48.01:672][678]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2020.10.15-16.48.01:672][678]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2020.10.15-16.48.01:672][678]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 64X32)
+[2020.10.15-16.48.01:672][678]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2020.10.15-16.48.01:672][678]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2020.10.15-16.48.01:959][678]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2020.10.15-16.48.01:959][678]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X512)
+[2020.10.15-16.48.01:959][678]Lightmass on DESKTOP-LS7VSUN: 2.12 sec total, 162 ms importing, 34 ms setup, 424 ms photons, 1.32 sec processing, 0 ms extra exporting [19/19 mappings]. Threads: 19.9 sec total, 6.28 sec processing.
+[2020.10.15-16.48.01:996][678]LogStaticLightingSystem: Minimal_Default_BuiltData storing lightmap data for 19 meshes in 2 LightmapResourceClusters (9.5 Meshes per cluster).
+[2020.10.15-16.48.02:012][678]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.10.15-16.48.02:024][678]LogStaticLightingSystem: Illumination: 13.4 sec (218 ms encoding lightmaps, 95 ms encoding shadowmaps)
+[2020.10.15-16.48.02:024][678]LogStaticLightingSystem: Lightmap texture memory:  2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 4 textures
+[2020.10.15-16.48.02:025][678]LogStaticLightingSystem: Shadowmap texture memory: 0.7 MB (0.7 MB streaming, 0.0 MB non-streaming), 2 textures
+[2020.10.15-16.48.07:368][678]DumpUnbuiltLightIteractions
+[2020.10.15-16.48.07:368][678]Lights with unbuilt interactions: 0
+[2020.10.15-16.48.07:368][678]
+[2020.10.15-16.48.07:368][678]Primitives with unbuilt interactions: 0
+[2020.10.15-16.48.07:450][679]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.10.15-16.48.07:450][679]MapCheck: New page: Minimal_Default - 15 paź 2020, 20:48:07
+[2020.10.15-16.48.07:452][679]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2,013ms to complete.
+[2020.10.15-16.48.08:713][827]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.10.15-16.48.08:735][827]LogSavePackage: Moving '../../../../../Git project/Labirynt_KrzysztofCh/Saved/Minimal_Default419794D54EEDD411190F75A7F99241EA.tmp' to '../../../../../Git project/Labirynt_KrzysztofCh/Content/StarterContent/Maps/Minimal_Default.umap'
+[2020.10.15-16.48.08:804][827]LogSavePackage: Moving '../../../../../Git project/Labirynt_KrzysztofCh/Saved/Minimal_Default_BuiltData7479F80F4296FB37B70DEEA33466BD27.tmp' to '../../../../../Git project/Labirynt_KrzysztofCh/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2020.10.15-16.48.08:813][827]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.15-16.48.08:813][827]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2020.10.15-16.48.08:813][827]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2020.10.15-16.48.34:323][851]Cmd: EDIT COPY
+[2020.10.15-16.48.34:650][890]Cmd: EDIT PASTE
+[2020.10.15-16.49.03:508][297]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2020.10.15-16.49.22:415][536]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2020.10.15-16.49.51:774][ 27]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2020.10.15-16.49.58:871][873]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.10.15-16.49.59:934][997]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2020.10.15-16.50.05:932][694]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.10.15-16.50.11:958][403]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.10.15-16.50.13:964][627]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.10.15-16.50.13:988][627]LogSavePackage: Moving '../../../../../Git project/Labirynt_KrzysztofCh/Saved/Minimal_Default291A3C74429644EBBDFC439C87387C64.tmp' to '../../../../../Git project/Labirynt_KrzysztofCh/Content/StarterContent/Maps/Minimal_Default.umap'
+[2020.10.15-16.50.14:051][627]LogSavePackage: Moving '../../../../../Git project/Labirynt_KrzysztofCh/Saved/Minimal_Default_BuiltData590CFF2D4E8DB301347A53B95A917A2D.tmp' to '../../../../../Git project/Labirynt_KrzysztofCh/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2020.10.15-16.50.14:062][627]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.15-16.50.14:062][627]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2020.10.15-16.50.14:062][627]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2020.10.15-16.50.17:511][ 17]MapCheck: New page: Map Check
+[2020.10.15-16.50.17:524][ 17]LightingResults: New page: Lighting Build - 15 paź 2020, 20:50:17
+[2020.10.15-16.50.17:530][ 17]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.10.15-16.50.17:537][ 17]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.10.15-16.50.17:537][ 17]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.10.15-16.50.17:538][ 17]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.10.15-16.50.17:538][ 17]LogSwarmInterface: [TryOpenConnection] Local Process ID is 117248
+[2020.10.15-16.50.22:106][ 17]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.10.15-16.50.22:107][ 17]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.10.15-16.50.22:107][ 17]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.10.15-16.50.22:107][ 17]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.10.15-16.50.22:107][ 17]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.10.15-16.50.22:107][ 17]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.10.15-16.50.22:272][ 17]LogEditorBuildUtils: Build time 0:04
+[2020.10.15-16.50.22:312][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.10.15-16.50.24:458][178]Job is a success!
+[2020.10.15-16.50.24:610][179]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.011s
+[2020.10.15-16.50.24:610][179]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.10.15-16.50.24:610][179]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb
+[2020.10.15-16.50.24:610][179]LogVolumetricLightmapImport:      Bricks at depth
+[2020.10.15-16.50.24:610][179]LogVolumetricLightmapImport:          0: 10.0% covering 100.0% of volume
+[2020.10.15-16.50.24:610][179]LogVolumetricLightmapImport:          1: 10.0% covering 1.6% of volume
+[2020.10.15-16.50.24:610][179]LogVolumetricLightmapImport:          2: 80.0% covering 0.2% of volume
+[2020.10.15-16.50.24:610][179]LogVolumetricLightmapImport:      Bricks in each level
+[2020.10.15-16.50.24:610][179]LogVolumetricLightmapImport:          Minimal_Default 			 10 bricks 	 100.0% (Persistent Level)
+[2020.10.15-16.50.24:827][179]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2020.10.15-16.50.24:827][179]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2020.10.15-16.50.24:827][179]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2020.10.15-16.50.24:827][179]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 64X32)
+[2020.10.15-16.50.24:827][179]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2020.10.15-16.50.24:827][179]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2020.10.15-16.50.24:964][179]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 32X32)
+[2020.10.15-16.50.24:964][179]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 1024X512)
+[2020.10.15-16.50.24:964][179]LogStaticLightingSystem: Minimal_Default_BuiltData storing lightmap data for 19 meshes in 2 LightmapResourceClusters (9.5 Meshes per cluster).
+[2020.10.15-16.50.24:980][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.10.15-16.50.25:011][179]Lightmass on DESKTOP-LS7VSUN: 2.25 sec total, 150 ms importing, 33 ms setup, 511 ms photons, 1.51 sec processing, 0 ms extra exporting [19/19 mappings]. Threads: 22.6 sec total, 6.75 sec processing.
+[2020.10.15-16.50.25:018][179]LogStaticLightingSystem: Illumination: 7.43 sec (227 ms encoding lightmaps, 99 ms encoding shadowmaps)
+[2020.10.15-16.50.25:018][179]LogStaticLightingSystem: Lightmap texture memory:  2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 4 textures
+[2020.10.15-16.50.25:018][179]LogStaticLightingSystem: Shadowmap texture memory: 2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 2 textures
+[2020.10.15-16.50.25:131][179]DumpUnbuiltLightIteractions
+[2020.10.15-16.50.25:131][179]Lights with unbuilt interactions: 0
+[2020.10.15-16.50.25:131][179]
+[2020.10.15-16.50.25:131][179]Primitives with unbuilt interactions: 0
+[2020.10.15-16.50.25:224][180]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.10.15-16.50.25:224][180]MapCheck: New page: Minimal_Default - 15 paź 2020, 20:50:25
+[2020.10.15-16.50.25:224][180]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,319ms to complete.
+[2020.10.15-16.51.17:826][413]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.10.15-16.51.22:651][982]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.10.15-16.51.22:676][982]LogSavePackage: Moving '../../../../../Git project/Labirynt_KrzysztofCh/Saved/Minimal_DefaultF0993AC5472780561767F8B490198827.tmp' to '../../../../../Git project/Labirynt_KrzysztofCh/Content/StarterContent/Maps/Minimal_Default.umap'
+[2020.10.15-16.51.22:752][982]LogSavePackage: Moving '../../../../../Git project/Labirynt_KrzysztofCh/Saved/Minimal_Default_BuiltDataCF2DD6D547E48FEB005F4A935F155A44.tmp' to '../../../../../Git project/Labirynt_KrzysztofCh/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2020.10.15-16.51.22:762][982]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.15-16.51.22:762][982]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2020.10.15-16.51.22:762][982]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2020.10.15-16.51.59:614][365]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chair)
+[2020.10.15-16.52.02:413][689]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.10.15-16.53.00:441][515]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2020.10.15-16.53.03:642][882]Cmd: TRANSACTION UNDO
+[2020.10.15-16.53.03:642][882]LogEditorTransaction: Undo Clicking on Actors
+[2020.10.15-16.53.03:986][891]Cmd: TRANSACTION UNDO
+[2020.10.15-16.53.03:986][891]LogEditorTransaction: Undo Move Actors
+[2020.10.15-16.53.04:945][989]Cmd: TRANSACTION UNDO
+[2020.10.15-16.53.04:945][989]LogEditorTransaction: Undo Clicking on Actors
+[2020.10.15-16.53.05:633][ 64]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2020.10.15-16.53.06:325][146]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2020.10.15-16.53.06:983][224]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2020.10.15-16.53.07:559][292]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Statue2)
+[2020.10.15-16.53.10:193][585]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.10.15-16.53.10:655][637]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2020.10.15-16.53.59:116][401]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2020.10.15-16.53.59:673][462]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2020.10.15-16.54.00:398][548]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2020.10.15-16.54.12:318][945]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.10.15-16.54.17:760][584]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor3)
+[2020.10.15-16.54.39:594][170]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.10.15-16.54.53:037][756]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.10.15-16.54.54:682][950]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.10.15-16.55.01:803][789]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2020.10.15-16.55.01:832][789]LogSavePackage: Moving '../../../../../Git project/Labirynt_KrzysztofCh/Saved/Minimal_DefaultDE5C30614453516E35D104A1ABC6DD71.tmp' to '../../../../../Git project/Labirynt_KrzysztofCh/Content/StarterContent/Maps/Minimal_Default.umap'
+[2020.10.15-16.55.01:926][789]LogSavePackage: Moving '../../../../../Git project/Labirynt_KrzysztofCh/Saved/Minimal_Default_BuiltDataC87DE7404E9833EB4F295494E53422F4.tmp' to '../../../../../Git project/Labirynt_KrzysztofCh/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2020.10.15-16.55.01:937][789]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.15-16.55.01:937][789]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2020.10.15-16.55.01:937][789]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2020.10.15-16.55.02:704][878]MapCheck: New page: Map Check
+[2020.10.15-16.55.02:712][878]Cmd: MAP REBUILD ALLVISIBLE
+[2020.10.15-16.55.02:713][878]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.10.15-16.55.02:716][878]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=false
+[2020.10.15-16.55.02:723][878]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2020.10.15-16.55.02:723][878]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2020.10.15-16.55.02:723][878]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2020.10.15-16.55.02:737][878]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.10.15-16.55.02:742][878]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.10.15-16.55.02:745][878]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.10.15-16.55.02:747][878]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.10.15-16.55.02:748][878]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.10.15-16.55.02:750][878]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 6
+[2020.10.15-16.55.02:750][878]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 5
+[2020.10.15-16.55.02:750][878]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 4
+[2020.10.15-16.55.02:750][878]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 3
+[2020.10.15-16.55.02:750][878]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 2
+[2020.10.15-16.55.02:750][878]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 1
+[2020.10.15-16.55.02:750][878]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.10.15-16.55.02:751][878]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.10.15-16.55.03:335][878]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 6
+[2020.10.15-16.55.03:335][878]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 5
+[2020.10.15-16.55.03:335][878]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 4
+[2020.10.15-16.55.03:335][878]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 3
+[2020.10.15-16.55.03:335][878]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2
+[2020.10.15-16.55.03:335][878]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 1
+[2020.10.15-16.55.03:335][878]TextureStreamingBuild: Display: Compiling optional shaders took 0.597 seconds.
+[2020.10.15-16.55.03:377][878]LogLevel: Display: Export Material TexCoord Scales took 0.042 seconds.
+[2020.10.15-16.55.03:379][878]TextureStreamingBuild: Display: Build Texture Streaming took 0.002 seconds.
+[2020.10.15-16.55.03:391][878]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.10.15-16.55.03:394][878]LightingResults: New page: Lighting Build - 15 paź 2020, 20:55:03
+[2020.10.15-16.55.03:399][878]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.10.15-16.55.03:412][878]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.10.15-16.55.03:412][878]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.10.15-16.55.03:413][878]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.10.15-16.55.03:413][878]LogSwarmInterface: [TryOpenConnection] Local Process ID is 117248
+[2020.10.15-16.55.07:989][878]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.10.15-16.55.07:989][878]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.10.15-16.55.07:989][878]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.10.15-16.55.07:989][878]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.10.15-16.55.07:989][878]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.10.15-16.55.07:989][878]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.10.15-16.55.08:164][878]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.10.15-16.55.08:164][878]MapCheck: New page: Minimal_Default - 15 paź 2020, 20:55:08
+[2020.10.15-16.55.08:165][878]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2020.10.15-16.55.08:165][878]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 0,372ms to complete.
+[2020.10.15-16.55.08:166][878]LogEditorBuildUtils: Build time 0:05
+[2020.10.15-16.55.08:340][878]LogSlate: Took 0.006422 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.10.15-16.55.08:457][880]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.10.15-16.55.10:748][ 50]Job is a success!
+[2020.10.15-16.55.10:896][ 51]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.008s
+[2020.10.15-16.55.10:896][ 51]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.10.15-16.55.10:896][ 51]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb
+[2020.10.15-16.55.10:896][ 51]LogVolumetricLightmapImport:      Bricks at depth
+[2020.10.15-16.55.10:896][ 51]LogVolumetricLightmapImport:          0: 10.0% covering 100.0% of volume
+[2020.10.15-16.55.10:896][ 51]LogVolumetricLightmapImport:          1: 10.0% covering 1.6% of volume
+[2020.10.15-16.55.10:896][ 51]LogVolumetricLightmapImport:          2: 80.0% covering 0.2% of volume
+[2020.10.15-16.55.10:896][ 51]LogVolumetricLightmapImport:      Bricks in each level
+[2020.10.15-16.55.10:896][ 51]LogVolumetricLightmapImport:          Minimal_Default 			 10 bricks 	 100.0% (Persistent Level)
+[2020.10.15-16.55.11:119][ 51]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 1024X512)
+[2020.10.15-16.55.11:120][ 51]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2020.10.15-16.55.11:120][ 51]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2020.10.15-16.55.11:120][ 51]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2020.10.15-16.55.11:120][ 51]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2020.10.15-16.55.11:120][ 51]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 64X32)
+[2020.10.15-16.55.11:254][ 51]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 32X32)
+[2020.10.15-16.55.11:254][ 51]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (BGRA8, 1024X512)
+[2020.10.15-16.55.11:254][ 51]LogStaticLightingSystem: Minimal_Default_BuiltData storing lightmap data for 19 meshes in 2 LightmapResourceClusters (9.5 Meshes per cluster).
+[2020.10.15-16.55.11:269][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.10.15-16.55.11:299][ 51]Lightmass on DESKTOP-LS7VSUN: 2.34 sec total, 145 ms importing, 51 ms setup, 395 ms photons, 1.69 sec processing, 0 ms extra exporting [19/19 mappings]. Threads: 25.4 sec total, 6.45 sec processing.
+[2020.10.15-16.55.11:307][ 51]LogStaticLightingSystem: Illumination: 7.85 sec (232 ms encoding lightmaps, 100 ms encoding shadowmaps)
+[2020.10.15-16.55.11:307][ 51]LogStaticLightingSystem: Lightmap texture memory:  2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 4 textures
+[2020.10.15-16.55.11:307][ 51]LogStaticLightingSystem: Shadowmap texture memory: 2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 2 textures
+[2020.10.15-16.55.12:029][ 51]DumpUnbuiltLightIteractions
+[2020.10.15-16.55.12:029][ 51]Lights with unbuilt interactions: 0
+[2020.10.15-16.55.12:029][ 51]
+[2020.10.15-16.55.12:029][ 51]Primitives with unbuilt interactions: 0
+[2020.10.15-16.55.12:108][ 52]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.10.15-16.55.12:109][ 52]MapCheck: New page: Minimal_Default - 15 paź 2020, 20:55:12
+[2020.10.15-16.55.12:109][ 52]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,313ms to complete.
+[2020.10.15-16.55.14:334][319]LogSlate: Window 'Message Log' being destroyed
+[2020.10.15-16.55.14:337][319]LogSlate: Window 'Message Log' being destroyed
+[2020.10.15-16.55.33:678][625]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.10.15-16.56.31:408][389]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.10.15-16.56.34:651][776]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.10.15-16.56.37:820][155]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.10.15-16.56.46:322][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.10.15-16.56.46:345][169]LogSavePackage: Moving '../../../../../Git project/Labirynt_KrzysztofCh/Saved/Minimal_Default6269680B4B870C29FBEC5FAA22F5D09A.tmp' to '../../../../../Git project/Labirynt_KrzysztofCh/Content/StarterContent/Maps/Minimal_Default.umap'
+[2020.10.15-16.56.46:420][169]LogSavePackage: Moving '../../../../../Git project/Labirynt_KrzysztofCh/Saved/Minimal_Default_BuiltData0AC7F0634E1EB9715A8B4F8E36763969.tmp' to '../../../../../Git project/Labirynt_KrzysztofCh/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2020.10.15-16.56.46:428][169]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.15-16.56.46:428][169]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2020.10.15-16.56.46:428][169]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2020.10.15-17.01.36:912][789]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.10.15-17.03.28:044][478]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
