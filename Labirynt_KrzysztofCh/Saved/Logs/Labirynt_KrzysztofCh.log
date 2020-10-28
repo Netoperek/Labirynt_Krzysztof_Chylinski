@@ -1634,3 +1634,1262 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.10.28-21.30.05:253][363]AssetCheck: New page: Asset Save: multiple assets
 [2020.10.28-21.30.05:253][363]LogContentValidation: Display: Validating World /Game/Task/Task_2/Scene/Level_1.Level_1
 [2020.10.28-21.30.05:253][363]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Task/Task_2/Scene/Level_1_BuiltData.Level_1_BuiltData
+[2020.10.28-21.34.03:001][466]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.28-21.34.03:020][466]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.28-21.34.03:020][466]PIE: New page: PIE session: Level_1 (28 paź 2020, 23:34:03)
+[2020.10.28-21.34.03:020][466]LogPlayLevel: Creating play world package: /Game/Task/Task_2/Scene/UEDPIE_0_Level_1
+[2020.10.28-21.34.03:024][466]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003325s)
+[2020.10.28-21.34.03:025][466]LogAIModule: Creating AISystem for world Level_1
+[2020.10.28-21.34.03:025][466]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000217D5E34400), frame # 229466
+[2020.10.28-21.34.03:025][466]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000021834A7F100), frame # 229466
+[2020.10.28-21.34.03:025][466]LogPlayLevel: PIE: World Init took: (0.001399s)
+[2020.10.28-21.34.03:025][466]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Task/Task_2/Scene/Level_1.Level_1 to /Game/Task/Task_2/Scene/UEDPIE_0_Level_1.Level_1 (0.004847s)
+[2020.10.28-21.34.03:050][466]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2020.10.28-21.34.03:053][466]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.28-21.34.03:053][466]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.28-21.34.03:053][466]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.28-21.34.03:053][466]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.28-21.34.03:053][466]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.28-21.34.03:053][466]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.28-21.34.03:053][466]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.28-21.34.03:053][466]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.28-21.34.03:053][466]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.28-21.34.03:053][466]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.28-21.34.03:077][466]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.28-21.34.03:077][466]LogAudioMixer: Display: 1: FrontRight
+[2020.10.28-21.34.03:089][466]LogAudioMixer: Display: Using Audio Device BenQ GW2450H (NVIDIA High Definition Audio)
+[2020.10.28-21.34.03:089][466]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.28-21.34.03:089][466]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.28-21.34.03:089][466]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.28-21.34.03:090][466]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.28-21.34.03:104][466]LogInit: FAudioDevice initialized.
+[2020.10.28-21.34.03:114][466]LogLoad: Game class is 'GameModeBase'
+[2020.10.28-21.34.03:115][466]LogWorld: Bringing World /Game/Task/Task_2/Scene/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2020.10.28-22.34.03
+[2020.10.28-21.34.03:115][466]LogWorld: Bringing up level for play took: 0.000460
+[2020.10.28-21.34.03:115][466]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2020.10.28-21.34.03:117][466]PIE: Server logged in
+[2020.10.28-21.34.03:117][466]PIE: Play in editor total start time 0,098 seconds.
+[2020.10.28-21.34.57:703][  8]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.28-21.34.57:704][  8]LogWorld: BeginTearingDown for /Game/Task/Task_2/Scene/UEDPIE_0_Level_1
+[2020.10.28-21.34.57:704][  8]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2020.10.28-21.34.57:704][  8]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.28-21.34.57:714][  8]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.28-21.34.57:717][  8]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.28-21.34.57:738][  8]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.28-21.34.57:753][  8]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000021834A7F100), frame # 236008
+[2020.10.28-21.34.57:753][  8]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000217D5E34400), frame # 236008
+[2020.10.28-21.34.57:755][  8]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2020.10.28-21.34.57:786][  9]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2020.10.28-21.36.38:665][708]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.10.28-21.42.21:892][710]LogActorFactory: Actor Factory created Shape_Sphere
+[2020.10.28-21.42.22:607][786]LogActorFactory: Actor Factory created Shape_Sphere
+[2020.10.28-21.42.32:879][980]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Task/Task_2/Scene/Level_1" FILE="../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.28-21.42.32:908][980]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2020.10.28-21.42.32:942][980]LogSavePackage: Moving '../../../../../Git project/Labirynt_KrzysztofCh/Saved/Level_1C9EB8B70445F3B483C365093AEDEFDCC.tmp' to '../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap'
+[2020.10.28-21.42.33:049][980]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Task/Task_2/Scene/Level_1_BuiltData" FILE="../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1_BuiltData.uasset" SILENT=true
+[2020.10.28-21.42.33:069][980]LogSavePackage: Moving '../../../../../Git project/Labirynt_KrzysztofCh/Saved/Level_1_BuiltData600608C144FD5118E452668C6A91BEEC.tmp' to '../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1_BuiltData.uasset'
+[2020.10.28-21.42.33:082][980]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.28-21.42.33:082][980]LogContentValidation: Display: Validating World /Game/Task/Task_2/Scene/Level_1.Level_1
+[2020.10.28-21.42.33:082][980]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Task/Task_2/Scene/Level_1_BuiltData.Level_1_BuiltData
+[2020.10.28-21.42.46:747][595]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.10.28-21.45.06:171][543]LogSlate: Window 'Choose New StaticMesh Location' being destroyed
+[2020.10.28-21.45.06:197][543]LogStaticMesh: Building static mesh Ball...
+[2020.10.28-21.45.06:203][543]LogStaticMesh: Built static mesh [0.01s] /Game/Task/Task_3/Ball.Ball
+[2020.10.28-21.45.09:493][876]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Task/Task_3/Ball" FILE="../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_3/Ball.uasset" SILENT=true
+[2020.10.28-21.45.09:510][876]LogSavePackage: Moving '../../../../../Git project/Labirynt_KrzysztofCh/Saved/BallD37E25FC4B40AA74B01730BF7769793E.tmp' to '../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_3/Ball.uasset'
+[2020.10.28-21.45.09:664][876]AssetCheck: New page: Asset Save: Ball
+[2020.10.28-21.45.09:664][876]LogContentValidation: Display: Validating StaticMesh /Game/Task/Task_3/Ball.Ball
+[2020.10.28-21.47.32:367][ 37]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.10.28-21.47.45:518][242]Cmd: TRANSACTION UNDO
+[2020.10.28-21.47.45:518][242]LogEditorTransaction: Undo Edit Static Mesh
+[2020.10.28-21.48.53:202][240]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ball)
+[2020.10.28-21.49.00:202][989]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.10.28-21.49.10:200][737]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ball)
+[2020.10.28-21.49.15:827][354]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.10.28-21.49.22:541][113]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ball)
+[2020.10.28-21.49.33:451][409]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.28-21.49.33:466][409]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.28-21.49.33:466][409]PIE: New page: PIE session: Level_1 (28 paź 2020, 23:49:33)
+[2020.10.28-21.49.33:466][409]LogPlayLevel: Creating play world package: /Game/Task/Task_2/Scene/UEDPIE_0_Level_1
+[2020.10.28-21.49.33:469][409]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003643s)
+[2020.10.28-21.49.33:471][409]LogAIModule: Creating AISystem for world Level_1
+[2020.10.28-21.49.33:471][409]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000021835BF4800), frame # 283409
+[2020.10.28-21.49.33:471][409]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000021863C5EC00), frame # 283409
+[2020.10.28-21.49.33:472][409]LogPlayLevel: PIE: World Init took: (0.001982s)
+[2020.10.28-21.49.33:472][409]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Task/Task_2/Scene/Level_1.Level_1 to /Game/Task/Task_2/Scene/UEDPIE_0_Level_1.Level_1 (0.005777s)
+[2020.10.28-21.49.33:540][409]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2020.10.28-21.49.33:544][409]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.28-21.49.33:544][409]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.28-21.49.33:544][409]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.28-21.49.33:544][409]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.28-21.49.33:544][409]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.28-21.49.33:544][409]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.28-21.49.33:544][409]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.28-21.49.33:544][409]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.28-21.49.33:545][409]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.28-21.49.33:545][409]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.28-21.49.33:546][409]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.28-21.49.33:546][409]LogAudioMixer: Display: 1: FrontRight
+[2020.10.28-21.49.33:557][409]LogAudioMixer: Display: Using Audio Device BenQ GW2450H (NVIDIA High Definition Audio)
+[2020.10.28-21.49.33:558][409]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.28-21.49.33:558][409]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.28-21.49.33:558][409]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.28-21.49.33:558][409]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.28-21.49.33:572][409]LogInit: FAudioDevice initialized.
+[2020.10.28-21.49.33:580][409]LogLoad: Game class is 'GameModeBase'
+[2020.10.28-21.49.33:581][409]LogWorld: Bringing World /Game/Task/Task_2/Scene/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2020.10.28-22.49.33
+[2020.10.28-21.49.33:581][409]LogWorld: Bringing up level for play took: 0.000489
+[2020.10.28-21.49.33:581][409]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2020.10.28-21.49.33:583][409]PIE: Server logged in
+[2020.10.28-21.49.33:584][409]PIE: Play in editor total start time 0,119 seconds.
+[2020.10.28-21.49.40:698][252]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.28-21.49.40:698][252]LogWorld: BeginTearingDown for /Game/Task/Task_2/Scene/UEDPIE_0_Level_1
+[2020.10.28-21.49.40:698][252]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2020.10.28-21.49.40:698][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.28-21.49.40:708][252]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.28-21.49.40:711][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.28-21.49.40:731][252]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.28-21.49.40:746][252]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000021835BF4800), frame # 284252
+[2020.10.28-21.49.40:746][252]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000021863C5EC00), frame # 284252
+[2020.10.28-21.49.40:749][252]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2020.10.28-21.49.40:778][253]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2020.10.28-21.49.41:886][384]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.28-21.49.41:900][384]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.28-21.49.41:900][384]PIE: New page: PIE session: Level_1 (28 paź 2020, 23:49:41)
+[2020.10.28-21.49.41:927][384]LogPlayLevel: Creating play world package: /Game/Task/Task_2/Scene/UEDPIE_0_Level_1
+[2020.10.28-21.49.41:930][384]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003179s)
+[2020.10.28-21.49.41:931][384]LogAIModule: Creating AISystem for world Level_1
+[2020.10.28-21.49.41:931][384]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000021863A86600), frame # 284384
+[2020.10.28-21.49.41:931][384]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000021810F49940), frame # 284384
+[2020.10.28-21.49.41:931][384]LogPlayLevel: PIE: World Init took: (0.001083s)
+[2020.10.28-21.49.41:931][384]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Task/Task_2/Scene/Level_1.Level_1 to /Game/Task/Task_2/Scene/UEDPIE_0_Level_1.Level_1 (0.004398s)
+[2020.10.28-21.49.41:953][384]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2020.10.28-21.49.41:954][384]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.28-21.49.41:955][384]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.28-21.49.41:955][384]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.28-21.49.41:955][384]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.28-21.49.41:955][384]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.28-21.49.41:955][384]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.28-21.49.41:955][384]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.28-21.49.41:955][384]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.28-21.49.41:955][384]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.28-21.49.41:955][384]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.28-21.49.41:957][384]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.28-21.49.41:957][384]LogAudioMixer: Display: 1: FrontRight
+[2020.10.28-21.49.41:966][384]LogAudioMixer: Display: Using Audio Device BenQ GW2450H (NVIDIA High Definition Audio)
+[2020.10.28-21.49.41:966][384]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.28-21.49.41:966][384]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.28-21.49.41:966][384]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.28-21.49.41:967][384]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.28-21.49.41:977][384]LogInit: FAudioDevice initialized.
+[2020.10.28-21.49.41:983][384]LogLoad: Game class is 'GameModeBase'
+[2020.10.28-21.49.41:984][384]LogWorld: Bringing World /Game/Task/Task_2/Scene/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2020.10.28-22.49.41
+[2020.10.28-21.49.41:984][384]LogWorld: Bringing up level for play took: 0.000466
+[2020.10.28-21.49.41:984][384]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2020.10.28-21.49.41:986][384]PIE: Server logged in
+[2020.10.28-21.49.41:987][384]PIE: Play in editor total start time 0,087 seconds.
+[2020.10.28-21.49.49:388][268]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.28-21.49.49:388][268]LogWorld: BeginTearingDown for /Game/Task/Task_2/Scene/UEDPIE_0_Level_1
+[2020.10.28-21.49.49:388][268]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2020.10.28-21.49.49:388][268]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.28-21.49.49:392][268]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.28-21.49.49:396][268]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.28-21.49.49:417][268]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.28-21.49.49:431][268]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000021810F49940), frame # 285268
+[2020.10.28-21.49.49:431][268]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000021863A86600), frame # 285268
+[2020.10.28-21.49.49:433][268]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2020.10.28-21.49.49:494][270]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2020.10.28-21.49.52:654][636]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Task/Task_2/Scene/Level_1" FILE="../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.28-21.49.52:677][636]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2020.10.28-21.49.52:705][636]LogSavePackage: Moving '../../../../../Git project/Labirynt_KrzysztofCh/Saved/Level_116220C0B46216C7CE6CC37AB58234A08.tmp' to '../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap'
+[2020.10.28-21.49.52:821][636]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Task/Task_2/Scene/Level_1_BuiltData" FILE="../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1_BuiltData.uasset" SILENT=true
+[2020.10.28-21.49.52:838][636]LogSavePackage: Moving '../../../../../Git project/Labirynt_KrzysztofCh/Saved/Level_1_BuiltDataEA5163E2479977572B802686C89A9BAA.tmp' to '../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1_BuiltData.uasset'
+[2020.10.28-21.49.52:849][636]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.28-21.49.52:849][636]LogContentValidation: Display: Validating World /Game/Task/Task_2/Scene/Level_1.Level_1
+[2020.10.28-21.49.52:849][636]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Task/Task_2/Scene/Level_1_BuiltData.Level_1_BuiltData
+[2020.10.28-21.50.45:804][873]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Task/Task_2/Scene/Level_1" FILE="../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.28-21.50.45:826][873]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.10.28-21.50.45:851][873]LogSavePackage: Moving '../../../../../Git project/Labirynt_KrzysztofCh/Saved/Level_1D7C7405F47DF63BEFA4424AACCFBC951.tmp' to '../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap'
+[2020.10.28-21.50.45:875][873]LogFileHelpers: Saving map 'Level_1' took 0.071
+[2020.10.28-21.50.45:887][873]AssetCheck: New page: Asset Save: Level_1
+[2020.10.28-21.50.45:887][873]LogContentValidation: Display: Validating World /Game/Task/Task_2/Scene/Level_1.Level_1
+[2020.10.28-21.50.46:577][936]BlueprintLog: New page: Compile Level_1
+[2020.10.28-21.50.46:614][936]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2020.10.28-21.50.47:221][991]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Task/Task_2/Scene/Level_1" FILE="../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.28-21.50.47:242][991]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2020.10.28-21.50.47:266][991]LogSavePackage: Moving '../../../../../Git project/Labirynt_KrzysztofCh/Saved/Level_161A115514F209081D07B22B4446FDA70.tmp' to '../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap'
+[2020.10.28-21.50.47:291][991]LogFileHelpers: Saving map 'Level_1' took 0.070
+[2020.10.28-21.50.47:300][991]AssetCheck: New page: Asset Save: Level_1
+[2020.10.28-21.50.47:300][991]LogContentValidation: Display: Validating World /Game/Task/Task_2/Scene/Level_1.Level_1
+[2020.10.28-21.50.49:350][214]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.28-21.50.49:364][214]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.28-21.50.49:364][214]PIE: New page: PIE session: Level_1 (28 paź 2020, 23:50:49)
+[2020.10.28-21.50.49:364][214]LogPlayLevel: Creating play world package: /Game/Task/Task_2/Scene/UEDPIE_0_Level_1
+[2020.10.28-21.50.49:367][214]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002738s)
+[2020.10.28-21.50.49:368][214]LogAIModule: Creating AISystem for world Level_1
+[2020.10.28-21.50.49:368][214]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002182E747E00), frame # 288214
+[2020.10.28-21.50.49:368][214]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002180DFF9A80), frame # 288214
+[2020.10.28-21.50.49:368][214]LogPlayLevel: PIE: World Init took: (0.001175s)
+[2020.10.28-21.50.49:368][214]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Task/Task_2/Scene/Level_1.Level_1 to /Game/Task/Task_2/Scene/UEDPIE_0_Level_1.Level_1 (0.004022s)
+[2020.10.28-21.50.49:387][214]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2020.10.28-21.50.49:389][214]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.28-21.50.49:389][214]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.28-21.50.49:389][214]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.28-21.50.49:389][214]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.28-21.50.49:389][214]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.28-21.50.49:389][214]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.28-21.50.49:389][214]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.28-21.50.49:389][214]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.28-21.50.49:389][214]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.28-21.50.49:389][214]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.28-21.50.49:391][214]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.28-21.50.49:391][214]LogAudioMixer: Display: 1: FrontRight
+[2020.10.28-21.50.49:401][214]LogAudioMixer: Display: Using Audio Device BenQ GW2450H (NVIDIA High Definition Audio)
+[2020.10.28-21.50.49:401][214]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.28-21.50.49:401][214]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.28-21.50.49:401][214]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.28-21.50.49:402][214]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.28-21.50.49:412][214]LogInit: FAudioDevice initialized.
+[2020.10.28-21.50.49:418][214]LogLoad: Game class is 'GameModeBase'
+[2020.10.28-21.50.49:419][214]LogWorld: Bringing World /Game/Task/Task_2/Scene/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2020.10.28-22.50.49
+[2020.10.28-21.50.49:420][214]LogWorld: Bringing up level for play took: 0.000619
+[2020.10.28-21.50.49:420][214]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2020.10.28-21.50.49:421][214]PIE: Server logged in
+[2020.10.28-21.50.49:422][214]PIE: Play in editor total start time 0,059 seconds.
+[2020.10.28-21.51.02:768][811]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.28-21.51.02:769][811]LogWorld: BeginTearingDown for /Game/Task/Task_2/Scene/UEDPIE_0_Level_1
+[2020.10.28-21.51.02:769][811]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2020.10.28-21.51.02:769][811]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.28-21.51.02:774][811]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.28-21.51.02:777][811]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.28-21.51.02:797][811]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.28-21.51.02:811][811]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002180DFF9A80), frame # 289811
+[2020.10.28-21.51.02:811][811]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002182E747E00), frame # 289811
+[2020.10.28-21.51.02:814][811]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2020.10.28-21.51.02:843][812]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2020.10.28-21.51.47:384][130]Cmd: STAT FPS
+[2020.10.28-21.51.49:027][323]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.10.28-21.51.54:254][939]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.28-21.51.54:269][939]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.28-21.51.54:269][939]PIE: New page: PIE session: Level_1 (28 paź 2020, 23:51:54)
+[2020.10.28-21.51.54:269][939]LogPlayLevel: Creating play world package: /Game/Task/Task_2/Scene/UEDPIE_0_Level_1
+[2020.10.28-21.51.54:271][939]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002726s)
+[2020.10.28-21.51.54:272][939]LogAIModule: Creating AISystem for world Level_1
+[2020.10.28-21.51.54:272][939]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000021812FE3000), frame # 291939
+[2020.10.28-21.51.54:272][939]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002180C3D9F80), frame # 291939
+[2020.10.28-21.51.54:273][939]LogPlayLevel: PIE: World Init took: (0.001070s)
+[2020.10.28-21.51.54:273][939]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Task/Task_2/Scene/Level_1.Level_1 to /Game/Task/Task_2/Scene/UEDPIE_0_Level_1.Level_1 (0.003904s)
+[2020.10.28-21.51.54:295][939]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2020.10.28-21.51.54:298][939]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.28-21.51.54:298][939]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.28-21.51.54:298][939]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.28-21.51.54:298][939]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.28-21.51.54:298][939]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.28-21.51.54:298][939]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.28-21.51.54:298][939]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.28-21.51.54:298][939]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.28-21.51.54:299][939]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.28-21.51.54:299][939]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.28-21.51.54:301][939]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.28-21.51.54:301][939]LogAudioMixer: Display: 1: FrontRight
+[2020.10.28-21.51.54:311][939]LogAudioMixer: Display: Using Audio Device BenQ GW2450H (NVIDIA High Definition Audio)
+[2020.10.28-21.51.54:311][939]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.28-21.51.54:311][939]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.28-21.51.54:311][939]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.28-21.51.54:312][939]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.28-21.51.54:323][939]LogInit: FAudioDevice initialized.
+[2020.10.28-21.51.54:333][939]LogLoad: Game class is 'GameModeBase'
+[2020.10.28-21.51.54:334][939]LogWorld: Bringing World /Game/Task/Task_2/Scene/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2020.10.28-22.51.54
+[2020.10.28-21.51.54:334][939]LogWorld: Bringing up level for play took: 0.000623
+[2020.10.28-21.51.54:334][939]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2020.10.28-21.51.54:336][939]PIE: Server logged in
+[2020.10.28-21.51.54:337][939]PIE: Play in editor total start time 0,069 seconds.
+[2020.10.28-21.52.04:560][161]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.28-21.52.04:560][161]LogWorld: BeginTearingDown for /Game/Task/Task_2/Scene/UEDPIE_0_Level_1
+[2020.10.28-21.52.04:560][161]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2020.10.28-21.52.04:560][161]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.28-21.52.04:572][161]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.28-21.52.04:576][161]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.28-21.52.04:595][161]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.28-21.52.04:609][161]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002180C3D9F80), frame # 293161
+[2020.10.28-21.52.04:609][161]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000021812FE3000), frame # 293161
+[2020.10.28-21.52.04:611][161]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2020.10.28-21.52.04:640][162]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2020.10.28-21.52.06:323][349]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Task/Task_2/Scene/Level_1" FILE="../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.28-21.52.06:344][349]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.10.28-21.52.06:368][349]LogSavePackage: Moving '../../../../../Git project/Labirynt_KrzysztofCh/Saved/Level_1200564BD4434F67353E2C4B11BEA361E.tmp' to '../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap'
+[2020.10.28-21.52.06:464][349]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Task/Task_2/Scene/Level_1_BuiltData" FILE="../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1_BuiltData.uasset" SILENT=true
+[2020.10.28-21.52.06:475][349]LogSavePackage: Moving '../../../../../Git project/Labirynt_KrzysztofCh/Saved/Level_1_BuiltDataE65B7F624FF9BF2BE4160184CEBA87FE.tmp' to '../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1_BuiltData.uasset'
+[2020.10.28-21.52.06:487][349]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.28-21.52.06:487][349]LogContentValidation: Display: Validating World /Game/Task/Task_2/Scene/Level_1.Level_1
+[2020.10.28-21.52.06:487][349]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Task/Task_2/Scene/Level_1_BuiltData.Level_1_BuiltData
+[2020.10.28-21.55.34:342][969]LogEditorTransaction: Undo Collapses selected nodes into a single node
+[2020.10.28-21.57.35:185][165]LogSlate: Took 0.008878 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.10.28-21.57.48:231][120]LogSlate: Window 'Color Picker' being destroyed
+[2020.10.28-21.57.56:326][876]LogSlate: Window 'Color Picker' being destroyed
+[2020.10.28-21.57.59:811][ 99]LogSlate: Window 'Color Picker' being destroyed
+[2020.10.28-21.58.16:997][888]LogSlate: Window 'Color Picker' being destroyed
+[2020.10.28-21.59.44:869][729]LogSlate: Window 'Color Picker' being destroyed
+[2020.10.28-22.00.23:097][221]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Task/Task_2/Scene/Level_1" FILE="../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.28-22.00.23:120][221]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2020.10.28-22.00.23:157][221]LogSavePackage: Moving '../../../../../Git project/Labirynt_KrzysztofCh/Saved/Level_11B0A40634FE18714563F26B724182590.tmp' to '../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap'
+[2020.10.28-22.00.23:183][221]LogFileHelpers: Saving map 'Level_1' took 0.087
+[2020.10.28-22.00.23:194][221]AssetCheck: New page: Asset Save: Level_1
+[2020.10.28-22.00.23:194][221]LogContentValidation: Display: Validating World /Game/Task/Task_2/Scene/Level_1.Level_1
+[2020.10.28-22.00.23:756][283]BlueprintLog: New page: Compile Level_1
+[2020.10.28-22.00.23:794][283]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2020.10.28-22.00.24:614][359]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Task/Task_2/Scene/Level_1" FILE="../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.28-22.00.24:637][359]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2020.10.28-22.00.24:665][359]LogSavePackage: Moving '../../../../../Git project/Labirynt_KrzysztofCh/Saved/Level_1C5B85CE04D6AD3968AA941BAD460E44A.tmp' to '../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap'
+[2020.10.28-22.00.24:689][359]LogFileHelpers: Saving map 'Level_1' took 0.076
+[2020.10.28-22.00.24:700][359]AssetCheck: New page: Asset Save: Level_1
+[2020.10.28-22.00.24:700][359]LogContentValidation: Display: Validating World /Game/Task/Task_2/Scene/Level_1.Level_1
+[2020.10.28-22.02.15:365][857]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Task/Task_2/Scene/Level_1" FILE="../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.28-22.02.15:388][857]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2020.10.28-22.02.15:419][857]LogSavePackage: Moving '../../../../../Git project/Labirynt_KrzysztofCh/Saved/Level_1FD61225549F22F4CB7DC499E672AFB00.tmp' to '../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap'
+[2020.10.28-22.02.15:442][857]LogFileHelpers: Saving map 'Level_1' took 0.077
+[2020.10.28-22.02.15:451][857]AssetCheck: New page: Asset Save: Level_1
+[2020.10.28-22.02.15:451][857]LogContentValidation: Display: Validating World /Game/Task/Task_2/Scene/Level_1.Level_1
+[2020.10.28-22.12.55:786][608]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{d7d7e9bd-a4ca-4a2c-96bd-d385645df83b}.
+[2020.10.28-22.12.55:787][608]LogTemp: Resetting audio stream to device id 
+[2020.10.28-22.12.55:843][608]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.28-22.12.55:843][608]LogAudioMixer: Display: 1: FrontRight
+[2020.10.28-22.17.25:323][903]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{37676880-1224-4815-86c3-1229a7f73628}.
+[2020.10.28-22.17.25:327][903]LogTemp: Resetting audio stream to device id 
+[2020.10.28-22.17.25:402][903]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.28-22.17.25:402][903]LogAudioMixer: Display: 1: FrontRight
+[2020.10.28-22.22.27:499][478]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2020.10.28-22.22.27:534][478]LogSavePackage: Moving '../../../../../Git project/Labirynt_KrzysztofCh/Saved/Level_1_Auto39C4F102D423A74D662E4B3900FE39D74.tmp' to '../../../../../Git project/Labirynt_KrzysztofCh/Saved/Autosaves/Game/Task/Task_2/Scene/Level_1_Auto3.umap'
+[2020.10.28-22.22.27:535][478]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Task/Task_2/Scene/Level_1' took 0.059
+[2020.10.28-22.22.27:535][478]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.059
+[2020.10.28-22.25.21:361][ 22]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Task/Task_2/Scene/Level_1" FILE="../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.28-22.25.21:384][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2020.10.28-22.25.21:418][ 22]LogSavePackage: Moving '../../../../../Git project/Labirynt_KrzysztofCh/Saved/Level_1B4DB951F41D953A5625CE9A843B31AFB.tmp' to '../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap'
+[2020.10.28-22.25.21:446][ 22]LogFileHelpers: Saving map 'Level_1' took 0.085
+[2020.10.28-22.25.21:457][ 22]AssetCheck: New page: Asset Save: Level_1
+[2020.10.28-22.25.21:457][ 22]LogContentValidation: Display: Validating World /Game/Task/Task_2/Scene/Level_1.Level_1
+[2020.10.28-22.25.22:129][ 92]BlueprintLog: New page: Compile Level_1
+[2020.10.28-22.25.22:167][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2020.10.28-22.25.22:961][169]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Task/Task_2/Scene/Level_1" FILE="../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.28-22.25.22:988][169]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2020.10.28-22.25.23:017][169]LogSavePackage: Moving '../../../../../Git project/Labirynt_KrzysztofCh/Saved/Level_15EFFEE484B291A3405A14FA4E26DE7EE.tmp' to '../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap'
+[2020.10.28-22.25.23:041][169]LogFileHelpers: Saving map 'Level_1' took 0.080
+[2020.10.28-22.25.23:053][169]AssetCheck: New page: Asset Save: Level_1
+[2020.10.28-22.25.23:053][169]LogContentValidation: Display: Validating World /Game/Task/Task_2/Scene/Level_1.Level_1
+[2020.10.28-22.25.25:783][487]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.28-22.25.25:797][487]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.28-22.25.25:797][487]PIE: New page: PIE session: Level_1 (29 paź 2020, 00:25:25)
+[2020.10.28-22.25.25:823][487]LogPlayLevel: Creating play world package: /Game/Task/Task_2/Scene/UEDPIE_0_Level_1
+[2020.10.28-22.25.25:829][487]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005835s)
+[2020.10.28-22.25.25:830][487]LogAIModule: Creating AISystem for world Level_1
+[2020.10.28-22.25.25:830][487]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002183EB3A600), frame # 491487
+[2020.10.28-22.25.25:831][487]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000217D6C62200), frame # 491487
+[2020.10.28-22.25.25:831][487]LogPlayLevel: PIE: World Init took: (0.002122s)
+[2020.10.28-22.25.25:831][487]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Task/Task_2/Scene/Level_1.Level_1 to /Game/Task/Task_2/Scene/UEDPIE_0_Level_1.Level_1 (0.008141s)
+[2020.10.28-22.25.25:852][487]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2020.10.28-22.25.25:854][487]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.28-22.25.25:854][487]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.28-22.25.25:854][487]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.28-22.25.25:854][487]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.28-22.25.25:854][487]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.28-22.25.25:854][487]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.28-22.25.25:854][487]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.28-22.25.25:854][487]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.28-22.25.25:854][487]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.28-22.25.25:854][487]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.28-22.25.25:857][487]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.28-22.25.25:857][487]LogAudioMixer: Display: 1: FrontRight
+[2020.10.28-22.25.25:868][487]LogAudioMixer: Display: Using Audio Device BenQ GW2450H (NVIDIA High Definition Audio)
+[2020.10.28-22.25.25:868][487]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.28-22.25.25:868][487]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.28-22.25.25:868][487]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.28-22.25.25:869][487]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.28-22.25.25:879][487]LogInit: FAudioDevice initialized.
+[2020.10.28-22.25.25:886][487]LogLoad: Game class is 'GameModeBase'
+[2020.10.28-22.25.25:886][487]LogWorld: Bringing World /Game/Task/Task_2/Scene/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2020.10.28-23.25.25
+[2020.10.28-22.25.25:886][487]LogWorld: Bringing up level for play took: 0.000501
+[2020.10.28-22.25.25:887][487]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2020.10.28-22.25.25:888][487]PIE: Server logged in
+[2020.10.28-22.25.25:889][487]PIE: Play in editor total start time 0,093 seconds.
+[2020.10.28-22.25.44:484][707]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.28-22.25.44:484][707]LogWorld: BeginTearingDown for /Game/Task/Task_2/Scene/UEDPIE_0_Level_1
+[2020.10.28-22.25.44:485][707]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2020.10.28-22.25.44:485][707]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.28-22.25.44:490][707]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.28-22.25.44:494][707]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.28-22.25.44:516][707]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.28-22.25.44:530][707]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000217D6C62200), frame # 493707
+[2020.10.28-22.25.44:530][707]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002183EB3A600), frame # 493707
+[2020.10.28-22.25.44:532][707]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2020.10.28-22.25.44:562][708]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2020.10.28-22.26.00:612][894]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Task/Task_2/Scene/Level_1" FILE="../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.28-22.26.00:636][894]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2020.10.28-22.26.00:667][894]LogSavePackage: Moving '../../../../../Git project/Labirynt_KrzysztofCh/Saved/Level_18F1976CA44831554F695FF9B859708A4.tmp' to '../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap'
+[2020.10.28-22.26.00:691][894]LogFileHelpers: Saving map 'Level_1' took 0.079
+[2020.10.28-22.26.00:701][894]AssetCheck: New page: Asset Save: Level_1
+[2020.10.28-22.26.00:701][894]LogContentValidation: Display: Validating World /Game/Task/Task_2/Scene/Level_1.Level_1
+[2020.10.28-22.26.01:760][  5]BlueprintLog: New page: Compile Level_1
+[2020.10.28-22.26.01:795][  5]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2020.10.28-22.26.02:363][ 55]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Task/Task_2/Scene/Level_1" FILE="../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.28-22.26.02:386][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2020.10.28-22.26.02:415][ 55]LogSavePackage: Moving '../../../../../Git project/Labirynt_KrzysztofCh/Saved/Level_153F010D54F35B8266A4AFE96430C669C.tmp' to '../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap'
+[2020.10.28-22.26.02:440][ 55]LogFileHelpers: Saving map 'Level_1' took 0.078
+[2020.10.28-22.26.02:451][ 55]AssetCheck: New page: Asset Save: Level_1
+[2020.10.28-22.26.02:451][ 55]LogContentValidation: Display: Validating World /Game/Task/Task_2/Scene/Level_1.Level_1
+[2020.10.28-22.26.21:527][320]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.28-22.26.21:541][320]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.28-22.26.21:542][320]PIE: New page: PIE session: Level_1 (29 paź 2020, 00:26:21)
+[2020.10.28-22.26.21:564][320]LogPlayLevel: Creating play world package: /Game/Task/Task_2/Scene/UEDPIE_0_Level_1
+[2020.10.28-22.26.21:567][320]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003400s)
+[2020.10.28-22.26.21:568][320]LogAIModule: Creating AISystem for world Level_1
+[2020.10.28-22.26.21:568][320]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002180DAE8200), frame # 497320
+[2020.10.28-22.26.21:568][320]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002180C208A40), frame # 497320
+[2020.10.28-22.26.21:568][320]LogPlayLevel: PIE: World Init took: (0.001062s)
+[2020.10.28-22.26.21:568][320]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Task/Task_2/Scene/Level_1.Level_1 to /Game/Task/Task_2/Scene/UEDPIE_0_Level_1.Level_1 (0.004592s)
+[2020.10.28-22.26.21:592][320]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2020.10.28-22.26.21:595][320]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.28-22.26.21:595][320]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.28-22.26.21:595][320]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.28-22.26.21:595][320]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.28-22.26.21:595][320]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.28-22.26.21:595][320]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.28-22.26.21:595][320]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.28-22.26.21:595][320]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.28-22.26.21:595][320]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.28-22.26.21:595][320]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.28-22.26.21:597][320]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.28-22.26.21:597][320]LogAudioMixer: Display: 1: FrontRight
+[2020.10.28-22.26.21:606][320]LogAudioMixer: Display: Using Audio Device BenQ GW2450H (NVIDIA High Definition Audio)
+[2020.10.28-22.26.21:606][320]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.28-22.26.21:606][320]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.28-22.26.21:606][320]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.28-22.26.21:607][320]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.28-22.26.21:618][320]LogInit: FAudioDevice initialized.
+[2020.10.28-22.26.21:629][320]LogLoad: Game class is 'GameModeBase'
+[2020.10.28-22.26.21:630][320]LogWorld: Bringing World /Game/Task/Task_2/Scene/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2020.10.28-23.26.21
+[2020.10.28-22.26.21:630][320]LogWorld: Bringing up level for play took: 0.000553
+[2020.10.28-22.26.21:630][320]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2020.10.28-22.26.21:632][320]PIE: Server logged in
+[2020.10.28-22.26.21:633][320]PIE: Play in editor total start time 0,092 seconds.
+[2020.10.28-22.26.47:266][ 94]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.28-22.26.47:266][ 94]LogWorld: BeginTearingDown for /Game/Task/Task_2/Scene/UEDPIE_0_Level_1
+[2020.10.28-22.26.47:266][ 94]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2020.10.28-22.26.47:266][ 94]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.28-22.26.47:274][ 94]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.28-22.26.47:277][ 94]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.28-22.26.47:300][ 94]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.28-22.26.47:314][ 94]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002180C208A40), frame # 500094
+[2020.10.28-22.26.47:314][ 94]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002180DAE8200), frame # 500094
+[2020.10.28-22.26.47:317][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2020.10.28-22.26.47:351][ 95]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2020.10.28-22.26.48:429][221]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.10.28-22.26.51:077][507]Cmd: TRANSACTION UNDO
+[2020.10.28-22.26.51:077][507]LogEditorTransaction: Undo Set Rotation
+[2020.10.28-22.26.51:085][507]Cmd: ACTOR SELECT ALL
+[2020.10.28-22.26.52:539][633]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.10.28-22.27.03:013][750]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Task/Task_2/Scene/Level_1" FILE="../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.28-22.27.03:036][750]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2020.10.28-22.27.03:069][750]LogSavePackage: Moving '../../../../../Git project/Labirynt_KrzysztofCh/Saved/Level_1383797424029F1D3639402AC6EE8FDCA.tmp' to '../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap'
+[2020.10.28-22.27.03:092][750]LogFileHelpers: Saving map 'Level_1' took 0.079
+[2020.10.28-22.27.03:105][750]AssetCheck: New page: Asset Save: Level_1
+[2020.10.28-22.27.03:105][750]LogContentValidation: Display: Validating World /Game/Task/Task_2/Scene/Level_1.Level_1
+[2020.10.28-22.27.03:629][802]BlueprintLog: New page: Compile Level_1
+[2020.10.28-22.27.03:668][802]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2020.10.28-22.27.04:297][850]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Task/Task_2/Scene/Level_1" FILE="../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.28-22.27.04:321][850]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2020.10.28-22.27.04:352][850]LogSavePackage: Moving '../../../../../Git project/Labirynt_KrzysztofCh/Saved/Level_10C7D35DC4A94580425D71295138B4EB9.tmp' to '../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap'
+[2020.10.28-22.27.04:381][850]LogFileHelpers: Saving map 'Level_1' took 0.084
+[2020.10.28-22.27.04:392][850]AssetCheck: New page: Asset Save: Level_1
+[2020.10.28-22.27.04:392][850]LogContentValidation: Display: Validating World /Game/Task/Task_2/Scene/Level_1.Level_1
+[2020.10.28-22.27.07:100][160]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.28-22.27.07:114][160]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.28-22.27.07:114][160]PIE: New page: PIE session: Level_1 (29 paź 2020, 00:27:07)
+[2020.10.28-22.27.07:135][160]LogPlayLevel: Creating play world package: /Game/Task/Task_2/Scene/UEDPIE_0_Level_1
+[2020.10.28-22.27.07:138][160]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003323s)
+[2020.10.28-22.27.07:139][160]LogAIModule: Creating AISystem for world Level_1
+[2020.10.28-22.27.07:139][160]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000021825226A00), frame # 502160
+[2020.10.28-22.27.07:139][160]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000217D6845440), frame # 502160
+[2020.10.28-22.27.07:139][160]LogPlayLevel: PIE: World Init took: (0.001054s)
+[2020.10.28-22.27.07:139][160]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Task/Task_2/Scene/Level_1.Level_1 to /Game/Task/Task_2/Scene/UEDPIE_0_Level_1.Level_1 (0.004513s)
+[2020.10.28-22.27.07:163][160]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2020.10.28-22.27.07:165][160]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.28-22.27.07:165][160]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.28-22.27.07:165][160]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.28-22.27.07:165][160]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.28-22.27.07:165][160]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.28-22.27.07:165][160]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.28-22.27.07:165][160]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.28-22.27.07:165][160]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.28-22.27.07:165][160]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.28-22.27.07:165][160]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.28-22.27.07:167][160]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.28-22.27.07:167][160]LogAudioMixer: Display: 1: FrontRight
+[2020.10.28-22.27.07:176][160]LogAudioMixer: Display: Using Audio Device BenQ GW2450H (NVIDIA High Definition Audio)
+[2020.10.28-22.27.07:176][160]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.28-22.27.07:176][160]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.28-22.27.07:176][160]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.28-22.27.07:177][160]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.28-22.27.07:187][160]LogInit: FAudioDevice initialized.
+[2020.10.28-22.27.07:198][160]LogLoad: Game class is 'GameModeBase'
+[2020.10.28-22.27.07:198][160]LogWorld: Bringing World /Game/Task/Task_2/Scene/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2020.10.28-23.27.07
+[2020.10.28-22.27.07:199][160]LogWorld: Bringing up level for play took: 0.000473
+[2020.10.28-22.27.07:199][160]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2020.10.28-22.27.07:200][160]PIE: Server logged in
+[2020.10.28-22.27.07:201][160]PIE: Play in editor total start time 0,088 seconds.
+[2020.10.28-22.27.23:126][ 64]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.28-22.27.23:126][ 64]LogWorld: BeginTearingDown for /Game/Task/Task_2/Scene/UEDPIE_0_Level_1
+[2020.10.28-22.27.23:126][ 64]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2020.10.28-22.27.23:126][ 64]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.28-22.27.23:131][ 64]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.28-22.27.23:135][ 64]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.28-22.27.23:153][ 64]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.28-22.27.23:167][ 64]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000217D6845440), frame # 504064
+[2020.10.28-22.27.23:167][ 64]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000021825226A00), frame # 504064
+[2020.10.28-22.27.23:169][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2020.10.28-22.27.23:199][ 65]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2020.10.28-22.28.45:563][503]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Task/Task_2/Scene/Level_1" FILE="../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.28-22.28.45:587][503]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2020.10.28-22.28.45:626][503]LogSavePackage: Moving '../../../../../Git project/Labirynt_KrzysztofCh/Saved/Level_109AC212A4875893C761F73B29812E321.tmp' to '../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap'
+[2020.10.28-22.28.45:650][503]LogFileHelpers: Saving map 'Level_1' took 0.086
+[2020.10.28-22.28.45:660][503]AssetCheck: New page: Asset Save: Level_1
+[2020.10.28-22.28.45:660][503]LogContentValidation: Display: Validating World /Game/Task/Task_2/Scene/Level_1.Level_1
+[2020.10.28-22.28.46:213][558]BlueprintLog: New page: Compile Level_1
+[2020.10.28-22.28.46:251][558]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2020.10.28-22.28.47:032][633]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Task/Task_2/Scene/Level_1" FILE="../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.28-22.28.47:055][633]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2020.10.28-22.28.47:085][633]LogSavePackage: Moving '../../../../../Git project/Labirynt_KrzysztofCh/Saved/Level_115FD840E46C5889E60032F948CE974A0.tmp' to '../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap'
+[2020.10.28-22.28.47:109][633]LogFileHelpers: Saving map 'Level_1' took 0.078
+[2020.10.28-22.28.47:119][633]AssetCheck: New page: Asset Save: Level_1
+[2020.10.28-22.28.47:119][633]LogContentValidation: Display: Validating World /Game/Task/Task_2/Scene/Level_1.Level_1
+[2020.10.28-22.28.49:677][933]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.28-22.28.49:691][933]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.28-22.28.49:691][933]PIE: New page: PIE session: Level_1 (29 paź 2020, 00:28:49)
+[2020.10.28-22.28.49:691][933]LogPlayLevel: Creating play world package: /Game/Task/Task_2/Scene/UEDPIE_0_Level_1
+[2020.10.28-22.28.49:694][933]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003452s)
+[2020.10.28-22.28.49:695][933]LogAIModule: Creating AISystem for world Level_1
+[2020.10.28-22.28.49:695][933]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000021826DA9800), frame # 513933
+[2020.10.28-22.28.49:695][933]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002183F5B7600), frame # 513933
+[2020.10.28-22.28.49:696][933]LogPlayLevel: PIE: World Init took: (0.001095s)
+[2020.10.28-22.28.49:696][933]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Task/Task_2/Scene/Level_1.Level_1 to /Game/Task/Task_2/Scene/UEDPIE_0_Level_1.Level_1 (0.004662s)
+[2020.10.28-22.28.49:718][933]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2020.10.28-22.28.49:720][933]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.28-22.28.49:720][933]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.28-22.28.49:720][933]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.28-22.28.49:720][933]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.28-22.28.49:720][933]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.28-22.28.49:720][933]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.28-22.28.49:720][933]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.28-22.28.49:720][933]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.28-22.28.49:720][933]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.28-22.28.49:720][933]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.28-22.28.49:722][933]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.28-22.28.49:722][933]LogAudioMixer: Display: 1: FrontRight
+[2020.10.28-22.28.49:732][933]LogAudioMixer: Display: Using Audio Device BenQ GW2450H (NVIDIA High Definition Audio)
+[2020.10.28-22.28.49:732][933]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.28-22.28.49:732][933]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.28-22.28.49:732][933]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.28-22.28.49:733][933]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.28-22.28.49:743][933]LogInit: FAudioDevice initialized.
+[2020.10.28-22.28.49:752][933]LogLoad: Game class is 'GameModeBase'
+[2020.10.28-22.28.49:753][933]LogWorld: Bringing World /Game/Task/Task_2/Scene/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2020.10.28-23.28.49
+[2020.10.28-22.28.49:753][933]LogWorld: Bringing up level for play took: 0.000470
+[2020.10.28-22.28.49:753][933]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2020.10.28-22.28.49:755][933]PIE: Server logged in
+[2020.10.28-22.28.49:755][933]PIE: Play in editor total start time 0,066 seconds.
+[2020.10.28-22.29.14:427][887]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.28-22.29.14:427][887]LogWorld: BeginTearingDown for /Game/Task/Task_2/Scene/UEDPIE_0_Level_1
+[2020.10.28-22.29.14:427][887]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2020.10.28-22.29.14:427][887]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.28-22.29.14:437][887]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.28-22.29.14:440][887]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.28-22.29.14:463][887]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.28-22.29.14:478][887]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002183F5B7600), frame # 516887
+[2020.10.28-22.29.14:478][887]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000021826DA9800), frame # 516887
+[2020.10.28-22.29.14:480][887]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2020.10.28-22.29.14:509][888]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2020.10.28-22.29.20:103][532]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.10.28-22.29.20:902][625]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.28-22.29.20:916][625]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.28-22.29.20:916][625]PIE: New page: PIE session: Level_1 (29 paź 2020, 00:29:20)
+[2020.10.28-22.29.20:936][625]LogPlayLevel: Creating play world package: /Game/Task/Task_2/Scene/UEDPIE_0_Level_1
+[2020.10.28-22.29.20:941][625]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004702s)
+[2020.10.28-22.29.20:942][625]LogAIModule: Creating AISystem for world Level_1
+[2020.10.28-22.29.20:942][625]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000217C6461200), frame # 517625
+[2020.10.28-22.29.20:942][625]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000217D68447C0), frame # 517625
+[2020.10.28-22.29.20:942][625]LogPlayLevel: PIE: World Init took: (0.001031s)
+[2020.10.28-22.29.20:942][625]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Task/Task_2/Scene/Level_1.Level_1 to /Game/Task/Task_2/Scene/UEDPIE_0_Level_1.Level_1 (0.005854s)
+[2020.10.28-22.29.20:965][625]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2020.10.28-22.29.20:968][625]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.28-22.29.20:968][625]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.28-22.29.20:968][625]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.28-22.29.20:968][625]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.28-22.29.20:968][625]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.28-22.29.20:968][625]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.28-22.29.20:968][625]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.28-22.29.20:968][625]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.28-22.29.20:968][625]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.28-22.29.20:968][625]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.28-22.29.20:969][625]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.28-22.29.20:970][625]LogAudioMixer: Display: 1: FrontRight
+[2020.10.28-22.29.20:979][625]LogAudioMixer: Display: Using Audio Device BenQ GW2450H (NVIDIA High Definition Audio)
+[2020.10.28-22.29.20:979][625]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.28-22.29.20:979][625]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.28-22.29.20:979][625]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.28-22.29.20:980][625]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.28-22.29.20:991][625]LogInit: FAudioDevice initialized.
+[2020.10.28-22.29.20:996][625]LogLoad: Game class is 'GameModeBase'
+[2020.10.28-22.29.20:997][625]LogWorld: Bringing World /Game/Task/Task_2/Scene/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2020.10.28-23.29.20
+[2020.10.28-22.29.20:997][625]LogWorld: Bringing up level for play took: 0.000491
+[2020.10.28-22.29.20:997][625]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2020.10.28-22.29.20:999][625]PIE: Server logged in
+[2020.10.28-22.29.21:000][625]PIE: Play in editor total start time 0,084 seconds.
+[2020.10.28-22.29.33:858][161]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.28-22.29.33:858][161]LogWorld: BeginTearingDown for /Game/Task/Task_2/Scene/UEDPIE_0_Level_1
+[2020.10.28-22.29.33:858][161]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2020.10.28-22.29.33:858][161]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.28-22.29.33:866][161]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.28-22.29.33:870][161]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.28-22.29.33:889][161]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.28-22.29.33:904][161]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000217D68447C0), frame # 519161
+[2020.10.28-22.29.33:904][161]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000217C6461200), frame # 519161
+[2020.10.28-22.29.33:906][161]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2020.10.28-22.29.33:936][162]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2020.10.28-22.31.14:034][397]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Task/Task_2/Scene/Level_1" FILE="../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.28-22.31.14:060][397]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2020.10.28-22.31.14:093][397]LogSavePackage: Moving '../../../../../Git project/Labirynt_KrzysztofCh/Saved/Level_199EA98594DD4A9EC3CC4DBA1ECDB8128.tmp' to '../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap'
+[2020.10.28-22.31.14:118][397]LogFileHelpers: Saving map 'Level_1' took 0.084
+[2020.10.28-22.31.14:127][397]AssetCheck: New page: Asset Save: Level_1
+[2020.10.28-22.31.14:127][397]LogContentValidation: Display: Validating World /Game/Task/Task_2/Scene/Level_1.Level_1
+[2020.10.28-22.31.32:540][510]BlueprintLog: New page: Compile Level_1
+[2020.10.28-22.31.32:575][510]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2020.10.28-22.31.32:625][511]LogPropertyNode: Warning: Clamp Min (0,0) >= Clamp Max (0,0) for Ranged Numeric property /Game/Task/Task_2/Scene/Level_1.Level_C:lockZAxis 
+[2020.10.28-22.31.32:625][511]LogPropertyNode: Warning: UI Min (0,0) >= UI Max (0,0) for Ranged Numeric property /Game/Task/Task_2/Scene/Level_1.Level_C:lockZAxis 
+[2020.10.28-22.31.33:433][594]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Task/Task_2/Scene/Level_1" FILE="../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.28-22.31.33:456][594]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2020.10.28-22.31.33:486][594]LogSavePackage: Moving '../../../../../Git project/Labirynt_KrzysztofCh/Saved/Level_1F92E619B431173E8C7F215AE663F8CA4.tmp' to '../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap'
+[2020.10.28-22.31.33:510][594]LogFileHelpers: Saving map 'Level_1' took 0.077
+[2020.10.28-22.31.33:520][594]AssetCheck: New page: Asset Save: Level_1
+[2020.10.28-22.31.33:520][594]LogContentValidation: Display: Validating World /Game/Task/Task_2/Scene/Level_1.Level_1
+[2020.10.28-22.31.37:230][ 31]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.28-22.31.37:243][ 31]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.28-22.31.37:243][ 31]PIE: New page: PIE session: Level_1 (29 paź 2020, 00:31:37)
+[2020.10.28-22.31.37:244][ 31]LogPlayLevel: Creating play world package: /Game/Task/Task_2/Scene/UEDPIE_0_Level_1
+[2020.10.28-22.31.37:247][ 31]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003511s)
+[2020.10.28-22.31.37:248][ 31]LogAIModule: Creating AISystem for world Level_1
+[2020.10.28-22.31.37:248][ 31]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002180E57E000), frame # 533031
+[2020.10.28-22.31.37:248][ 31]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000217D8361E40), frame # 533031
+[2020.10.28-22.31.37:248][ 31]LogPlayLevel: PIE: World Init took: (0.001092s)
+[2020.10.28-22.31.37:248][ 31]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Task/Task_2/Scene/Level_1.Level_1 to /Game/Task/Task_2/Scene/UEDPIE_0_Level_1.Level_1 (0.004712s)
+[2020.10.28-22.31.37:272][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2020.10.28-22.31.37:273][ 31]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.28-22.31.37:273][ 31]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.28-22.31.37:273][ 31]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.28-22.31.37:273][ 31]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.28-22.31.37:273][ 31]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.28-22.31.37:273][ 31]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.28-22.31.37:273][ 31]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.28-22.31.37:273][ 31]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.28-22.31.37:274][ 31]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.28-22.31.37:274][ 31]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.28-22.31.37:275][ 31]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.28-22.31.37:275][ 31]LogAudioMixer: Display: 1: FrontRight
+[2020.10.28-22.31.37:286][ 31]LogAudioMixer: Display: Using Audio Device BenQ GW2450H (NVIDIA High Definition Audio)
+[2020.10.28-22.31.37:286][ 31]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.28-22.31.37:286][ 31]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.28-22.31.37:286][ 31]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.28-22.31.37:286][ 31]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.28-22.31.37:297][ 31]LogInit: FAudioDevice initialized.
+[2020.10.28-22.31.37:302][ 31]LogLoad: Game class is 'GameModeBase'
+[2020.10.28-22.31.37:303][ 31]LogWorld: Bringing World /Game/Task/Task_2/Scene/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2020.10.28-23.31.37
+[2020.10.28-22.31.37:303][ 31]LogWorld: Bringing up level for play took: 0.000488
+[2020.10.28-22.31.37:303][ 31]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2020.10.28-22.31.37:305][ 31]PIE: Server logged in
+[2020.10.28-22.31.37:306][ 31]PIE: Play in editor total start time 0,063 seconds.
+[2020.10.28-22.32.03:319][148]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.28-22.32.03:319][148]LogWorld: BeginTearingDown for /Game/Task/Task_2/Scene/UEDPIE_0_Level_1
+[2020.10.28-22.32.03:320][148]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2020.10.28-22.32.03:320][148]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.28-22.32.03:329][148]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.28-22.32.03:333][148]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.28-22.32.03:351][148]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.28-22.32.03:365][148]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000217D8361E40), frame # 536148
+[2020.10.28-22.32.03:365][148]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002180E57E000), frame # 536148
+[2020.10.28-22.32.03:368][148]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2020.10.28-22.32.03:398][149]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2020.10.28-22.35.40:735][445]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.10.28-22.36.19:288][967]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Task/Task_2/Scene/Level_1" FILE="../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.28-22.36.19:313][967]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2020.10.28-22.36.19:351][967]LogSavePackage: Moving '../../../../../Git project/Labirynt_KrzysztofCh/Saved/Level_1CD94041F4B2E8244C7EA9992E16567D8.tmp' to '../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap'
+[2020.10.28-22.36.19:458][967]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Task/Task_2/Scene/Level_1_BuiltData" FILE="../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1_BuiltData.uasset" SILENT=true
+[2020.10.28-22.36.19:476][967]LogSavePackage: Moving '../../../../../Git project/Labirynt_KrzysztofCh/Saved/Level_1_BuiltData37DE3EC2415D0EB635511C96841A4B95.tmp' to '../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1_BuiltData.uasset'
+[2020.10.28-22.36.19:487][967]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.28-22.36.19:487][967]LogContentValidation: Display: Validating World /Game/Task/Task_2/Scene/Level_1.Level_1
+[2020.10.28-22.36.19:487][967]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Task/Task_2/Scene/Level_1_BuiltData.Level_1_BuiltData
+[2020.10.28-22.36.21:242][171]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.28-22.36.21:256][171]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.28-22.36.21:256][171]PIE: New page: PIE session: Level_1 (29 paź 2020, 00:36:21)
+[2020.10.28-22.36.21:256][171]LogPlayLevel: Creating play world package: /Game/Task/Task_2/Scene/UEDPIE_0_Level_1
+[2020.10.28-22.36.21:260][171]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004237s)
+[2020.10.28-22.36.21:261][171]LogAIModule: Creating AISystem for world Level_1
+[2020.10.28-22.36.21:261][171]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002185C2E7800), frame # 542171
+[2020.10.28-22.36.21:261][171]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000217D8361BC0), frame # 542171
+[2020.10.28-22.36.21:262][171]LogPlayLevel: PIE: World Init took: (0.001374s)
+[2020.10.28-22.36.21:262][171]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Task/Task_2/Scene/Level_1.Level_1 to /Game/Task/Task_2/Scene/UEDPIE_0_Level_1.Level_1 (0.005747s)
+[2020.10.28-22.36.21:285][171]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2020.10.28-22.36.21:286][171]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.28-22.36.21:286][171]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.28-22.36.21:287][171]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.28-22.36.21:287][171]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.28-22.36.21:287][171]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.28-22.36.21:287][171]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.28-22.36.21:287][171]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.28-22.36.21:287][171]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.28-22.36.21:287][171]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.28-22.36.21:287][171]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.28-22.36.21:289][171]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.28-22.36.21:289][171]LogAudioMixer: Display: 1: FrontRight
+[2020.10.28-22.36.21:300][171]LogAudioMixer: Display: Using Audio Device BenQ GW2450H (NVIDIA High Definition Audio)
+[2020.10.28-22.36.21:300][171]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.28-22.36.21:300][171]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.28-22.36.21:300][171]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.28-22.36.21:300][171]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.28-22.36.21:313][171]LogInit: FAudioDevice initialized.
+[2020.10.28-22.36.21:319][171]LogLoad: Game class is 'GameModeBase'
+[2020.10.28-22.36.21:320][171]LogWorld: Bringing World /Game/Task/Task_2/Scene/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2020.10.28-23.36.21
+[2020.10.28-22.36.21:320][171]LogWorld: Bringing up level for play took: 0.000499
+[2020.10.28-22.36.21:320][171]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2020.10.28-22.36.21:322][171]PIE: Server logged in
+[2020.10.28-22.36.21:323][171]PIE: Play in editor total start time 0,068 seconds.
+[2020.10.28-22.36.36:175][948]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.28-22.36.36:175][948]LogWorld: BeginTearingDown for /Game/Task/Task_2/Scene/UEDPIE_0_Level_1
+[2020.10.28-22.36.36:175][948]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2020.10.28-22.36.36:175][948]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.28-22.36.36:183][948]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.28-22.36.36:187][948]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.28-22.36.36:205][948]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.28-22.36.36:219][948]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000217D8361BC0), frame # 543948
+[2020.10.28-22.36.36:219][948]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002185C2E7800), frame # 543948
+[2020.10.28-22.36.36:222][948]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2020.10.28-22.36.36:279][950]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2020.10.28-22.36.44:417][914]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.28-22.36.44:431][914]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.28-22.36.44:431][914]PIE: New page: PIE session: Level_1 (29 paź 2020, 00:36:44)
+[2020.10.28-22.36.44:431][914]LogPlayLevel: Creating play world package: /Game/Task/Task_2/Scene/UEDPIE_0_Level_1
+[2020.10.28-22.36.44:435][914]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003560s)
+[2020.10.28-22.36.44:436][914]LogAIModule: Creating AISystem for world Level_1
+[2020.10.28-22.36.44:436][914]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002180E57E800), frame # 544914
+[2020.10.28-22.36.44:436][914]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002181FAD4680), frame # 544914
+[2020.10.28-22.36.44:436][914]LogPlayLevel: PIE: World Init took: (0.001162s)
+[2020.10.28-22.36.44:436][914]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Task/Task_2/Scene/Level_1.Level_1 to /Game/Task/Task_2/Scene/UEDPIE_0_Level_1.Level_1 (0.004841s)
+[2020.10.28-22.36.44:456][914]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2020.10.28-22.36.44:458][914]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.28-22.36.44:458][914]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.28-22.36.44:458][914]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.28-22.36.44:458][914]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.28-22.36.44:458][914]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.28-22.36.44:458][914]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.28-22.36.44:458][914]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.28-22.36.44:458][914]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.28-22.36.44:458][914]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.28-22.36.44:458][914]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.28-22.36.44:460][914]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.28-22.36.44:460][914]LogAudioMixer: Display: 1: FrontRight
+[2020.10.28-22.36.44:469][914]LogAudioMixer: Display: Using Audio Device BenQ GW2450H (NVIDIA High Definition Audio)
+[2020.10.28-22.36.44:469][914]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.28-22.36.44:469][914]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.28-22.36.44:469][914]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.28-22.36.44:469][914]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.28-22.36.44:480][914]LogInit: FAudioDevice initialized.
+[2020.10.28-22.36.44:488][914]LogLoad: Game class is 'GameModeBase'
+[2020.10.28-22.36.44:489][914]LogWorld: Bringing World /Game/Task/Task_2/Scene/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2020.10.28-23.36.44
+[2020.10.28-22.36.44:489][914]LogWorld: Bringing up level for play took: 0.000505
+[2020.10.28-22.36.44:489][914]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2020.10.28-22.36.44:491][914]PIE: Server logged in
+[2020.10.28-22.36.44:491][914]PIE: Play in editor total start time 0,061 seconds.
+[2020.10.28-22.37.09:585][918]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.28-22.37.09:585][918]LogWorld: BeginTearingDown for /Game/Task/Task_2/Scene/UEDPIE_0_Level_1
+[2020.10.28-22.37.09:585][918]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2020.10.28-22.37.09:585][918]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.28-22.37.09:593][918]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.28-22.37.09:597][918]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.28-22.37.09:619][918]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.28-22.37.09:633][918]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002181FAD4680), frame # 547918
+[2020.10.28-22.37.09:633][918]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002180E57E800), frame # 547918
+[2020.10.28-22.37.09:635][918]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2020.10.28-22.37.09:663][919]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2020.10.28-22.37.19:519][ 85]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.28-22.37.19:534][ 85]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.28-22.37.19:534][ 85]PIE: New page: PIE session: Level_1 (29 paź 2020, 00:37:19)
+[2020.10.28-22.37.19:564][ 85]LogPlayLevel: Creating play world package: /Game/Task/Task_2/Scene/UEDPIE_0_Level_1
+[2020.10.28-22.37.19:570][ 85]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005929s)
+[2020.10.28-22.37.19:571][ 85]LogAIModule: Creating AISystem for world Level_1
+[2020.10.28-22.37.19:571][ 85]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002182B7DB000), frame # 549085
+[2020.10.28-22.37.19:571][ 85]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002183049EC00), frame # 549085
+[2020.10.28-22.37.19:571][ 85]LogPlayLevel: PIE: World Init took: (0.001674s)
+[2020.10.28-22.37.19:571][ 85]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Task/Task_2/Scene/Level_1.Level_1 to /Game/Task/Task_2/Scene/UEDPIE_0_Level_1.Level_1 (0.007817s)
+[2020.10.28-22.37.19:596][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2020.10.28-22.37.19:597][ 85]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.28-22.37.19:597][ 85]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.28-22.37.19:597][ 85]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.28-22.37.19:597][ 85]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.28-22.37.19:598][ 85]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.28-22.37.19:598][ 85]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.28-22.37.19:598][ 85]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.28-22.37.19:598][ 85]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.28-22.37.19:598][ 85]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.28-22.37.19:598][ 85]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.28-22.37.19:599][ 85]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.28-22.37.19:599][ 85]LogAudioMixer: Display: 1: FrontRight
+[2020.10.28-22.37.19:609][ 85]LogAudioMixer: Display: Using Audio Device BenQ GW2450H (NVIDIA High Definition Audio)
+[2020.10.28-22.37.19:609][ 85]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.28-22.37.19:609][ 85]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.28-22.37.19:609][ 85]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.28-22.37.19:609][ 85]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.28-22.37.19:620][ 85]LogInit: FAudioDevice initialized.
+[2020.10.28-22.37.19:625][ 85]LogLoad: Game class is 'GameModeBase'
+[2020.10.28-22.37.19:626][ 85]LogWorld: Bringing World /Game/Task/Task_2/Scene/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2020.10.28-23.37.19
+[2020.10.28-22.37.19:626][ 85]LogWorld: Bringing up level for play took: 0.000492
+[2020.10.28-22.37.19:626][ 85]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2020.10.28-22.37.19:628][ 85]PIE: Server logged in
+[2020.10.28-22.37.19:628][ 85]PIE: Play in editor total start time 0,095 seconds.
+[2020.10.28-22.37.51:385][892]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.28-22.37.51:385][892]LogWorld: BeginTearingDown for /Game/Task/Task_2/Scene/UEDPIE_0_Level_1
+[2020.10.28-22.37.51:386][892]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2020.10.28-22.37.51:386][892]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.28-22.37.51:391][892]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.28-22.37.51:395][892]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.28-22.37.51:416][892]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.28-22.37.51:430][892]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002183049EC00), frame # 552892
+[2020.10.28-22.37.51:430][892]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002182B7DB000), frame # 552892
+[2020.10.28-22.37.51:432][892]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2020.10.28-22.37.51:464][893]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2020.10.28-22.41.38:626][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Task/Task_2/Scene/Level_1" FILE="../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.28-22.41.38:649][326]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2020.10.28-22.41.38:685][326]LogSavePackage: Moving '../../../../../Git project/Labirynt_KrzysztofCh/Saved/Level_12B3507F144D4EC5C68347483DF89233A.tmp' to '../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap'
+[2020.10.28-22.41.38:709][326]LogFileHelpers: Saving map 'Level_1' took 0.083
+[2020.10.28-22.41.38:719][326]AssetCheck: New page: Asset Save: Level_1
+[2020.10.28-22.41.38:719][326]LogContentValidation: Display: Validating World /Game/Task/Task_2/Scene/Level_1.Level_1
+[2020.10.28-22.41.39:108][368]BlueprintLog: New page: Compile Level_1
+[2020.10.28-22.41.39:146][368]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2020.10.28-22.41.39:827][435]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Task/Task_2/Scene/Level_1" FILE="../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.28-22.41.39:850][435]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2020.10.28-22.41.39:879][435]LogSavePackage: Moving '../../../../../Git project/Labirynt_KrzysztofCh/Saved/Level_18BCB9C404A374B23D7231CB55988372D.tmp' to '../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap'
+[2020.10.28-22.41.39:903][435]LogFileHelpers: Saving map 'Level_1' took 0.076
+[2020.10.28-22.41.39:918][435]AssetCheck: New page: Asset Save: Level_1
+[2020.10.28-22.41.39:918][435]LogContentValidation: Display: Validating World /Game/Task/Task_2/Scene/Level_1.Level_1
+[2020.10.28-22.41.42:324][709]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.28-22.41.42:337][709]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.28-22.41.42:337][709]PIE: New page: PIE session: Level_1 (29 paź 2020, 00:41:42)
+[2020.10.28-22.41.42:337][709]LogPlayLevel: Creating play world package: /Game/Task/Task_2/Scene/UEDPIE_0_Level_1
+[2020.10.28-22.41.42:341][709]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003572s)
+[2020.10.28-22.41.42:342][709]LogAIModule: Creating AISystem for world Level_1
+[2020.10.28-22.41.42:342][709]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000218347CEC00), frame # 559709
+[2020.10.28-22.41.42:342][709]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002181DCDC7C0), frame # 559709
+[2020.10.28-22.41.42:342][709]LogPlayLevel: PIE: World Init took: (0.001129s)
+[2020.10.28-22.41.42:342][709]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Task/Task_2/Scene/Level_1.Level_1 to /Game/Task/Task_2/Scene/UEDPIE_0_Level_1.Level_1 (0.004815s)
+[2020.10.28-22.41.42:362][709]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2020.10.28-22.41.42:363][709]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.28-22.41.42:363][709]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.28-22.41.42:363][709]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.28-22.41.42:363][709]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.28-22.41.42:363][709]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.28-22.41.42:363][709]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.28-22.41.42:363][709]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.28-22.41.42:363][709]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.28-22.41.42:363][709]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.28-22.41.42:363][709]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.28-22.41.42:365][709]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.28-22.41.42:365][709]LogAudioMixer: Display: 1: FrontRight
+[2020.10.28-22.41.42:376][709]LogAudioMixer: Display: Using Audio Device BenQ GW2450H (NVIDIA High Definition Audio)
+[2020.10.28-22.41.42:376][709]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.28-22.41.42:376][709]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.28-22.41.42:376][709]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.28-22.41.42:376][709]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.28-22.41.42:389][709]LogInit: FAudioDevice initialized.
+[2020.10.28-22.41.42:395][709]LogLoad: Game class is 'GameModeBase'
+[2020.10.28-22.41.42:396][709]LogWorld: Bringing World /Game/Task/Task_2/Scene/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2020.10.28-23.41.42
+[2020.10.28-22.41.42:396][709]LogWorld: Bringing up level for play took: 0.000490
+[2020.10.28-22.41.42:396][709]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2020.10.28-22.41.42:398][709]PIE: Server logged in
+[2020.10.28-22.41.42:399][709]PIE: Play in editor total start time 0,062 seconds.
+[2020.10.28-22.41.52:099][869]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.28-22.41.52:099][869]LogWorld: BeginTearingDown for /Game/Task/Task_2/Scene/UEDPIE_0_Level_1
+[2020.10.28-22.41.52:099][869]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2020.10.28-22.41.52:099][869]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.28-22.41.52:108][869]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.28-22.41.52:112][869]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.28-22.41.52:131][869]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.28-22.41.52:146][869]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002181DCDC7C0), frame # 560869
+[2020.10.28-22.41.52:146][869]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000218347CEC00), frame # 560869
+[2020.10.28-22.41.52:149][869]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2020.10.28-22.41.52:181][870]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2020.10.28-22.42.17:411][693]LogPropertyNode: Warning: Clamp Min (0,0) >= Clamp Max (0,0) for Ranged Numeric property /Game/Task/Task_2/Scene/Level_1.Level_C:lockZAxis 
+[2020.10.28-22.42.17:411][693]LogPropertyNode: Warning: UI Min (0,0) >= UI Max (0,0) for Ranged Numeric property /Game/Task/Task_2/Scene/Level_1.Level_C:lockZAxis 
+[2020.10.28-22.43.38:897][178]LogPropertyNode: Warning: Clamp Min (0,0) >= Clamp Max (0,0) for Ranged Numeric property /Game/Task/Task_2/Scene/Level_1.Level_C:lockZAxis 
+[2020.10.28-22.43.38:897][178]LogPropertyNode: Warning: UI Min (0,0) >= UI Max (0,0) for Ranged Numeric property /Game/Task/Task_2/Scene/Level_1.Level_C:lockZAxis 
+[2020.10.28-22.43.44:401][826]LogPropertyNode: Warning: Clamp Min (0,0) >= Clamp Max (0,0) for Ranged Numeric property /Game/Task/Task_2/Scene/Level_1.Level_C:lockZAxis 
+[2020.10.28-22.43.44:401][826]LogPropertyNode: Warning: UI Min (0,0) >= UI Max (0,0) for Ranged Numeric property /Game/Task/Task_2/Scene/Level_1.Level_C:lockZAxis 
+[2020.10.28-22.43.53:078][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Task/Task_2/Scene/Level_1" FILE="../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.28-22.43.53:103][802]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2020.10.28-22.43.53:135][802]LogSavePackage: Moving '../../../../../Git project/Labirynt_KrzysztofCh/Saved/Level_1C411D0C849F22F999B101C8A61EE1C2D.tmp' to '../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap'
+[2020.10.28-22.43.53:162][802]LogFileHelpers: Saving map 'Level_1' took 0.085
+[2020.10.28-22.43.53:172][802]AssetCheck: New page: Asset Save: Level_1
+[2020.10.28-22.43.53:172][802]LogContentValidation: Display: Validating World /Game/Task/Task_2/Scene/Level_1.Level_1
+[2020.10.28-22.43.56:341][127]BlueprintLog: New page: Compile Level_1
+[2020.10.28-22.43.56:381][127]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2020.10.28-22.43.57:178][204]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Task/Task_2/Scene/Level_1" FILE="../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.28-22.43.57:203][204]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2020.10.28-22.43.57:231][204]LogSavePackage: Moving '../../../../../Git project/Labirynt_KrzysztofCh/Saved/Level_12B755250407F561FA0968D9B32B99037.tmp' to '../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap'
+[2020.10.28-22.43.57:256][204]LogFileHelpers: Saving map 'Level_1' took 0.078
+[2020.10.28-22.43.57:268][204]AssetCheck: New page: Asset Save: Level_1
+[2020.10.28-22.43.57:268][204]LogContentValidation: Display: Validating World /Game/Task/Task_2/Scene/Level_1.Level_1
+[2020.10.28-22.44.02:340][787]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.28-22.44.02:355][787]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.28-22.44.02:355][787]PIE: New page: PIE session: Level_1 (29 paź 2020, 00:44:02)
+[2020.10.28-22.44.02:380][787]LogPlayLevel: Creating play world package: /Game/Task/Task_2/Scene/UEDPIE_0_Level_1
+[2020.10.28-22.44.02:386][787]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005863s)
+[2020.10.28-22.44.02:386][787]LogAIModule: Creating AISystem for world Level_1
+[2020.10.28-22.44.02:387][787]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000021826DA9400), frame # 574787
+[2020.10.28-22.44.02:387][787]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002181DFD8180), frame # 574787
+[2020.10.28-22.44.02:387][787]LogPlayLevel: PIE: World Init took: (0.001064s)
+[2020.10.28-22.44.02:387][787]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Task/Task_2/Scene/Level_1.Level_1 to /Game/Task/Task_2/Scene/UEDPIE_0_Level_1.Level_1 (0.007068s)
+[2020.10.28-22.44.02:409][787]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2020.10.28-22.44.02:410][787]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.28-22.44.02:410][787]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.28-22.44.02:410][787]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.28-22.44.02:410][787]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.28-22.44.02:410][787]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.28-22.44.02:411][787]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.28-22.44.02:411][787]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.28-22.44.02:411][787]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.28-22.44.02:411][787]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.28-22.44.02:411][787]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.28-22.44.02:413][787]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.28-22.44.02:413][787]LogAudioMixer: Display: 1: FrontRight
+[2020.10.28-22.44.02:424][787]LogAudioMixer: Display: Using Audio Device BenQ GW2450H (NVIDIA High Definition Audio)
+[2020.10.28-22.44.02:424][787]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.28-22.44.02:424][787]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.28-22.44.02:424][787]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.28-22.44.02:425][787]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.28-22.44.02:436][787]LogInit: FAudioDevice initialized.
+[2020.10.28-22.44.02:443][787]LogLoad: Game class is 'GameModeBase'
+[2020.10.28-22.44.02:443][787]LogWorld: Bringing World /Game/Task/Task_2/Scene/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2020.10.28-23.44.02
+[2020.10.28-22.44.02:443][787]LogWorld: Bringing up level for play took: 0.000514
+[2020.10.28-22.44.02:444][787]LogOnline: OSS: Creating online subsystem instance for: :Context_36
+[2020.10.28-22.44.02:445][787]PIE: Server logged in
+[2020.10.28-22.44.02:446][787]PIE: Play in editor total start time 0,091 seconds.
+[2020.10.28-22.44.21:361][ 48]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.28-22.44.21:361][ 48]LogWorld: BeginTearingDown for /Game/Task/Task_2/Scene/UEDPIE_0_Level_1
+[2020.10.28-22.44.21:361][ 48]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2020.10.28-22.44.21:362][ 48]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.28-22.44.21:371][ 48]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.28-22.44.21:374][ 48]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.28-22.44.21:393][ 48]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.28-22.44.21:407][ 48]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002181DFD8180), frame # 577048
+[2020.10.28-22.44.21:407][ 48]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000021826DA9400), frame # 577048
+[2020.10.28-22.44.21:410][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2020.10.28-22.44.21:440][ 49]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2020.10.28-22.56.17:517][211]BlueprintLog: New page: Compile Level_1
+[2020.10.28-22.56.17:522][211]LogBlueprint: Error: [Compiler PersistentLevel.Level_1] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2020.10.28-22.56.17:566][211]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2020.10.28-22.56.18:123][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Task/Task_2/Scene/Level_1" FILE="../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.28-22.56.18:146][259]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2020.10.28-22.56.18:185][259]LogSavePackage: Moving '../../../../../Git project/Labirynt_KrzysztofCh/Saved/Level_10B448DE14A19BA6A8112F2824BB10384.tmp' to '../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap'
+[2020.10.28-22.56.18:211][259]LogFileHelpers: Saving map 'Level_1' took 0.087
+[2020.10.28-22.56.18:223][259]AssetCheck: New page: Asset Save: Level_1
+[2020.10.28-22.56.18:223][259]LogContentValidation: Display: Validating World /Game/Task/Task_2/Scene/Level_1.Level_1
+[2020.10.28-22.56.35:155][229]BlueprintLog: New page: Compile Level_1
+[2020.10.28-22.56.35:193][229]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2020.10.28-22.56.35:807][286]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Task/Task_2/Scene/Level_1" FILE="../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.28-22.56.35:831][286]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2020.10.28-22.56.35:862][286]LogSavePackage: Moving '../../../../../Git project/Labirynt_KrzysztofCh/Saved/Level_117F89C9D432DC94B45A5E2B7812BF62F.tmp' to '../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap'
+[2020.10.28-22.56.35:886][286]LogFileHelpers: Saving map 'Level_1' took 0.079
+[2020.10.28-22.56.35:899][286]AssetCheck: New page: Asset Save: Level_1
+[2020.10.28-22.56.35:899][286]LogContentValidation: Display: Validating World /Game/Task/Task_2/Scene/Level_1.Level_1
+[2020.10.28-22.56.38:027][523]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.28-22.56.38:041][523]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.28-22.56.38:041][523]PIE: New page: PIE session: Level_1 (29 paź 2020, 00:56:38)
+[2020.10.28-22.56.38:062][523]LogPlayLevel: Creating play world package: /Game/Task/Task_2/Scene/UEDPIE_0_Level_1
+[2020.10.28-22.56.38:065][523]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003623s)
+[2020.10.28-22.56.38:066][523]LogAIModule: Creating AISystem for world Level_1
+[2020.10.28-22.56.38:066][523]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000021811CE0E00), frame # 637523
+[2020.10.28-22.56.38:066][523]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002183EC79080), frame # 637523
+[2020.10.28-22.56.38:067][523]LogPlayLevel: PIE: World Init took: (0.001061s)
+[2020.10.28-22.56.38:067][523]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Task/Task_2/Scene/Level_1.Level_1 to /Game/Task/Task_2/Scene/UEDPIE_0_Level_1.Level_1 (0.004807s)
+[2020.10.28-22.56.38:091][523]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2020.10.28-22.56.38:092][523]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.28-22.56.38:092][523]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.28-22.56.38:092][523]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.28-22.56.38:092][523]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.28-22.56.38:092][523]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.28-22.56.38:092][523]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.28-22.56.38:092][523]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.28-22.56.38:092][523]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.28-22.56.38:093][523]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.28-22.56.38:093][523]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.28-22.56.38:095][523]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.28-22.56.38:095][523]LogAudioMixer: Display: 1: FrontRight
+[2020.10.28-22.56.38:106][523]LogAudioMixer: Display: Using Audio Device BenQ GW2450H (NVIDIA High Definition Audio)
+[2020.10.28-22.56.38:106][523]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.28-22.56.38:106][523]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.28-22.56.38:106][523]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.28-22.56.38:107][523]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.28-22.56.38:118][523]LogInit: FAudioDevice initialized.
+[2020.10.28-22.56.38:125][523]LogLoad: Game class is 'GameModeBase'
+[2020.10.28-22.56.38:126][523]LogWorld: Bringing World /Game/Task/Task_2/Scene/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2020.10.28-23.56.38
+[2020.10.28-22.56.38:126][523]LogWorld: Bringing up level for play took: 0.000515
+[2020.10.28-22.56.38:126][523]LogOnline: OSS: Creating online subsystem instance for: :Context_37
+[2020.10.28-22.56.38:128][523]PIE: Server logged in
+[2020.10.28-22.56.38:129][523]PIE: Play in editor total start time 0,088 seconds.
+[2020.10.28-22.56.46:883][570]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.28-22.56.46:883][570]LogWorld: BeginTearingDown for /Game/Task/Task_2/Scene/UEDPIE_0_Level_1
+[2020.10.28-22.56.46:883][570]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2020.10.28-22.56.46:883][570]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.28-22.56.46:890][570]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.28-22.56.46:894][570]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.28-22.56.46:915][570]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.28-22.56.46:929][570]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002183EC79080), frame # 638570
+[2020.10.28-22.56.46:929][570]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000021811CE0E00), frame # 638570
+[2020.10.28-22.56.46:931][570]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2020.10.28-22.56.46:987][572]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2020.10.28-22.57.11:649][194]BlueprintLog: New page: Compile Level_1
+[2020.10.28-22.57.11:685][194]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2020.10.28-22.57.12:425][257]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Task/Task_2/Scene/Level_1" FILE="../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.28-22.57.12:447][257]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2020.10.28-22.57.12:479][257]LogSavePackage: Moving '../../../../../Git project/Labirynt_KrzysztofCh/Saved/Level_147650FE643619D5EFA46A2A54B3D33B5.tmp' to '../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap'
+[2020.10.28-22.57.12:505][257]LogFileHelpers: Saving map 'Level_1' took 0.081
+[2020.10.28-22.57.12:516][257]AssetCheck: New page: Asset Save: Level_1
+[2020.10.28-22.57.12:516][257]LogContentValidation: Display: Validating World /Game/Task/Task_2/Scene/Level_1.Level_1
+[2020.10.28-22.57.14:954][532]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.28-22.57.14:968][532]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.28-22.57.14:968][532]PIE: New page: PIE session: Level_1 (29 paź 2020, 00:57:14)
+[2020.10.28-22.57.14:992][532]LogPlayLevel: Creating play world package: /Game/Task/Task_2/Scene/UEDPIE_0_Level_1
+[2020.10.28-22.57.14:996][532]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003707s)
+[2020.10.28-22.57.14:997][532]LogAIModule: Creating AISystem for world Level_1
+[2020.10.28-22.57.14:997][532]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000217DA99D200), frame # 641532
+[2020.10.28-22.57.14:997][532]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002182FAA9800), frame # 641532
+[2020.10.28-22.57.14:997][532]LogPlayLevel: PIE: World Init took: (0.001076s)
+[2020.10.28-22.57.14:997][532]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Task/Task_2/Scene/Level_1.Level_1 to /Game/Task/Task_2/Scene/UEDPIE_0_Level_1.Level_1 (0.004918s)
+[2020.10.28-22.57.15:020][532]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2020.10.28-22.57.15:021][532]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.28-22.57.15:021][532]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.28-22.57.15:021][532]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.28-22.57.15:021][532]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.28-22.57.15:021][532]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.28-22.57.15:021][532]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.28-22.57.15:021][532]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.28-22.57.15:021][532]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.28-22.57.15:021][532]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.28-22.57.15:021][532]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.28-22.57.15:023][532]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.28-22.57.15:023][532]LogAudioMixer: Display: 1: FrontRight
+[2020.10.28-22.57.15:032][532]LogAudioMixer: Display: Using Audio Device BenQ GW2450H (NVIDIA High Definition Audio)
+[2020.10.28-22.57.15:032][532]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.28-22.57.15:032][532]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.28-22.57.15:032][532]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.28-22.57.15:033][532]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.28-22.57.15:043][532]LogInit: FAudioDevice initialized.
+[2020.10.28-22.57.15:053][532]LogLoad: Game class is 'GameModeBase'
+[2020.10.28-22.57.15:054][532]LogWorld: Bringing World /Game/Task/Task_2/Scene/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2020.10.28-23.57.15
+[2020.10.28-22.57.15:054][532]LogWorld: Bringing up level for play took: 0.000492
+[2020.10.28-22.57.15:054][532]LogOnline: OSS: Creating online subsystem instance for: :Context_38
+[2020.10.28-22.57.15:056][532]PIE: Server logged in
+[2020.10.28-22.57.15:057][532]PIE: Play in editor total start time 0,089 seconds.
+[2020.10.28-22.57.22:083][369]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.28-22.57.22:083][369]LogWorld: BeginTearingDown for /Game/Task/Task_2/Scene/UEDPIE_0_Level_1
+[2020.10.28-22.57.22:083][369]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2020.10.28-22.57.22:084][369]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.28-22.57.22:090][369]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.28-22.57.22:094][369]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.28-22.57.22:115][369]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.28-22.57.22:129][369]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002182FAA9800), frame # 642369
+[2020.10.28-22.57.22:129][369]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000217DA99D200), frame # 642369
+[2020.10.28-22.57.22:132][369]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2020.10.28-22.57.22:164][370]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2020.10.28-22.59.11:059][857]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Task/Task_2/Scene/Level_1" FILE="../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.28-22.59.11:081][857]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2020.10.28-22.59.11:113][857]LogSavePackage: Moving '../../../../../Git project/Labirynt_KrzysztofCh/Saved/Level_1063F101E4E56DC4B56DBADB0875339D9.tmp' to '../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap'
+[2020.10.28-22.59.11:138][857]LogFileHelpers: Saving map 'Level_1' took 0.080
+[2020.10.28-22.59.11:148][857]AssetCheck: New page: Asset Save: Level_1
+[2020.10.28-22.59.11:148][857]LogContentValidation: Display: Validating World /Game/Task/Task_2/Scene/Level_1.Level_1
+[2020.10.28-22.59.12:274][986]BlueprintLog: New page: Compile Level_1
+[2020.10.28-22.59.12:310][986]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2020.10.28-22.59.12:976][ 49]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Task/Task_2/Scene/Level_1" FILE="../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.28-22.59.12:998][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2020.10.28-22.59.13:028][ 49]LogSavePackage: Moving '../../../../../Git project/Labirynt_KrzysztofCh/Saved/Level_1650954EC4654D7CDFF91F5A75501FF64.tmp' to '../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap'
+[2020.10.28-22.59.13:052][ 49]LogFileHelpers: Saving map 'Level_1' took 0.076
+[2020.10.28-22.59.13:062][ 49]AssetCheck: New page: Asset Save: Level_1
+[2020.10.28-22.59.13:062][ 49]LogContentValidation: Display: Validating World /Game/Task/Task_2/Scene/Level_1.Level_1
+[2020.10.28-23.02.58:795][609]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Task/Task_2/Scene/Level_1" FILE="../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.28-23.02.58:820][609]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2020.10.28-23.02.58:859][609]LogSavePackage: Moving '../../../../../Git project/Labirynt_KrzysztofCh/Saved/Level_18F361AAA410678AB17A6CDADB7AB4A2F.tmp' to '../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap'
+[2020.10.28-23.02.58:882][609]LogFileHelpers: Saving map 'Level_1' took 0.088
+[2020.10.28-23.02.58:892][609]AssetCheck: New page: Asset Save: Level_1
+[2020.10.28-23.02.58:892][609]LogContentValidation: Display: Validating World /Game/Task/Task_2/Scene/Level_1.Level_1
+[2020.10.28-23.03.00:161][755]BlueprintLog: New page: Compile Level_1
+[2020.10.28-23.03.00:200][755]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2020.10.28-23.03.16:812][658]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Task/Task_2/Scene/Level_1" FILE="../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.28-23.03.16:835][658]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2020.10.28-23.03.16:869][658]LogSavePackage: Moving '../../../../../Git project/Labirynt_KrzysztofCh/Saved/Level_1860FB5A640D2BEBD8EB0628BBCB2C518.tmp' to '../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap'
+[2020.10.28-23.03.16:892][658]LogFileHelpers: Saving map 'Level_1' took 0.080
+[2020.10.28-23.03.16:904][658]AssetCheck: New page: Asset Save: Level_1
+[2020.10.28-23.03.16:904][658]LogContentValidation: Display: Validating World /Game/Task/Task_2/Scene/Level_1.Level_1
+[2020.10.28-23.03.17:428][717]BlueprintLog: New page: Compile Level_1
+[2020.10.28-23.03.17:466][717]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2020.10.28-23.03.18:079][775]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Task/Task_2/Scene/Level_1" FILE="../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.28-23.03.18:101][775]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2020.10.28-23.03.18:132][775]LogSavePackage: Moving '../../../../../Git project/Labirynt_KrzysztofCh/Saved/Level_17B92D8A04FF305D4C2ED55B625E67C5F.tmp' to '../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap'
+[2020.10.28-23.03.18:156][775]LogFileHelpers: Saving map 'Level_1' took 0.078
+[2020.10.28-23.03.18:166][775]AssetCheck: New page: Asset Save: Level_1
+[2020.10.28-23.03.18:166][775]LogContentValidation: Display: Validating World /Game/Task/Task_2/Scene/Level_1.Level_1
+[2020.10.28-23.03.22:419][249]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.28-23.03.22:433][249]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.28-23.03.22:433][249]PIE: New page: PIE session: Level_1 (29 paź 2020, 01:03:22)
+[2020.10.28-23.03.22:468][249]LogPlayLevel: Creating play world package: /Game/Task/Task_2/Scene/UEDPIE_0_Level_1
+[2020.10.28-23.03.22:473][249]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004657s)
+[2020.10.28-23.03.22:473][249]LogAIModule: Creating AISystem for world Level_1
+[2020.10.28-23.03.22:474][249]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000218866D8E00), frame # 673249
+[2020.10.28-23.03.22:474][249]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002188A74B740), frame # 673249
+[2020.10.28-23.03.22:474][249]LogPlayLevel: PIE: World Init took: (0.001075s)
+[2020.10.28-23.03.22:474][249]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Task/Task_2/Scene/Level_1.Level_1 to /Game/Task/Task_2/Scene/UEDPIE_0_Level_1.Level_1 (0.005867s)
+[2020.10.28-23.03.22:496][249]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2020.10.28-23.03.22:497][249]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.28-23.03.22:497][249]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.28-23.03.22:497][249]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.28-23.03.22:497][249]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.28-23.03.22:497][249]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.28-23.03.22:497][249]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.28-23.03.22:497][249]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.28-23.03.22:497][249]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.28-23.03.22:497][249]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.28-23.03.22:497][249]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.28-23.03.22:499][249]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.28-23.03.22:499][249]LogAudioMixer: Display: 1: FrontRight
+[2020.10.28-23.03.22:510][249]LogAudioMixer: Display: Using Audio Device BenQ GW2450H (NVIDIA High Definition Audio)
+[2020.10.28-23.03.22:510][249]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.28-23.03.22:510][249]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.28-23.03.22:510][249]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.28-23.03.22:511][249]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.28-23.03.22:522][249]LogInit: FAudioDevice initialized.
+[2020.10.28-23.03.22:530][249]LogLoad: Game class is 'GameModeBase'
+[2020.10.28-23.03.22:531][249]LogWorld: Bringing World /Game/Task/Task_2/Scene/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2020.10.29-00.03.22
+[2020.10.28-23.03.22:531][249]LogWorld: Bringing up level for play took: 0.000517
+[2020.10.28-23.03.22:531][249]LogOnline: OSS: Creating online subsystem instance for: :Context_39
+[2020.10.28-23.03.22:533][249]PIE: Server logged in
+[2020.10.28-23.03.22:534][249]PIE: Play in editor total start time 0,101 seconds.
+[2020.10.28-23.03.31:158][280]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.28-23.03.31:158][280]LogWorld: BeginTearingDown for /Game/Task/Task_2/Scene/UEDPIE_0_Level_1
+[2020.10.28-23.03.31:159][280]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2020.10.28-23.03.31:159][280]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.28-23.03.31:164][280]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.28-23.03.31:168][280]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.28-23.03.31:189][280]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.28-23.03.31:203][280]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002188A74B740), frame # 674280
+[2020.10.28-23.03.31:203][280]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000218866D8E00), frame # 674280
+[2020.10.28-23.03.31:205][280]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2020.10.28-23.03.31:234][281]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2020.10.28-23.03.57:312][929]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Task/Task_2/Scene/Level_1" FILE="../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.28-23.03.57:336][929]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2020.10.28-23.03.57:369][929]LogSavePackage: Moving '../../../../../Git project/Labirynt_KrzysztofCh/Saved/Level_1610B02FD4B7210536FD8E2AC35228E18.tmp' to '../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap'
+[2020.10.28-23.03.57:393][929]LogFileHelpers: Saving map 'Level_1' took 0.081
+[2020.10.28-23.03.57:401][929]AssetCheck: New page: Asset Save: Level_1
+[2020.10.28-23.03.57:401][929]LogContentValidation: Display: Validating World /Game/Task/Task_2/Scene/Level_1.Level_1
+[2020.10.28-23.03.59:796][189]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Task/Task_2/Scene/Level_1" FILE="../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.28-23.03.59:817][189]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.10.28-23.03.59:848][189]LogSavePackage: Moving '../../../../../Git project/Labirynt_KrzysztofCh/Saved/Level_1FBD3C7C946EC324B71A80BA776FAC2F7.tmp' to '../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap'
+[2020.10.28-23.03.59:871][189]LogFileHelpers: Saving map 'Level_1' took 0.075
+[2020.10.28-23.03.59:882][189]AssetCheck: New page: Asset Save: Level_1
+[2020.10.28-23.03.59:882][189]LogContentValidation: Display: Validating World /Game/Task/Task_2/Scene/Level_1.Level_1
+[2020.10.28-23.04.00:230][230]BlueprintLog: New page: Compile Level_1
+[2020.10.28-23.04.00:266][230]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2020.10.28-23.04.01:096][319]BlueprintLog: New page: Compile Level_1
+[2020.10.28-23.04.01:138][319]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2020.10.28-23.04.01:647][364]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Task/Task_2/Scene/Level_1" FILE="../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.28-23.04.01:670][364]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2020.10.28-23.04.01:701][364]LogSavePackage: Moving '../../../../../Git project/Labirynt_KrzysztofCh/Saved/Level_154ADD9F54BEF0FB01A4BDDA208DF8A63.tmp' to '../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap'
+[2020.10.28-23.04.01:726][364]LogFileHelpers: Saving map 'Level_1' took 0.079
+[2020.10.28-23.04.01:737][364]AssetCheck: New page: Asset Save: Level_1
+[2020.10.28-23.04.01:737][364]LogContentValidation: Display: Validating World /Game/Task/Task_2/Scene/Level_1.Level_1
+[2020.10.28-23.04.04:078][626]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.28-23.04.04:091][626]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.28-23.04.04:091][626]PIE: New page: PIE session: Level_1 (29 paź 2020, 01:04:04)
+[2020.10.28-23.04.04:091][626]LogPlayLevel: Creating play world package: /Game/Task/Task_2/Scene/UEDPIE_0_Level_1
+[2020.10.28-23.04.04:095][626]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003719s)
+[2020.10.28-23.04.04:096][626]LogAIModule: Creating AISystem for world Level_1
+[2020.10.28-23.04.04:096][626]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000021826DAAE00), frame # 677626
+[2020.10.28-23.04.04:096][626]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002188A6C6980), frame # 677626
+[2020.10.28-23.04.04:096][626]LogPlayLevel: PIE: World Init took: (0.001100s)
+[2020.10.28-23.04.04:096][626]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Task/Task_2/Scene/Level_1.Level_1 to /Game/Task/Task_2/Scene/UEDPIE_0_Level_1.Level_1 (0.004918s)
+[2020.10.28-23.04.04:119][626]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2020.10.28-23.04.04:120][626]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.28-23.04.04:120][626]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.28-23.04.04:120][626]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.28-23.04.04:120][626]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.28-23.04.04:120][626]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.28-23.04.04:120][626]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.28-23.04.04:120][626]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.28-23.04.04:120][626]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.28-23.04.04:120][626]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.28-23.04.04:120][626]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.28-23.04.04:122][626]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.28-23.04.04:122][626]LogAudioMixer: Display: 1: FrontRight
+[2020.10.28-23.04.04:131][626]LogAudioMixer: Display: Using Audio Device BenQ GW2450H (NVIDIA High Definition Audio)
+[2020.10.28-23.04.04:131][626]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.28-23.04.04:131][626]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.28-23.04.04:131][626]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.28-23.04.04:132][626]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.28-23.04.04:142][626]LogInit: FAudioDevice initialized.
+[2020.10.28-23.04.04:150][626]LogLoad: Game class is 'GameModeBase'
+[2020.10.28-23.04.04:151][626]LogWorld: Bringing World /Game/Task/Task_2/Scene/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2020.10.29-00.04.04
+[2020.10.28-23.04.04:151][626]LogWorld: Bringing up level for play took: 0.000651
+[2020.10.28-23.04.04:151][626]LogOnline: OSS: Creating online subsystem instance for: :Context_40
+[2020.10.28-23.04.04:153][626]PIE: Server logged in
+[2020.10.28-23.04.04:153][626]PIE: Play in editor total start time 0,063 seconds.
+[2020.10.28-23.04.13:849][785]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.28-23.04.13:849][785]LogWorld: BeginTearingDown for /Game/Task/Task_2/Scene/UEDPIE_0_Level_1
+[2020.10.28-23.04.13:849][785]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2020.10.28-23.04.13:849][785]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.28-23.04.13:861][785]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.28-23.04.13:864][785]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.28-23.04.13:883][785]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.28-23.04.13:897][785]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002188A6C6980), frame # 678785
+[2020.10.28-23.04.13:897][785]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000021826DAAE00), frame # 678785
+[2020.10.28-23.04.13:899][785]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2020.10.28-23.04.13:928][786]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2020.10.28-23.04.15:063][907]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Task/Task_2/Scene/Level_1" FILE="../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.28-23.04.15:086][907]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2020.10.28-23.04.15:118][907]LogSavePackage: Moving '../../../../../Git project/Labirynt_KrzysztofCh/Saved/Level_1511794154618C84976AA3BB0A61F0C72.tmp' to '../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap'
+[2020.10.28-23.04.15:230][907]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Task/Task_2/Scene/Level_1_BuiltData" FILE="../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1_BuiltData.uasset" SILENT=true
+[2020.10.28-23.04.15:247][907]LogSavePackage: Moving '../../../../../Git project/Labirynt_KrzysztofCh/Saved/Level_1_BuiltData1CF5F38D4B4AB7822121C09A21CA692F.tmp' to '../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1_BuiltData.uasset'
+[2020.10.28-23.04.15:258][907]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.28-23.04.15:259][907]LogContentValidation: Display: Validating World /Game/Task/Task_2/Scene/Level_1.Level_1
+[2020.10.28-23.04.15:259][907]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Task/Task_2/Scene/Level_1_BuiltData.Level_1_BuiltData
+[2020.10.28-23.04.25:457][738]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ball)
+[2020.10.28-23.04.40:781][183]LogSlate: Window 'Message' being destroyed
+[2020.10.28-23.04.40:784][183]Message dialog closed, result: Ok, title: Message, text: Asset /Game/Task/Task_3/Ball already exists.
+[2020.10.28-23.04.42:930][183]LogSlate: Window 'Message' being destroyed
+[2020.10.28-23.04.42:933][183]Message dialog closed, result: Ok, title: Message, text: Asset /Game/Task/Task_3/Ball already exists.
+[2020.10.28-23.04.43:871][183]LogSlate: Window 'Choose New StaticMesh Location' being destroyed
+[2020.10.28-23.04.48:710][689]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2020.10.28-23.04.49:816][689]LogSlate: Window 'Delete Assets' being destroyed
+[2020.10.28-23.04.49:965][689]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2020.10.28-23.04.49:989][689]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2020.10.28-23.04.50:008][689]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.10.28-23.04.50:154][689]SourceControl: rm 'Labirynt_KrzysztofCh/Content/Task/Task_3/Ball.uasset'
+[2020.10.28-23.05.29:080][815]LogSlate: Window 'Choose New StaticMesh Location' being destroyed
+[2020.10.28-23.05.46:588][371]LogSlate: Window 'Choose New StaticMesh Location' being destroyed
+[2020.10.28-23.06.47:652][470]LogSlate: Window 'Choose New StaticMesh Location' being destroyed
+[2020.10.28-23.06.47:680][470]LogStaticMesh: Building static mesh Ball...
+[2020.10.28-23.06.47:686][470]LogStaticMesh: Built static mesh [0.01s] /Game/Task/Task_3/Ball.Ball
+[2020.10.28-23.06.50:207][709]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Task/Task_3/Ball" FILE="../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_3/Ball.uasset" SILENT=true
+[2020.10.28-23.06.50:227][709]LogSavePackage: Moving '../../../../../Git project/Labirynt_KrzysztofCh/Saved/BallB7DF28A642590A0B57EAF09D1F3412B3.tmp' to '../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_3/Ball.uasset'
+[2020.10.28-23.06.50:393][709]AssetCheck: New page: Asset Save: Ball
+[2020.10.28-23.06.50:393][709]LogContentValidation: Display: Validating StaticMesh /Game/Task/Task_3/Ball.Ball
+[2020.10.28-23.06.52:733][963]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Task/Task_2/Scene/Level_1" FILE="../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.28-23.06.52:763][963]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2020.10.28-23.06.52:796][963]LogSavePackage: Moving '../../../../../Git project/Labirynt_KrzysztofCh/Saved/Level_14A69704E4A5FFAEBD7B02E8F893E1A6A.tmp' to '../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap'
+[2020.10.28-23.06.52:903][963]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Task/Task_2/Scene/Level_1_BuiltData" FILE="../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1_BuiltData.uasset" SILENT=true
+[2020.10.28-23.06.52:917][963]LogSavePackage: Moving '../../../../../Git project/Labirynt_KrzysztofCh/Saved/Level_1_BuiltDataA50A81284CF604A623CF97A7B9576C98.tmp' to '../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1_BuiltData.uasset'
+[2020.10.28-23.06.52:928][963]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.28-23.06.52:928][963]LogContentValidation: Display: Validating World /Game/Task/Task_2/Scene/Level_1.Level_1
+[2020.10.28-23.06.52:928][963]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Task/Task_2/Scene/Level_1_BuiltData.Level_1_BuiltData
