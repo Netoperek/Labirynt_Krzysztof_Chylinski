@@ -2914,3 +2914,17 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.10.28-23.10.10:848][554]AssetCheck: New page: Asset Save: multiple assets
 [2020.10.28-23.10.10:848][554]LogContentValidation: Display: Validating World /Game/Task/Task_2/Scene/Level_1.Level_1
 [2020.10.28-23.10.10:848][554]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Task/Task_2/Scene/Level_1_BuiltData.Level_1_BuiltData
+[2020.10.28-23.11.06:286][310]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Task/Task_2/Scene/Level_1" FILE="../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.28-23.11.06:306][310]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.10.28-23.11.06:338][310]LogSavePackage: Moving '../../../../../Git project/Labirynt_KrzysztofCh/Saved/Level_156ACFEF44021F508AC2FDD85044D1F4F.tmp' to '../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap'
+[2020.10.28-23.11.06:360][310]LogFileHelpers: Saving map 'Level_1' took 0.075
+[2020.10.28-23.11.06:370][310]AssetCheck: New page: Asset Save: Level_1
+[2020.10.28-23.11.06:370][310]LogContentValidation: Display: Validating World /Game/Task/Task_2/Scene/Level_1.Level_1
+[2020.10.28-23.11.43:002][588]BlueprintLog: New page: Compile Level_1
+[2020.10.28-23.11.43:038][588]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2020.10.28-23.11.44:787][734]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Task/Task_2/Scene/Level_1" FILE="../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.28-23.11.44:811][734]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2020.10.28-23.11.44:842][734]LogSavePackage: Moving '../../../../../Git project/Labirynt_KrzysztofCh/Saved/Level_1D44C00094976C67A816F56998FB933D8.tmp' to '../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap'
+[2020.10.28-23.11.44:866][734]LogFileHelpers: Saving map 'Level_1' took 0.079
+[2020.10.28-23.11.44:878][734]AssetCheck: New page: Asset Save: Level_1
+[2020.10.28-23.11.44:878][734]LogContentValidation: Display: Validating World /Game/Task/Task_2/Scene/Level_1.Level_1
