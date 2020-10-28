@@ -2893,3 +2893,24 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.10.28-23.06.52:928][963]AssetCheck: New page: Asset Save: multiple assets
 [2020.10.28-23.06.52:928][963]LogContentValidation: Display: Validating World /Game/Task/Task_2/Scene/Level_1.Level_1
 [2020.10.28-23.06.52:928][963]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Task/Task_2/Scene/Level_1_BuiltData.Level_1_BuiltData
+[2020.10.28-23.09.24:719][385]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Task/Task_2/Scene/Level_1" FILE="../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.28-23.09.24:743][385]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2020.10.28-23.09.24:780][385]LogSavePackage: Moving '../../../../../Git project/Labirynt_KrzysztofCh/Saved/Level_13DFBB16A4AFFE7EB27BD6E9CA5CBFBAB.tmp' to '../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap'
+[2020.10.28-23.09.24:804][385]LogFileHelpers: Saving map 'Level_1' took 0.086
+[2020.10.28-23.09.24:813][385]AssetCheck: New page: Asset Save: Level_1
+[2020.10.28-23.09.24:813][385]LogContentValidation: Display: Validating World /Game/Task/Task_2/Scene/Level_1.Level_1
+[2020.10.28-23.10.04:468][850]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Task/Task_2/Scene/Level_1" FILE="../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.28-23.10.04:490][850]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2020.10.28-23.10.04:521][850]LogSavePackage: Moving '../../../../../Git project/Labirynt_KrzysztofCh/Saved/Level_11F9D40D24B45E65499F33DBEB1FC3302.tmp' to '../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap'
+[2020.10.28-23.10.04:547][850]LogFileHelpers: Saving map 'Level_1' took 0.079
+[2020.10.28-23.10.04:556][850]AssetCheck: New page: Asset Save: Level_1
+[2020.10.28-23.10.04:556][850]LogContentValidation: Display: Validating World /Game/Task/Task_2/Scene/Level_1.Level_1
+[2020.10.28-23.10.09:472][428]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.10.28-23.10.10:653][554]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Task/Task_2/Scene/Level_1" FILE="../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.28-23.10.10:676][554]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2020.10.28-23.10.10:707][554]LogSavePackage: Moving '../../../../../Git project/Labirynt_KrzysztofCh/Saved/Level_1FAD7C5D845F7BE2C2F4928AF847F4595.tmp' to '../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap'
+[2020.10.28-23.10.10:820][554]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Task/Task_2/Scene/Level_1_BuiltData" FILE="../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1_BuiltData.uasset" SILENT=true
+[2020.10.28-23.10.10:837][554]LogSavePackage: Moving '../../../../../Git project/Labirynt_KrzysztofCh/Saved/Level_1_BuiltData784F20B0487D8E7BD0776F81D1577159.tmp' to '../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1_BuiltData.uasset'
+[2020.10.28-23.10.10:848][554]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.28-23.10.10:848][554]LogContentValidation: Display: Validating World /Game/Task/Task_2/Scene/Level_1.Level_1
+[2020.10.28-23.10.10:848][554]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Task/Task_2/Scene/Level_1_BuiltData.Level_1_BuiltData
