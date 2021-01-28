@@ -1,0 +1,1557 @@
+﻿Log file open, 01/28/21 01:49:59
+LogInit: Display: Running engine for game: Labirynt_KrzysztofCh
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.921451
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-13942748
+LogInit: Engine Version: 4.25.3-13942748+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 2004) (), CPU: AMD Ryzen 7 2700X Eight-Core Processor         , GPU: NVIDIA GeForce GTX 1080 Ti
+LogInit: Compiled (64-bit): Jul 25 2020 02:07:48
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line: 
+LogInit: Base Directory: E:/Unreal Egine 4/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/Git project/Labirynt_KrzysztofCh/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.01.28-00.50.00:598][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.01.28-00.50.00:598][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.01.28-00.50.00:598][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/Git project/Labirynt_KrzysztofCh/Saved/Config/Windows/Engine.ini]
+[2021.01.28-00.50.00:598][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.01.28-00.50.00:598][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/Git project/Labirynt_KrzysztofCh/Saved/Config/Windows/Engine.ini]
+[2021.01.28-00.50.00:598][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/Git project/Labirynt_KrzysztofCh/Saved/Config/Windows/Engine.ini]
+[2021.01.28-00.50.00:598][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.01.28-00.50.00:598][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.01.28-00.50.00:598][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.01.28-00.50.00:598][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.01.28-00.50.00:599][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.01.28-00.50.00:599][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.01.28-00.50.00:599][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.01.28-00.50.00:599][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.01.28-00.50.00:599][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.01.28-00.50.00:599][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.01.28-00.50.00:599][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.01.28-00.50.00:599][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.01.28-00.50.00:599][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.01.28-00.50.00:599][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.01.28-00.50.00:599][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/Git project/Labirynt_KrzysztofCh/Saved/Config/Windows/Engine.ini]
+[2021.01.28-00.50.00:599][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.01.28-00.50.00:599][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.01.28-00.50.00:599][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.01.28-00.50.00:599][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.01.28-00.50.00:599][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.01.28-00.50.00:599][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.01.28-00.50.00:599][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.01.28-00.50.00:599][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.01.28-00.50.00:599][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.01.28-00.50.00:599][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.01.28-00.50.00:599][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.01.28-00.50.00:599][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.01.28-00.50.00:599][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.01.28-00.50.00:599][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/Git project/Labirynt_KrzysztofCh/Saved/Config/Windows/Engine.ini]
+[2021.01.28-00.50.00:599][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/Git project/Labirynt_KrzysztofCh/Saved/Config/Windows/Engine.ini]
+[2021.01.28-00.50.00:605][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Git project/Labirynt_KrzysztofCh/Saved/Config/Windows/Scalability.ini]
+[2021.01.28-00.50.00:605][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.01.28-00.50.00:605][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.01.28-00.50.00:605][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Git project/Labirynt_KrzysztofCh/Saved/Config/Windows/Scalability.ini]
+[2021.01.28-00.50.00:605][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.01.28-00.50.00:605][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Git project/Labirynt_KrzysztofCh/Saved/Config/Windows/Scalability.ini]
+[2021.01.28-00.50.00:605][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.01.28-00.50.00:605][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.01.28-00.50.00:605][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.01.28-00.50.00:605][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.01.28-00.50.00:605][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.01.28-00.50.00:605][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.01.28-00.50.00:605][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.01.28-00.50.00:605][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.01.28-00.50.00:605][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.01.28-00.50.00:605][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.01.28-00.50.00:605][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.01.28-00.50.00:605][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.01.28-00.50.00:605][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.01.28-00.50.00:605][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.01.28-00.50.00:605][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.01.28-00.50.00:605][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.01.28-00.50.00:605][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.01.28-00.50.00:605][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.01.28-00.50.00:605][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Git project/Labirynt_KrzysztofCh/Saved/Config/Windows/Scalability.ini]
+[2021.01.28-00.50.00:605][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.01.28-00.50.00:605][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.01.28-00.50.00:605][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.01.28-00.50.00:605][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.01.28-00.50.00:605][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.01.28-00.50.00:605][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.01.28-00.50.00:605][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.01.28-00.50.00:605][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.01.28-00.50.00:605][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.01.28-00.50.00:605][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.01.28-00.50.00:605][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.01.28-00.50.00:605][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.01.28-00.50.00:605][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.01.28-00.50.00:605][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.01.28-00.50.00:605][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.01.28-00.50.00:605][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.01.28-00.50.00:605][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.01.28-00.50.00:605][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.01.28-00.50.00:605][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.01.28-00.50.00:605][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.01.28-00.50.00:605][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.01.28-00.50.00:605][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.01.28-00.50.00:605][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.01.28-00.50.00:605][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.01.28-00.50.00:605][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.01.28-00.50.00:605][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.01.28-00.50.00:605][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.01.28-00.50.00:605][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.01.28-00.50.00:605][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.01.28-00.50.00:605][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.01.28-00.50.00:605][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Git project/Labirynt_KrzysztofCh/Saved/Config/Windows/Scalability.ini]
+[2021.01.28-00.50.00:605][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.01.28-00.50.00:605][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.01.28-00.50.00:605][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.01.28-00.50.00:605][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.01.28-00.50.00:605][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.01.28-00.50.00:605][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.01.28-00.50.00:605][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.01.28-00.50.00:605][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.01.28-00.50.00:605][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.01.28-00.50.00:605][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Git project/Labirynt_KrzysztofCh/Saved/Config/Windows/Scalability.ini]
+[2021.01.28-00.50.00:605][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.01.28-00.50.00:605][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.01.28-00.50.00:605][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.01.28-00.50.00:605][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.01.28-00.50.00:605][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.01.28-00.50.00:605][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.01.28-00.50.00:605][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.01.28-00.50.00:605][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.01.28-00.50.00:605][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.01.28-00.50.00:605][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.01.28-00.50.00:605][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.01.28-00.50.00:605][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.01.28-00.50.00:605][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.01.28-00.50.00:606][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.01.28-00.50.00:606][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.01.28-00.50.00:606][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.01.28-00.50.00:606][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.01.28-00.50.00:606][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.01.28-00.50.00:606][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.01.28-00.50.00:606][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.01.28-00.50.00:606][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.01.28-00.50.00:606][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.01.28-00.50.00:606][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.01.28-00.50.00:606][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.01.28-00.50.00:606][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.01.28-00.50.00:606][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.01.28-00.50.00:606][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Git project/Labirynt_KrzysztofCh/Saved/Config/Windows/Scalability.ini]
+[2021.01.28-00.50.00:606][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.01.28-00.50.00:606][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.01.28-00.50.00:606][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/Git project/Labirynt_KrzysztofCh/Saved/Config/Windows/Scalability.ini]
+[2021.01.28-00.50.00:606][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.01.28-00.50.00:606][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.01.28-00.50.00:606][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.01.28-00.50.00:606][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2021.01.28-00.50.00:606][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2021.01.28-00.50.00:606][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2021.01.28-00.50.00:606][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2021.01.28-00.50.00:606][  0]LogInit: Selected Device Profile: [Windows]
+[2021.01.28-00.50.00:606][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.01.28-00.50.00:608][  0]LogHAL: Display: Platform has ~ 32 GB [34288168960 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.01.28-00.50.00:608][  0]LogInit: Going up to parent DeviceProfile []
+[2021.01.28-00.50.00:609][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Git project/Labirynt_KrzysztofCh/Saved/Config/Windows/Scalability.ini]
+[2021.01.28-00.50.00:609][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.01.28-00.50.00:609][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.01.28-00.50.00:609][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Git project/Labirynt_KrzysztofCh/Saved/Config/Windows/Scalability.ini]
+[2021.01.28-00.50.00:609][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.01.28-00.50.00:609][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Git project/Labirynt_KrzysztofCh/Saved/Config/Windows/Scalability.ini]
+[2021.01.28-00.50.00:609][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.01.28-00.50.00:609][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.01.28-00.50.00:609][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.01.28-00.50.00:609][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.01.28-00.50.00:609][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.01.28-00.50.00:609][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.01.28-00.50.00:609][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.01.28-00.50.00:609][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.01.28-00.50.00:609][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.01.28-00.50.00:609][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.01.28-00.50.00:609][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.01.28-00.50.00:609][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.01.28-00.50.00:609][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.01.28-00.50.00:609][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.01.28-00.50.00:609][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.01.28-00.50.00:609][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.01.28-00.50.00:609][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.01.28-00.50.00:609][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.01.28-00.50.00:609][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Git project/Labirynt_KrzysztofCh/Saved/Config/Windows/Scalability.ini]
+[2021.01.28-00.50.00:609][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.01.28-00.50.00:609][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.01.28-00.50.00:609][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.01.28-00.50.00:609][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.01.28-00.50.00:609][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.01.28-00.50.00:609][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.01.28-00.50.00:609][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.01.28-00.50.00:609][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.01.28-00.50.00:609][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.01.28-00.50.00:609][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.01.28-00.50.00:609][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.01.28-00.50.00:609][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.01.28-00.50.00:609][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.01.28-00.50.00:609][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.01.28-00.50.00:609][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.01.28-00.50.00:609][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.01.28-00.50.00:609][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.01.28-00.50.00:609][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.01.28-00.50.00:609][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.01.28-00.50.00:609][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.01.28-00.50.00:609][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.01.28-00.50.00:609][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.01.28-00.50.00:609][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.01.28-00.50.00:609][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.01.28-00.50.00:609][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.01.28-00.50.00:609][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.01.28-00.50.00:609][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.01.28-00.50.00:609][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.01.28-00.50.00:610][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.01.28-00.50.00:610][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.01.28-00.50.00:610][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Git project/Labirynt_KrzysztofCh/Saved/Config/Windows/Scalability.ini]
+[2021.01.28-00.50.00:610][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.01.28-00.50.00:610][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.01.28-00.50.00:610][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.01.28-00.50.00:610][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.01.28-00.50.00:610][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.01.28-00.50.00:610][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.01.28-00.50.00:610][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.01.28-00.50.00:610][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.01.28-00.50.00:610][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.01.28-00.50.00:610][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Git project/Labirynt_KrzysztofCh/Saved/Config/Windows/Scalability.ini]
+[2021.01.28-00.50.00:610][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.01.28-00.50.00:610][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.01.28-00.50.00:610][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.01.28-00.50.00:610][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.01.28-00.50.00:610][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.01.28-00.50.00:610][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.01.28-00.50.00:610][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.01.28-00.50.00:610][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.01.28-00.50.00:610][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.01.28-00.50.00:610][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.01.28-00.50.00:610][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.01.28-00.50.00:610][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.01.28-00.50.00:610][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.01.28-00.50.00:610][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.01.28-00.50.00:610][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.01.28-00.50.00:610][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.01.28-00.50.00:610][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.01.28-00.50.00:610][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.01.28-00.50.00:610][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.01.28-00.50.00:610][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.01.28-00.50.00:610][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.01.28-00.50.00:610][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.01.28-00.50.00:610][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.01.28-00.50.00:610][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.01.28-00.50.00:610][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.01.28-00.50.00:610][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.01.28-00.50.00:610][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Git project/Labirynt_KrzysztofCh/Saved/Config/Windows/Scalability.ini]
+[2021.01.28-00.50.00:610][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.01.28-00.50.00:610][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.01.28-00.50.00:610][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/Git project/Labirynt_KrzysztofCh/Saved/Config/Windows/Scalability.ini]
+[2021.01.28-00.50.00:610][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.01.28-00.50.00:610][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.01.28-00.50.00:610][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.01.28-00.50.00:610][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2021.01.28-00.50.00:610][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2021.01.28-00.50.00:610][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2021.01.28-00.50.00:610][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2021.01.28-00.50.00:610][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.01.28-00.50.00:618][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.01.28-00.50.00:618][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.01.28-00.50.00:618][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.01.28-00.50.00:618][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/Git project/Labirynt_KrzysztofCh/Saved/Config/Windows/Engine.ini]
+[2021.01.28-00.50.00:618][  0]LogInit: Computer: NETOPEREK
+[2021.01.28-00.50.00:618][  0]LogInit: User: redga
+[2021.01.28-00.50.00:618][  0]LogInit: CPU Page size=4096, Cores=8
+[2021.01.28-00.50.00:618][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.01.28-00.50.00:618][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2021.01.28-00.50.00:618][  0]LogMemory: Platform Memory Stats for Windows
+[2021.01.28-00.50.00:618][  0]LogMemory: Process Physical Memory: 121.44 MB used, 121.45 MB peak
+[2021.01.28-00.50.00:618][  0]LogMemory: Process Virtual Memory: 106.46 MB used, 106.46 MB peak
+[2021.01.28-00.50.00:618][  0]LogMemory: Physical Memory: 11507.77 MB used,  21191.97 MB free, 32699.75 MB total
+[2021.01.28-00.50.00:618][  0]LogMemory: Virtual Memory: 5195.52 MB used,  134212536.00 MB free, 134217728.00 MB total
+[2021.01.28-00.50.00:626][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.01.28-00.50.01:032][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.01.28-00.50.01:035][  0]LogInit: Using OS detected language (pl-PL).
+[2021.01.28-00.50.01:035][  0]LogInit: Using OS detected locale (pl-PL).
+[2021.01.28-00.50.01:051][  0]LogTextLocalizationManager: No specific localization for 'pl-PL' exists, so the 'pl' localization will be used.
+[2021.01.28-00.50.01:052][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/pl/Editor.locres' could not be opened for reading!
+[2021.01.28-00.50.01:052][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/pl/EditorTutorials.locres' could not be opened for reading!
+[2021.01.28-00.50.01:052][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/pl/Keywords.locres' could not be opened for reading!
+[2021.01.28-00.50.01:052][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/pl/Category.locres' could not be opened for reading!
+[2021.01.28-00.50.01:053][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/pl/ToolTips.locres' could not be opened for reading!
+[2021.01.28-00.50.01:053][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/pl/PropertyNames.locres' could not be opened for reading!
+[2021.01.28-00.50.01:053][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/pl/Engine.locres' could not be opened for reading!
+[2021.01.28-00.50.01:079][  0]LogInit: Setting process to per monitor DPI aware
+[2021.01.28-00.50.01:191][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.01.28-00.50.01:191][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.01.28-00.50.04:231][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.01.28-00.50.04:231][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.01.28-00.50.04:231][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.01.28-00.50.04:231][  0]LogD3D11RHI: D3D11 adapters:
+[2021.01.28-00.50.04:325][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080 Ti' (Feature Level 11_0)
+[2021.01.28-00.50.04:325][  0]LogD3D11RHI:       11127/0/16349 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.01.28-00.50.04:332][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.01.28-00.50.04:332][  0]LogD3D11RHI:       0/0/16349 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.01.28-00.50.04:332][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.01.28-00.50.04:343][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.01.28-00.50.04:343][  0]LogD3D11RHI:     GPU DeviceId: 0x1b06 (for the marketing name, search the web for "GPU Device Id")
+[2021.01.28-00.50.04:344][  0]LogWindows: EnumDisplayDevices:
+[2021.01.28-00.50.04:344][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080 Ti' (P:1 D:1)
+[2021.01.28-00.50.04:344][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
+[2021.01.28-00.50.04:344][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
+[2021.01.28-00.50.04:344][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
+[2021.01.28-00.50.04:344][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.01.28-00.50.04:344][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080 Ti
+[2021.01.28-00.50.04:344][  0]LogD3D11RHI:   Driver Version: 451.48 (internal:27.21.14.5148, unified:451.48)
+[2021.01.28-00.50.04:344][  0]LogD3D11RHI:      Driver Date: 6-21-2020
+[2021.01.28-00.50.04:345][  0]LogRHI: Texture pool is 7788 MB (70% of 11127 MB)
+[2021.01.28-00.50.04:414][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.01.28-00.50.04:420][  0]LogD3D11RHI: [Aftermath] Enabled and primed
+[2021.01.28-00.50.04:422][  0]LogD3D11RHI: Async texture creation enabled
+[2021.01.28-00.50.04:422][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.01.28-00.50.04:456][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.01.28-00.50.05:012][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.01.28-00.50.05:051][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.01.28-00.50.05:051][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.01.28-00.50.05:051][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.01.28-00.50.05:051][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.01.28-00.50.05:051][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.01.28-00.50.05:051][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.01.28-00.50.05:051][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.01.28-00.50.05:051][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.01.28-00.50.05:051][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.01.28-00.50.05:051][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.01.28-00.50.05:133][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.01.28-00.50.05:133][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.01.28-00.50.05:165][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.01.28-00.50.05:187][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.01.28-00.50.05:212][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.01.28-00.50.05:237][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.01.28-00.50.05:263][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.01.28-00.50.05:289][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.01.28-00.50.05:316][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.01.28-00.50.05:367][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.01.28-00.50.05:367][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.01.28-00.50.05:401][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.01.28-00.50.05:401][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.01.28-00.50.05:428][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.01.28-00.50.05:454][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.01.28-00.50.05:479][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.01.28-00.50.05:505][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.01.28-00.50.05:505][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.01.28-00.50.05:584][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.01.28-00.50.06:018][  0]LogShaderCompilers: Guid format shader working directory is -2 characters bigger than the processId version (../../../../../Git project/Labirynt_KrzysztofCh/Intermediate/Shaders/WorkingDirectory/21720/).
+[2021.01.28-00.50.06:018][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/redga/AppData/Local/Temp/UnrealShaderWorkingDir/1F85EB66472EFA5039C3D69D89B4F008/'.
+[2021.01.28-00.50.06:021][  0]LogXGEController: Cleaning working directory: C:/Users/redga/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2021.01.28-00.50.06:021][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.01.28-00.50.06:021][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.01.28-00.50.06:021][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.01.28-00.50.09:349][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.01.28-00.50.09:907][  0]LogDerivedDataCache: Loaded boot cache 0.56s 75MB C:/Users/redga/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2021.01.28-00.50.09:907][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/redga/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2021.01.28-00.50.09:908][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Git project/Labirynt_KrzysztofCh/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.01.28-00.50.09:908][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.01.28-00.50.09:908][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Git project/Labirynt_KrzysztofCh/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.01.28-00.50.09:908][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.01.28-00.50.09:932][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.01.28-00.50.09:932][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.01.28-00.50.09:932][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.01.28-00.50.09:934][  0]LogDerivedDataCache: Using Local data cache path C:/Users/redga/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.01.28-00.50.09:934][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.01.28-00.50.09:934][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.01.28-00.50.09:990][  0]LogSlate: Using FreeType 2.10.0
+[2021.01.28-00.50.10:007][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.01.28-00.50.10:343][  0]LogAssetRegistry: FAssetRegistry took 0.0048 seconds to start up
+[2021.01.28-00.50.10:765][  0]LogInit: Selected Device Profile: [Windows]
+[2021.01.28-00.50.11:260][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.01.28-00.50.11:260][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.01.28-00.50.11:260][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.01.28-00.50.11:260][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.01.28-00.50.11:261][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.01.28-00.50.11:348][  0]LogNetVersion: Labirynt_KrzysztofCh 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 3671174493)
+[2021.01.28-00.50.15:157][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (00000222A5039340), frame # 0
+[2021.01.28-00.50.15:157][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000222A4F1FB00), frame # 0
+[2021.01.28-00.50.15:161][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000222A4F85E00), frame # 0
+[2021.01.28-00.50.15:249][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 1 prioritized culture(s) in 0.050270 seconds
+[2021.01.28-00.50.15:254][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2021.01.28-00.50.15:254][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2021.01.28-00.50.15:254][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.01.28-00.50.17:427][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.01.28-00.50.17:451][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.01.28-00.50.17:897][  0]SourceControl: Source control is disabled
+[2021.01.28-00.50.19:821][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.01.28-00.50.19:939][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.01.28-00.50.19:939][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.01.28-00.50.20:163][  0]LogOcInput: OculusInput pre-init called
+[2021.01.28-00.50.20:209][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.01.28-00.50.20:209][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.01.28-00.50.20:490][  0]LogEngine: Initializing Engine...
+[2021.01.28-00.50.20:492][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.01.28-00.50.20:492][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.01.28-00.50.20:495][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2021.01.28-00.50.20:839][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.01.28-00.50.20:896][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.01.28-00.50.20:896][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000222AC4F4600), frame # 0
+[2021.01.28-00.50.20:896][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000222AC49FB00), frame # 0
+[2021.01.28-00.50.20:923][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.28-00.50.20:923][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.28-00.50.20:923][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.28-00.50.20:923][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.28-00.50.20:923][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.28-00.50.20:923][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.28-00.50.20:923][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.28-00.50.20:923][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.28-00.50.20:925][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.28-00.50.20:925][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.28-00.50.20:969][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.28-00.50.20:969][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.01.28-00.50.20:999][  0]LogAudioMixer: Display: Using Audio Device Głośniki (2 — USB Audio CODEC )
+[2021.01.28-00.50.21:000][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.28-00.50.21:023][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.28-00.50.21:024][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.28-00.50.21:025][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.28-00.50.21:026][  0]LogInit: FAudioDevice initialized.
+[2021.01.28-00.50.21:027][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.01.28-00.50.21:114][  0]LogDerivedDataCache: Saved boot cache 0.09s 75MB C:/Users/redga/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2021.01.28-00.50.21:118][  0]LogInit: Texture streaming: Enabled
+[2021.01.28-00.50.21:201][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.01.28-00.50.21:201][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.01.28-00.50.21:203][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.01.28-00.50.21:332][  0]LogInit: Transaction tracking system initialized
+[2021.01.28-00.50.21:469][  0]BlueprintLog: New page: Editor Load
+[2021.01.28-00.50.21:928][  0]LocalizationService: Localization service is disabled
+[2021.01.28-00.50.22:451][  0]LogSlate: Took 0.009673 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.01.28-00.51.28:506][  0]LogSlate: Window 'Low drive space warning' being destroyed
+[2021.01.28-00.51.28:506][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2021.01.28-00.51.28:512][  0]Message dialog closed, result: Ok, title: Low drive space warning, text: The following drive locations have limited free space.
+It is recommended that you free some space to avoid issues such as crashed and data loss due to files not being able to be written and saved.
+
+  4 874 MB Free 		 E:/Unreal Egine 4/UE_4.25/Engine/Binaries/Win64/
+ 				 The base engine directory. 
+
+  4 874 MB Free 		 E:/Git project/Labirynt_KrzysztofCh/
+ 				 The project directory. 
+
+[2021.01.28-00.51.28:912][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.01.28-00.51.28:912][  0]LogFileCache: Scanning file cache for directory 'E:/Git project/Labirynt_KrzysztofCh/Content/' took 0.01s
+[2021.01.28-00.51.28:912][  0]LogCook: Display: Mobile HDR setting 1
+[2021.01.28-00.51.30:052][  0]LogUnrealEdMisc: Loading editor; pre map load, took 96.490
+[2021.01.28-00.51.30:053][  0]Cmd: MAP LOAD FILE="../../../../../Git project/Labirynt_KrzysztofCh/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.01.28-00.51.30:060][  0]LightingResults: New page: Lighting Build
+[2021.01.28-00.51.30:065][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.01.28-00.51.30:065][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.28-00.51.30:066][  0]MapCheck: New page: Map Check
+[2021.01.28-00.51.30:066][  0]LightingResults: New page: Lighting Build
+[2021.01.28-00.51.30:094][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000222AC4F4600), frame # 0
+[2021.01.28-00.51.30:094][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000222AC49FB00), frame # 0
+[2021.01.28-00.51.30:095][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.01.28-00.51.30:557][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2021.01.28-00.51.30:558][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002229AABCE00), frame # 0
+[2021.01.28-00.51.30:558][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000222BBDC9080), frame # 0
+[2021.01.28-00.51.30:589][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.01.28-00.51.30:608][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.01.28-00.51.30:608][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.01.28-00.51.30:608][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,393ms to complete.
+[2021.01.28-00.51.30:608][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.555
+[2021.01.28-00.51.30:636][  0]LogUnrealEdMisc: Total Editor Startup Time, took 97.073
+[2021.01.28-00.51.30:708][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2021.01.28-00.51.30:819][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-00.51.30:829][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-00.51.30:838][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-00.51.30:845][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-00.51.30:880][  0]LogCollectionManager: Loaded 0 collections in 0.001055 seconds
+[2021.01.28-00.51.30:916][  0]LogFileCache: Scanning file cache for directory 'E:/Git project/Labirynt_KrzysztofCh/Saved/Collections/' took 0.00s
+[2021.01.28-00.51.30:916][  0]LogFileCache: Scanning file cache for directory 'E:/Git project/Labirynt_KrzysztofCh/Content/Developers/redga/Collections/' took 0.00s
+[2021.01.28-00.51.30:916][  0]LogFileCache: Scanning file cache for directory 'E:/Git project/Labirynt_KrzysztofCh/Content/Collections/' took 0.00s
+[2021.01.28-00.51.30:916][  0]LogContentBrowser: Native class hierarchy populated in 0.0104 seconds. Added 3427 classes and 821 folders.
+[2021.01.28-00.51.30:924][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.01.28-00.51.31:472][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.01.28-00.51.31:483][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2021.01.28-00.51.31:581][  0]LogSlate: Took 0.007707 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.01.28-00.51.31:594][  0]LogSlate: Took 0.007215 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.01.28-00.51.31:703][  0]LogRenderer: Reallocating scene render targets to support 1104x572 Format 10 NumSamples 1 (Frame:1).
+[2021.01.28-00.51.31:811][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.01.28-00.51.31:811][  0]LogLoad: (Engine Initialization) Total time: 98.25 seconds
+[2021.01.28-00.51.31:811][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.01.28-00.51.31:850][  0]LogAssetRegistry: Asset discovery search completed in 81.5083 seconds
+[2021.01.28-00.51.31:853][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000006 seconds (updated 0 objects)
+[2021.01.28-00.51.31:860][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.01.28-00.51.31:899][  0]LogSlate: Took 0.006972 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.01.28-00.51.32:844][109]LogSlate: Took 0.000136 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.01.28-00.51.49:486][ 60]LogEditorViewport: Clicking Background
+[2021.01.28-00.51.55:009][713]LogAssetEditorSubsystem: Opening Asset editor for EditorUtilityWidgetBlueprint /Game/HUD/TEXT_WIN.TEXT_WIN
+[2021.01.28-00.51.55:538][713]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 125 classes and 0 folders.
+[2021.01.28-00.51.56:572][713]LogLinker: Warning: Failed to load '/Game/Task/Task_2/Scene/Level_1.Level_1:PersistentLevel.Level_1': Can't resolve asset name
+[2021.01.28-00.51.56:591][713]LogAssetEditorSubsystem: Opening Asset editor for PhysicalMaterial /Game/PM_floor.PM_floor
+[2021.01.28-00.51.56:774][713]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Maze/Maze_01.Maze_01
+[2021.01.28-00.51.57:268][713]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.01.28-00.51.57:268][713]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.28-00.51.57:788][713]LogRenderer: Reallocating scene render targets to support 1104x620 Format 10 NumSamples 1 (Frame:1).
+[2021.01.28-00.51.57:788][713]LogSlate: Took 0.006672 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.01.28-00.52.06:718][732]LogSlate: Window 'Maze_01' being destroyed
+[2021.01.28-00.52.06:722][732]LogSlate: Window 'Maze_01' being destroyed
+[2021.01.28-00.52.06:725][732]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.01.28-00.52.06:726][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.28-00.52.06:746][732]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.01.28-00.52.06:746][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.28-00.52.06:826][732]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.01.28-00.52.06:827][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.28-00.52.15:362][714]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Task/Task_2/Scene/Level_1.Level_1
+[2021.01.28-00.52.15:431][714]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2021.01.28-00.52.15:434][714]Cmd: MAP LOAD FILE="../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.01.28-00.52.15:434][714]LightingResults: New page: Lighting Build
+[2021.01.28-00.52.15:434][714]LoadErrors: New page: Loading map: Level_1.umap
+[2021.01.28-00.52.15:461][714]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2021.01.28-00.52.15:461][714]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.28-00.52.15:461][714]MapCheck: New page: Map Check
+[2021.01.28-00.52.15:461][714]LightingResults: New page: Lighting Build
+[2021.01.28-00.52.15:487][714]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002229AABCE00), frame # 4714
+[2021.01.28-00.52.15:487][714]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000222BBDC9080), frame # 4714
+[2021.01.28-00.52.15:499][714]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2021.01.28-00.52.15:504][714]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.01.28-00.52.15:504][714]LogAIModule: Creating AISystem for world Level_1
+[2021.01.28-00.52.15:504][714]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002229AB38E00), frame # 4714
+[2021.01.28-00.52.15:505][714]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000222DE73C180), frame # 4714
+[2021.01.28-00.52.15:522][714]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2021.01.28-00.52.15:552][714]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.01.28-00.52.15:553][714]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,084ms to complete.
+[2021.01.28-00.52.15:553][714]LogFileHelpers: Loading map 'Level_1' took 0.119
+[2021.01.28-00.52.19:115][134]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.28-00.52.19:133][134]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.28-00.52.19:134][134]PIE: New page: PIE session: Level_1 (28 sty 2021, 02:52:19)
+[2021.01.28-00.52.19:135][134]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.01.28-00.52.19:136][134]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.01.28-00.52.19:136][134]LogPlayLevel: Creating play world package: /Game/Task/Task_2/Scene/UEDPIE_0_Level_1
+[2021.01.28-00.52.19:141][134]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004982s)
+[2021.01.28-00.52.19:142][134]LogAIModule: Creating AISystem for world Level_1
+[2021.01.28-00.52.19:142][134]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000222DAEC8200), frame # 5134
+[2021.01.28-00.52.19:142][134]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000222DE95DE40), frame # 5134
+[2021.01.28-00.52.19:142][134]LogPlayLevel: PIE: World Init took: (0.000995s)
+[2021.01.28-00.52.19:142][134]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Task/Task_2/Scene/Level_1.Level_1 to /Game/Task/Task_2/Scene/UEDPIE_0_Level_1.Level_1 (0.006112s)
+[2021.01.28-00.52.19:160][134]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2021.01.28-00.52.19:161][134]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.28-00.52.19:161][134]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.28-00.52.19:161][134]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.28-00.52.19:161][134]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.28-00.52.19:161][134]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.28-00.52.19:161][134]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.28-00.52.19:161][134]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.28-00.52.19:161][134]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.28-00.52.19:162][134]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.28-00.52.19:162][134]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.28-00.52.19:164][134]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.28-00.52.19:164][134]LogAudioMixer: Display: 1: FrontRight
+[2021.01.28-00.52.19:175][134]LogAudioMixer: Display: Using Audio Device Głośniki (2 — USB Audio CODEC )
+[2021.01.28-00.52.19:176][134]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.28-00.52.19:176][134]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.28-00.52.19:176][134]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.28-00.52.19:176][134]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.28-00.52.19:186][134]LogInit: FAudioDevice initialized.
+[2021.01.28-00.52.19:195][134]LogLoad: Game class is 'GameModeBase'
+[2021.01.28-00.52.19:196][134]LogWorld: Bringing World /Game/Task/Task_2/Scene/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2021.01.28-01.52.19
+[2021.01.28-00.52.19:196][134]LogWorld: Bringing up level for play took: 0.000559
+[2021.01.28-00.52.19:196][134]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2021.01.28-00.52.19:205][134]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.01.28-00.52.19:211][134]PIE: Server logged in
+[2021.01.28-00.52.19:213][134]PIE: Play in editor total start time 0,081 seconds.
+[2021.01.28-00.52.40:971][705]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-00.52.40:971][705]LogWorld: BeginTearingDown for /Game/Task/Task_2/Scene/UEDPIE_0_Level_1
+[2021.01.28-00.52.40:971][705]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2021.01.28-00.52.40:971][705]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.28-00.52.40:979][705]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.28-00.52.40:983][705]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.28-00.52.41:000][705]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-00.52.41:023][705]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000222DE95DE40), frame # 7705
+[2021.01.28-00.52.41:023][705]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000222DAEC8200), frame # 7705
+[2021.01.28-00.52.41:057][705]LogUObjectHash: Compacting FUObjectHashTables data took   4.71ms
+[2021.01.28-00.52.41:091][706]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2021.01.28-00.54.54:096][492]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/HUD/B_HUD.B_HUD
+[2021.01.28-00.54.54:562][492]LogSlate: Took 0.006770 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.01.28-00.55.22:847][701]LogSlate: Took 0.021680 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.01.28-00.56.05:191][266]LogEditorTransaction: Undo Edit Top
+[2021.01.28-00.56.24:309][475]LogEditorTransaction: Undo Edit Bottom
+[2021.01.28-00.56.27:380][791]LogEditorTransaction: Undo Edit Top
+[2021.01.28-00.58.50:194][556]SourceControl: fatal: E:/Unreal Egine 4/UE_4.25/Engine/Content/UMG/Editor: 'E:/Unreal Egine 4/UE_4.25/Engine/Content/UMG/Editor' is outside repository at 'E:/Git project'
+[2021.01.28-01.01.49:722][271]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/B_HUD" FILE="../../../../../Git project/Labirynt_KrzysztofCh/Content/HUD/B_HUD.uasset" SILENT=true
+[2021.01.28-01.01.49:746][271]LogSavePackage: Moving '../../../../../Git project/Labirynt_KrzysztofCh/Saved/B_HUDB91DE3DE4ED3D7E4DC2D49BB31A79C79.tmp' to '../../../../../Git project/Labirynt_KrzysztofCh/Content/HUD/B_HUD.uasset'
+[2021.01.28-01.01.49:760][271]AssetCheck: New page: Asset Save: B_HUD
+[2021.01.28-01.01.49:760][271]LogContentValidation: Display: Validating WidgetBlueprint /Game/HUD/B_HUD.B_HUD
+[2021.01.28-01.02.19:017][663]LogSlate: Window 'B_HUD' being destroyed
+[2021.01.28-01.02.19:021][663]LogSlate: Window 'B_HUD' being destroyed
+[2021.01.28-01.02.19:061][663]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.01.28-01.02.19:061][663]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.28-01.02.19:081][663]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.01.28-01.02.19:081][663]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.28-01.02.20:736][844]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/HUD/B_HUD.B_HUD
+[2021.01.28-01.02.23:846][168]LogEditorTransaction: Undo Delete current selection
+[2021.01.28-01.02.24:507][201]LogEditorTransaction: Undo Move Node
+[2021.01.28-01.02.24:735][224]LogEditorTransaction: Undo Function Dropped on Graph
+[2021.01.28-01.02.24:929][239]LogEditorTransaction: Undo Create Binding
+[2021.01.28-01.02.25:132][260]LogEditorTransaction: Undo Edit Size Rule
+[2021.01.28-01.02.25:331][278]LogEditorTransaction: Undo Edit Vertical Alignment
+[2021.01.28-01.02.25:531][296]LogEditorTransaction: Undo Edit Vertical Alignment
+[2021.01.28-01.02.25:722][315]LogEditorTransaction: Undo Edit Text
+[2021.01.28-01.02.25:933][336]LogEditorTransaction: Undo Edit Text
+[2021.01.28-01.02.26:127][356]LogEditorTransaction: Undo Remove Widget
+[2021.01.28-01.02.27:019][459]LogEditorTransaction: Undo Move Widget
+[2021.01.28-01.02.27:322][489]LogEditorTransaction: Undo Remove Widget
+[2021.01.28-01.02.27:541][510]LogEditorTransaction: Undo Move Widget
+[2021.01.28-01.02.52:716][384]LogEditorTransaction: Undo Remove Widget
+[2021.01.28-01.02.54:325][528]LogEditorTransaction: Undo Move Widget
+[2021.01.28-01.03.33:492][  4]LogAssetEditorSubsystem: Opening Asset editor for EditorUtilityWidgetBlueprint /Game/HUD/TEXT_WIN.TEXT_WIN
+[2021.01.28-01.04.25:062][852]SourceControl: fatal: E:/Unreal Egine 4/UE_4.25/Engine/Content/UMG/Editor: 'E:/Unreal Egine 4/UE_4.25/Engine/Content/UMG/Editor' is outside repository at 'E:/Git project'
+[2021.01.28-01.04.25:935][955]LogEditorTransaction: Undo Paste clipboard contents
+[2021.01.28-01.04.36:283][112]LogEditorTransaction: Undo Add Widget
+[2021.01.28-01.05.04:279][176]LogEditorTransaction: Undo Resize Widget
+[2021.01.28-01.05.07:715][521]LogEditorTransaction: Undo Edit Left
+[2021.01.28-01.05.09:495][683]LogEditorTransaction: Undo Edit Right
+[2021.01.28-01.06.16:336][746]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2021.01.28-01.06.16:338][746]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Task/Task_2/Scene/Level_1' took 0.053
+[2021.01.28-01.06.16:338][746]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/HUD/TEXT_WIN] ([1] browsable assets)...
+[2021.01.28-01.06.16:338][746]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD/TEXT_WIN]
+[2021.01.28-01.06.16:338][746]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/TEXT_WIN" FILE="../../../../../Git project/Labirynt_KrzysztofCh/Saved/Autosaves/Game/HUD/TEXT_WIN_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2021.01.28-01.06.16:360][746]LogSavePackage: Moving '../../../../../Git project/Labirynt_KrzysztofCh/Saved/TEXT_WIN_Auto1A27728C84613A05326F7E38A85B87767.tmp' to '../../../../../Git project/Labirynt_KrzysztofCh/Saved/Autosaves/Game/HUD/TEXT_WIN_Auto1.uasset'
+[2021.01.28-01.06.16:361][746]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/HUD/B_HUD] ([1] browsable assets)...
+[2021.01.28-01.06.16:361][746]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD/B_HUD]
+[2021.01.28-01.06.16:361][746]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/B_HUD" FILE="../../../../../Git project/Labirynt_KrzysztofCh/Saved/Autosaves/Game/HUD/B_HUD_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2021.01.28-01.06.16:373][746]LogSavePackage: Moving '../../../../../Git project/Labirynt_KrzysztofCh/Saved/B_HUD_Auto133C5CE474686FA2E9B75F681EAE0AB18.tmp' to '../../../../../Git project/Labirynt_KrzysztofCh/Saved/Autosaves/Game/HUD/B_HUD_Auto1.uasset'
+[2021.01.28-01.06.16:374][746]LogFileHelpers: Auto-saving content packages took 0.036
+[2021.01.28-01.06.40:922][284]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Task/Task_2/Scene/Level_1.Level_1:PersistentLevel.Level_1
+[2021.01.28-01.12.32:272][469]LogSlate: Took 0.007603 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.01.28-01.13.12:028][ 32]BlueprintLog: New page: Compile Level_1
+[2021.01.28-01.13.12:073][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2021.01.28-01.13.12:159][ 32]LogSlate: Took 0.012336 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.01.28-01.13.28:713][314]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Task/Task_2/Scene/Level_1" FILE="../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.28-01.13.28:735][314]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2021.01.28-01.13.28:791][314]LogSavePackage: Moving '../../../../../Git project/Labirynt_KrzysztofCh/Saved/Level_1BD86AE684AAC9A276E600B8A91777C6C.tmp' to '../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap'
+[2021.01.28-01.13.28:827][314]LogFileHelpers: Saving map 'Level_1' took 0.114
+[2021.01.28-01.13.28:842][314]AssetCheck: New page: Asset Save: Level_1
+[2021.01.28-01.13.28:842][314]LogContentValidation: Display: Validating World /Game/Task/Task_2/Scene/Level_1.Level_1
+[2021.01.28-01.14.21:430][ 59]BlueprintLog: New page: Compile Level_1
+[2021.01.28-01.14.21:473][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2021.01.28-01.14.27:747][756]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Task/Task_2/Scene/Level_1" FILE="../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.28-01.14.27:771][756]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2021.01.28-01.14.27:822][756]LogSavePackage: Moving '../../../../../Git project/Labirynt_KrzysztofCh/Saved/Level_1594690D84D8B8447974A749CD139FC87.tmp' to '../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap'
+[2021.01.28-01.14.27:852][756]LogFileHelpers: Saving map 'Level_1' took 0.105
+[2021.01.28-01.14.27:863][756]AssetCheck: New page: Asset Save: Level_1
+[2021.01.28-01.14.27:863][756]LogContentValidation: Display: Validating World /Game/Task/Task_2/Scene/Level_1.Level_1
+[2021.01.28-01.16.13:349][419]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Task/Task_2/Scene/Level_1" FILE="../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.28-01.16.13:373][419]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2021.01.28-01.16.13:426][419]LogSavePackage: Moving '../../../../../Git project/Labirynt_KrzysztofCh/Saved/Level_113D0C7DE432B4F6C590DC5B415BFD995.tmp' to '../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap'
+[2021.01.28-01.16.13:456][419]LogFileHelpers: Saving map 'Level_1' took 0.108
+[2021.01.28-01.16.13:468][419]AssetCheck: New page: Asset Save: Level_1
+[2021.01.28-01.16.13:468][419]LogContentValidation: Display: Validating World /Game/Task/Task_2/Scene/Level_1.Level_1
+[2021.01.28-01.17.16:050][268]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Task/Task_2/Scene/Level_1" FILE="../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.28-01.17.16:072][268]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.01.28-01.17.16:124][268]LogSavePackage: Moving '../../../../../Git project/Labirynt_KrzysztofCh/Saved/Level_17F6FEF124FD2EA8D13CC28BA92CE1038.tmp' to '../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap'
+[2021.01.28-01.17.16:163][268]LogFileHelpers: Saving map 'Level_1' took 0.114
+[2021.01.28-01.17.16:173][268]AssetCheck: New page: Asset Save: Level_1
+[2021.01.28-01.17.16:173][268]LogContentValidation: Display: Validating World /Game/Task/Task_2/Scene/Level_1.Level_1
+[2021.01.28-01.17.46:684][728]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Task/Task_2/Scene/Level_1" FILE="../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.28-01.17.46:704][728]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.01.28-01.17.46:754][728]LogSavePackage: Moving '../../../../../Git project/Labirynt_KrzysztofCh/Saved/Level_1719D9C42475F115094EA8E9A78E81F19.tmp' to '../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap'
+[2021.01.28-01.17.46:784][728]LogFileHelpers: Saving map 'Level_1' took 0.100
+[2021.01.28-01.17.46:794][728]AssetCheck: New page: Asset Save: Level_1
+[2021.01.28-01.17.46:794][728]LogContentValidation: Display: Validating World /Game/Task/Task_2/Scene/Level_1.Level_1
+[2021.01.28-01.17.47:754][830]BlueprintLog: New page: Compile Level_1
+[2021.01.28-01.17.47:795][830]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2021.01.28-01.17.50:347][110]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.28-01.17.50:365][110]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.01.28-01.17.50:366][110]LogPlayLevel: [PlayLevel] Compiling B_HUD before play...
+[2021.01.28-01.17.50:430][110]LogPlayLevel: [PlayLevel] Compiling TEXT_WIN before play...
+[2021.01.28-01.17.50:493][110]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2021.01.28-01.17.50:494][110]LogPlayLevel: PlayLevel: Blueprint regeneration took 129 ms (2 blueprints)
+[2021.01.28-01.17.50:494][110]PIE: New page: PIE session: Level_1 (28 sty 2021, 03:17:50)
+[2021.01.28-01.17.50:494][110]LogPlayLevel: Creating play world package: /Game/Task/Task_2/Scene/UEDPIE_0_Level_1
+[2021.01.28-01.17.50:500][110]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005131s)
+[2021.01.28-01.17.50:500][110]LogAIModule: Creating AISystem for world Level_1
+[2021.01.28-01.17.50:501][110]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000222F9831200), frame # 151110
+[2021.01.28-01.17.50:501][110]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000022336A83D80), frame # 151110
+[2021.01.28-01.17.50:501][110]LogPlayLevel: PIE: World Init took: (0.001146s)
+[2021.01.28-01.17.50:501][110]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Task/Task_2/Scene/Level_1.Level_1 to /Game/Task/Task_2/Scene/UEDPIE_0_Level_1.Level_1 (0.006402s)
+[2021.01.28-01.17.50:523][110]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2021.01.28-01.17.50:524][110]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.28-01.17.50:524][110]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.28-01.17.50:524][110]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.28-01.17.50:524][110]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.28-01.17.50:524][110]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.28-01.17.50:524][110]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.28-01.17.50:524][110]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.28-01.17.50:524][110]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.28-01.17.50:524][110]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.28-01.17.50:524][110]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.28-01.17.50:527][110]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.28-01.17.50:527][110]LogAudioMixer: Display: 1: FrontRight
+[2021.01.28-01.17.50:540][110]LogAudioMixer: Display: Using Audio Device Głośniki (2 — USB Audio CODEC )
+[2021.01.28-01.17.50:540][110]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.28-01.17.50:540][110]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.28-01.17.50:540][110]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.28-01.17.50:540][110]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.28-01.17.50:551][110]LogInit: FAudioDevice initialized.
+[2021.01.28-01.17.50:555][110]LogLoad: Game class is 'GameModeBase'
+[2021.01.28-01.17.50:556][110]LogWorld: Bringing World /Game/Task/Task_2/Scene/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2021.01.28-02.17.50
+[2021.01.28-01.17.50:556][110]LogWorld: Bringing up level for play took: 0.000560
+[2021.01.28-01.17.50:556][110]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2021.01.28-01.17.50:559][110]PIE: Server logged in
+[2021.01.28-01.17.50:560][110]PIE: Play in editor total start time 0,195 seconds.
+[2021.01.28-01.19.00:561][493]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-01.19.00:561][493]LogWorld: BeginTearingDown for /Game/Task/Task_2/Scene/UEDPIE_0_Level_1
+[2021.01.28-01.19.00:561][493]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2021.01.28-01.19.00:562][493]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.28-01.19.00:566][493]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.28-01.19.00:569][493]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.28-01.19.00:591][493]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-01.19.00:610][493]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000022336A83D80), frame # 159493
+[2021.01.28-01.19.00:610][493]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000222F9831200), frame # 159493
+[2021.01.28-01.19.00:612][493]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2021.01.28-01.19.00:642][494]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2021.01.28-01.19.07:155][251]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Box_Brush13_StaticMesh.Box_Brush13_StaticMesh
+[2021.01.28-01.19.07:360][251]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.01.28-01.19.07:360][251]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.28-01.19.10:052][539]LogSlate: Window 'Box_Brush13_StaticMesh' being destroyed
+[2021.01.28-01.19.10:056][539]LogSlate: Window 'Box_Brush13_StaticMesh' being destroyed
+[2021.01.28-01.19.10:106][539]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.01.28-01.19.10:106][539]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.28-01.19.10:125][539]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.01.28-01.19.10:125][539]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.28-01.19.10:211][539]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.01.28-01.19.10:211][539]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.28-01.19.10:232][539]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.01.28-01.19.10:232][539]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.28-01.19.10:278][539]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.01.28-01.19.10:278][539]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.28-01.19.10:343][539]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.01.28-01.19.10:343][539]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.28-01.19.19:288][547]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2021.01.28-01.19.23:252][547]LogSlate: Window 'Delete Assets' being destroyed
+[2021.01.28-01.19.25:503][803]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Maze/Maze_01.Maze_01
+[2021.01.28-01.19.25:672][803]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.01.28-01.19.25:672][803]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.28-01.20.24:980][695]LogEditorTransaction: Undo Translate Collision
+[2021.01.28-01.21.12:070][ 29]LogEditorTransaction: Undo Delete Collision
+[2021.01.28-01.21.28:768][380]LogSlate: Window 'Message' being destroyed
+[2021.01.28-01.21.28:771][380]Message dialog closed, result: Yes, title: Message, text: Are you sure you want to convert all box collision?
+[2021.01.28-01.21.34:727][ 69]LogEditorTransaction: Undo Translate Collision
+[2021.01.28-01.22.15:797][656]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maze/Maze_01" FILE="../../../../../Git project/Labirynt_KrzysztofCh/Content/Maze/Maze_01.uasset" SILENT=true
+[2021.01.28-01.22.15:822][656]LogSavePackage: Moving '../../../../../Git project/Labirynt_KrzysztofCh/Saved/Maze_012D4313124162EA42151C49BB41ABAE7D.tmp' to '../../../../../Git project/Labirynt_KrzysztofCh/Content/Maze/Maze_01.uasset'
+[2021.01.28-01.22.15:834][656]AssetCheck: New page: Asset Save: Maze_01
+[2021.01.28-01.22.15:834][656]LogContentValidation: Display: Validating StaticMesh /Game/Maze/Maze_01.Maze_01
+[2021.01.28-01.22.18:809][990]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.28-01.22.18:826][990]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.28-01.22.18:826][990]PIE: New page: PIE session: Level_1 (28 sty 2021, 03:22:18)
+[2021.01.28-01.22.18:851][990]LogPlayLevel: Creating play world package: /Game/Task/Task_2/Scene/UEDPIE_0_Level_1
+[2021.01.28-01.22.18:856][990]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004975s)
+[2021.01.28-01.22.18:857][990]LogAIModule: Creating AISystem for world Level_1
+[2021.01.28-01.22.18:857][990]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000223317B5600), frame # 180990
+[2021.01.28-01.22.18:857][990]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000222FA21DE40), frame # 180990
+[2021.01.28-01.22.18:857][990]LogPlayLevel: PIE: World Init took: (0.000999s)
+[2021.01.28-01.22.18:857][990]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Task/Task_2/Scene/Level_1.Level_1 to /Game/Task/Task_2/Scene/UEDPIE_0_Level_1.Level_1 (0.006087s)
+[2021.01.28-01.22.18:879][990]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2021.01.28-01.22.18:886][990]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.28-01.22.18:886][990]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.28-01.22.18:886][990]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.28-01.22.18:886][990]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.28-01.22.18:886][990]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.28-01.22.18:886][990]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.28-01.22.18:886][990]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.28-01.22.18:886][990]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.28-01.22.18:886][990]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.28-01.22.18:886][990]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.28-01.22.18:888][990]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.28-01.22.18:888][990]LogAudioMixer: Display: 1: FrontRight
+[2021.01.28-01.22.18:900][990]LogAudioMixer: Display: Using Audio Device Głośniki (2 — USB Audio CODEC )
+[2021.01.28-01.22.18:900][990]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.28-01.22.18:900][990]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.28-01.22.18:900][990]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.28-01.22.18:901][990]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.28-01.22.18:910][990]LogInit: FAudioDevice initialized.
+[2021.01.28-01.22.18:918][990]LogLoad: Game class is 'GameModeBase'
+[2021.01.28-01.22.18:919][990]LogWorld: Bringing World /Game/Task/Task_2/Scene/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2021.01.28-02.22.18
+[2021.01.28-01.22.18:919][990]LogWorld: Bringing up level for play took: 0.000544
+[2021.01.28-01.22.18:919][990]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2021.01.28-01.22.18:921][990]PIE: Server logged in
+[2021.01.28-01.22.18:922][990]PIE: Play in editor total start time 0,097 seconds.
+[2021.01.28-01.23.12:202][375]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-01.23.12:202][375]LogWorld: BeginTearingDown for /Game/Task/Task_2/Scene/UEDPIE_0_Level_1
+[2021.01.28-01.23.12:202][375]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2021.01.28-01.23.12:202][375]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.28-01.23.12:209][375]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.28-01.23.12:212][375]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.28-01.23.12:257][375]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-01.23.12:258][375]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000222FA21DE40), frame # 187375
+[2021.01.28-01.23.12:258][375]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000223317B5600), frame # 187375
+[2021.01.28-01.23.12:260][375]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2021.01.28-01.23.12:293][376]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2021.01.28-01.24.03:488][332]LogStaticMesh: Building static mesh Maze_01...
+[2021.01.28-01.24.03:488][332]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.01.28-01.24.03:511][332]LogStaticMesh: Built static mesh [0.02s] /Game/Maze/Maze_01.Maze_01
+[2021.01.28-01.24.32:281][566]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maze/Maze_01" FILE="../../../../../Git project/Labirynt_KrzysztofCh/Content/Maze/Maze_01.uasset" SILENT=true
+[2021.01.28-01.24.32:302][566]LogSavePackage: Moving '../../../../../Git project/Labirynt_KrzysztofCh/Saved/Maze_012B00EB1E4D848A45C6CD2DB2B49E518E.tmp' to '../../../../../Git project/Labirynt_KrzysztofCh/Content/Maze/Maze_01.uasset'
+[2021.01.28-01.24.32:311][566]AssetCheck: New page: Asset Save: Maze_01
+[2021.01.28-01.24.32:311][566]LogContentValidation: Display: Validating StaticMesh /Game/Maze/Maze_01.Maze_01
+[2021.01.28-01.24.33:890][732]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maze/Maze_01" FILE="../../../../../Git project/Labirynt_KrzysztofCh/Content/Maze/Maze_01.uasset" SILENT=true
+[2021.01.28-01.24.33:907][732]LogSavePackage: Moving '../../../../../Git project/Labirynt_KrzysztofCh/Saved/Maze_019A81E5A142572C8122D43F8CA1415080.tmp' to '../../../../../Git project/Labirynt_KrzysztofCh/Content/Maze/Maze_01.uasset'
+[2021.01.28-01.24.33:916][732]AssetCheck: New page: Asset Save: Maze_01
+[2021.01.28-01.24.33:916][732]LogContentValidation: Display: Validating StaticMesh /Game/Maze/Maze_01.Maze_01
+[2021.01.28-01.24.36:631][ 43]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.28-01.24.36:649][ 43]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.28-01.24.36:649][ 43]PIE: New page: PIE session: Level_1 (28 sty 2021, 03:24:36)
+[2021.01.28-01.24.36:649][ 43]LogPlayLevel: Creating play world package: /Game/Task/Task_2/Scene/UEDPIE_0_Level_1
+[2021.01.28-01.24.36:656][ 43]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006927s)
+[2021.01.28-01.24.36:657][ 43]LogAIModule: Creating AISystem for world Level_1
+[2021.01.28-01.24.36:657][ 43]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000022327EEA400), frame # 197043
+[2021.01.28-01.24.36:657][ 43]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000222E014FC40), frame # 197043
+[2021.01.28-01.24.36:658][ 43]LogPlayLevel: PIE: World Init took: (0.001285s)
+[2021.01.28-01.24.36:658][ 43]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Task/Task_2/Scene/Level_1.Level_1 to /Game/Task/Task_2/Scene/UEDPIE_0_Level_1.Level_1 (0.008357s)
+[2021.01.28-01.24.36:674][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2021.01.28-01.24.36:680][ 43]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.28-01.24.36:680][ 43]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.28-01.24.36:680][ 43]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.28-01.24.36:680][ 43]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.28-01.24.36:680][ 43]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.28-01.24.36:680][ 43]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.28-01.24.36:680][ 43]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.28-01.24.36:680][ 43]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.28-01.24.36:680][ 43]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.28-01.24.36:680][ 43]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.28-01.24.36:682][ 43]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.28-01.24.36:682][ 43]LogAudioMixer: Display: 1: FrontRight
+[2021.01.28-01.24.36:695][ 43]LogAudioMixer: Display: Using Audio Device Głośniki (2 — USB Audio CODEC )
+[2021.01.28-01.24.36:695][ 43]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.28-01.24.36:695][ 43]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.28-01.24.36:695][ 43]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.28-01.24.36:695][ 43]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.28-01.24.36:707][ 43]LogInit: FAudioDevice initialized.
+[2021.01.28-01.24.36:716][ 43]LogLoad: Game class is 'GameModeBase'
+[2021.01.28-01.24.36:717][ 43]LogWorld: Bringing World /Game/Task/Task_2/Scene/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2021.01.28-02.24.36
+[2021.01.28-01.24.36:717][ 43]LogWorld: Bringing up level for play took: 0.000502
+[2021.01.28-01.24.36:717][ 43]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2021.01.28-01.24.36:720][ 43]PIE: Server logged in
+[2021.01.28-01.24.36:720][ 43]PIE: Play in editor total start time 0,072 seconds.
+[2021.01.28-01.24.39:952][426]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-01.24.39:952][426]LogWorld: BeginTearingDown for /Game/Task/Task_2/Scene/UEDPIE_0_Level_1
+[2021.01.28-01.24.39:952][426]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2021.01.28-01.24.39:952][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.28-01.24.39:958][426]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.28-01.24.39:961][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.28-01.24.39:978][426]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-01.24.39:991][426]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000222E014FC40), frame # 197426
+[2021.01.28-01.24.39:991][426]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000022327EEA400), frame # 197426
+[2021.01.28-01.24.39:993][426]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2021.01.28-01.24.40:025][427]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2021.01.28-01.24.58:999][560]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maze/Maze_01" FILE="../../../../../Git project/Labirynt_KrzysztofCh/Content/Maze/Maze_01.uasset" SILENT=true
+[2021.01.28-01.24.59:020][560]LogSavePackage: Moving '../../../../../Git project/Labirynt_KrzysztofCh/Saved/Maze_01DC4585CE4710A608C8703BA6E7E4428A.tmp' to '../../../../../Git project/Labirynt_KrzysztofCh/Content/Maze/Maze_01.uasset'
+[2021.01.28-01.24.59:030][560]AssetCheck: New page: Asset Save: Maze_01
+[2021.01.28-01.24.59:030][560]LogContentValidation: Display: Validating StaticMesh /Game/Maze/Maze_01.Maze_01
+[2021.01.28-01.25.02:646][985]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.28-01.25.02:663][985]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.28-01.25.02:663][985]PIE: New page: PIE session: Level_1 (28 sty 2021, 03:25:02)
+[2021.01.28-01.25.02:691][985]LogPlayLevel: Creating play world package: /Game/Task/Task_2/Scene/UEDPIE_0_Level_1
+[2021.01.28-01.25.02:696][985]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004849s)
+[2021.01.28-01.25.02:697][985]LogAIModule: Creating AISystem for world Level_1
+[2021.01.28-01.25.02:697][985]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002230E7FBE00), frame # 199985
+[2021.01.28-01.25.02:697][985]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000223308D6E80), frame # 199985
+[2021.01.28-01.25.02:697][985]LogPlayLevel: PIE: World Init took: (0.000952s)
+[2021.01.28-01.25.02:697][985]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Task/Task_2/Scene/Level_1.Level_1 to /Game/Task/Task_2/Scene/UEDPIE_0_Level_1.Level_1 (0.005924s)
+[2021.01.28-01.25.02:716][985]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2021.01.28-01.25.02:719][985]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.28-01.25.02:719][985]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.28-01.25.02:719][985]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.28-01.25.02:719][985]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.28-01.25.02:719][985]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.28-01.25.02:719][985]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.28-01.25.02:720][985]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.28-01.25.02:720][985]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.28-01.25.02:720][985]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.28-01.25.02:720][985]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.28-01.25.02:722][985]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.28-01.25.02:722][985]LogAudioMixer: Display: 1: FrontRight
+[2021.01.28-01.25.02:733][985]LogAudioMixer: Display: Using Audio Device Głośniki (2 — USB Audio CODEC )
+[2021.01.28-01.25.02:733][985]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.28-01.25.02:733][985]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.28-01.25.02:733][985]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.28-01.25.02:733][985]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.28-01.25.02:745][985]LogInit: FAudioDevice initialized.
+[2021.01.28-01.25.02:757][985]LogLoad: Game class is 'GameModeBase'
+[2021.01.28-01.25.02:757][985]LogWorld: Bringing World /Game/Task/Task_2/Scene/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2021.01.28-02.25.02
+[2021.01.28-01.25.02:758][985]LogWorld: Bringing up level for play took: 0.000531
+[2021.01.28-01.25.02:758][985]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2021.01.28-01.25.02:760][985]PIE: Server logged in
+[2021.01.28-01.25.02:761][985]PIE: Play in editor total start time 0,099 seconds.
+[2021.01.28-01.25.04:372][171]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-01.25.04:372][171]LogWorld: BeginTearingDown for /Game/Task/Task_2/Scene/UEDPIE_0_Level_1
+[2021.01.28-01.25.04:372][171]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2021.01.28-01.25.04:372][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.28-01.25.04:382][171]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.28-01.25.04:385][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.28-01.25.04:398][171]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-01.25.04:412][171]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000223308D6E80), frame # 200171
+[2021.01.28-01.25.04:412][171]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002230E7FBE00), frame # 200171
+[2021.01.28-01.25.04:414][171]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2021.01.28-01.25.04:447][172]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2021.01.28-01.25.39:123][857]LogSlate: Window 'Message' being destroyed
+[2021.01.28-01.25.39:127][857]Message dialog closed, result: Yes, title: Message, text: Are you sure you want to convert all box collision?
+[2021.01.28-01.25.41:409][106]LogEditorTransaction: Undo Edit Collision Complexity
+[2021.01.28-01.26.53:843][104]LogEditorTransaction: Undo Translate Collision
+[2021.01.28-01.28.01:447][408]LogEditorTransaction: Undo Create Sphere Collision
+[2021.01.28-01.28.52:320][873]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maze/Maze_01" FILE="../../../../../Git project/Labirynt_KrzysztofCh/Content/Maze/Maze_01.uasset" SILENT=true
+[2021.01.28-01.28.52:346][873]LogSavePackage: Moving '../../../../../Git project/Labirynt_KrzysztofCh/Saved/Maze_01ADFAB8C2443A1F24879052A3BF0592B8.tmp' to '../../../../../Git project/Labirynt_KrzysztofCh/Content/Maze/Maze_01.uasset'
+[2021.01.28-01.28.52:356][873]AssetCheck: New page: Asset Save: Maze_01
+[2021.01.28-01.28.52:357][873]LogContentValidation: Display: Validating StaticMesh /Game/Maze/Maze_01.Maze_01
+[2021.01.28-01.29.05:391][405]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.28-01.29.05:409][405]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.28-01.29.05:409][405]PIE: New page: PIE session: Level_1 (28 sty 2021, 03:29:05)
+[2021.01.28-01.29.05:409][405]LogPlayLevel: Creating play world package: /Game/Task/Task_2/Scene/UEDPIE_0_Level_1
+[2021.01.28-01.29.05:416][405]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006379s)
+[2021.01.28-01.29.05:417][405]LogAIModule: Creating AISystem for world Level_1
+[2021.01.28-01.29.05:417][405]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000223411D3E00), frame # 226405
+[2021.01.28-01.29.05:417][405]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000222E014F9C0), frame # 226405
+[2021.01.28-01.29.05:417][405]LogPlayLevel: PIE: World Init took: (0.001432s)
+[2021.01.28-01.29.05:417][405]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Task/Task_2/Scene/Level_1.Level_1 to /Game/Task/Task_2/Scene/UEDPIE_0_Level_1.Level_1 (0.007955s)
+[2021.01.28-01.29.05:436][405]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2021.01.28-01.29.05:439][405]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.28-01.29.05:439][405]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.28-01.29.05:439][405]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.28-01.29.05:439][405]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.28-01.29.05:439][405]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.28-01.29.05:439][405]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.28-01.29.05:439][405]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.28-01.29.05:439][405]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.28-01.29.05:439][405]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.28-01.29.05:439][405]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.28-01.29.05:442][405]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.28-01.29.05:442][405]LogAudioMixer: Display: 1: FrontRight
+[2021.01.28-01.29.05:454][405]LogAudioMixer: Display: Using Audio Device Głośniki (2 — USB Audio CODEC )
+[2021.01.28-01.29.05:454][405]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.28-01.29.05:454][405]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.28-01.29.05:454][405]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.28-01.29.05:454][405]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.28-01.29.05:465][405]LogInit: FAudioDevice initialized.
+[2021.01.28-01.29.05:469][405]LogLoad: Game class is 'GameModeBase'
+[2021.01.28-01.29.05:470][405]LogWorld: Bringing World /Game/Task/Task_2/Scene/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2021.01.28-02.29.05
+[2021.01.28-01.29.05:470][405]LogWorld: Bringing up level for play took: 0.000555
+[2021.01.28-01.29.05:470][405]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2021.01.28-01.29.05:473][405]PIE: Server logged in
+[2021.01.28-01.29.05:474][405]PIE: Play in editor total start time 0,065 seconds.
+[2021.01.28-01.29.10:202][965]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-01.29.10:202][965]LogWorld: BeginTearingDown for /Game/Task/Task_2/Scene/UEDPIE_0_Level_1
+[2021.01.28-01.29.10:202][965]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2021.01.28-01.29.10:203][965]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.28-01.29.10:213][965]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.28-01.29.10:215][965]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.28-01.29.10:243][965]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-01.29.10:243][965]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000222E014F9C0), frame # 226965
+[2021.01.28-01.29.10:243][965]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000223411D3E00), frame # 226965
+[2021.01.28-01.29.10:245][965]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2021.01.28-01.29.10:277][966]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2021.01.28-01.30.30:847][919]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maze/Maze_01" FILE="../../../../../Git project/Labirynt_KrzysztofCh/Content/Maze/Maze_01.uasset" SILENT=true
+[2021.01.28-01.30.30:863][919]LogSavePackage: Moving '../../../../../Git project/Labirynt_KrzysztofCh/Saved/Maze_01DFBE98BD40942BEE2DCF36AABF8598BD.tmp' to '../../../../../Git project/Labirynt_KrzysztofCh/Content/Maze/Maze_01.uasset'
+[2021.01.28-01.30.30:876][919]AssetCheck: New page: Asset Save: Maze_01
+[2021.01.28-01.30.30:876][919]LogContentValidation: Display: Validating StaticMesh /Game/Maze/Maze_01.Maze_01
+[2021.01.28-01.30.33:967][289]LogSlate: Window 'Maze_01' being destroyed
+[2021.01.28-01.30.33:970][289]LogSlate: Window 'Maze_01' being destroyed
+[2021.01.28-01.30.33:988][289]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2021.01.28-01.30.33:988][289]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.28-01.30.35:167][405]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.28-01.30.35:185][405]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.28-01.30.35:185][405]PIE: New page: PIE session: Level_1 (28 sty 2021, 03:30:35)
+[2021.01.28-01.30.35:212][405]LogPlayLevel: Creating play world package: /Game/Task/Task_2/Scene/UEDPIE_0_Level_1
+[2021.01.28-01.30.35:218][405]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006793s)
+[2021.01.28-01.30.35:219][405]LogAIModule: Creating AISystem for world Level_1
+[2021.01.28-01.30.35:220][405]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000223411E6000), frame # 236405
+[2021.01.28-01.30.35:220][405]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002231B29DE40), frame # 236405
+[2021.01.28-01.30.35:220][405]LogPlayLevel: PIE: World Init took: (0.001405s)
+[2021.01.28-01.30.35:220][405]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Task/Task_2/Scene/Level_1.Level_1 to /Game/Task/Task_2/Scene/UEDPIE_0_Level_1.Level_1 (0.008367s)
+[2021.01.28-01.30.35:242][405]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2021.01.28-01.30.35:246][405]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.28-01.30.35:246][405]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.28-01.30.35:246][405]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.28-01.30.35:246][405]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.28-01.30.35:246][405]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.28-01.30.35:246][405]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.28-01.30.35:246][405]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.28-01.30.35:246][405]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.28-01.30.35:246][405]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.28-01.30.35:246][405]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.28-01.30.35:248][405]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.28-01.30.35:248][405]LogAudioMixer: Display: 1: FrontRight
+[2021.01.28-01.30.35:259][405]LogAudioMixer: Display: Using Audio Device Głośniki (2 — USB Audio CODEC )
+[2021.01.28-01.30.35:260][405]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.28-01.30.35:260][405]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.28-01.30.35:260][405]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.28-01.30.35:260][405]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.28-01.30.35:270][405]LogInit: FAudioDevice initialized.
+[2021.01.28-01.30.35:275][405]LogLoad: Game class is 'GameModeBase'
+[2021.01.28-01.30.35:276][405]LogWorld: Bringing World /Game/Task/Task_2/Scene/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2021.01.28-02.30.35
+[2021.01.28-01.30.35:276][405]LogWorld: Bringing up level for play took: 0.000555
+[2021.01.28-01.30.35:276][405]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2021.01.28-01.30.35:279][405]PIE: Server logged in
+[2021.01.28-01.30.35:279][405]PIE: Play in editor total start time 0,095 seconds.
+[2021.01.28-01.31.46:222][911]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-01.31.46:222][911]LogWorld: BeginTearingDown for /Game/Task/Task_2/Scene/UEDPIE_0_Level_1
+[2021.01.28-01.31.46:223][911]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2021.01.28-01.31.46:223][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.28-01.31.46:227][911]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.28-01.31.46:229][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.28-01.31.46:258][911]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-01.31.46:259][911]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002231B29DE40), frame # 244911
+[2021.01.28-01.31.46:259][911]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000223411E6000), frame # 244911
+[2021.01.28-01.31.46:261][911]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2021.01.28-01.31.46:295][912]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2021.01.28-01.32.02:812][845]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Task/Task_2/Scene/Level_1.Level_1:PersistentLevel.Level_1
+[2021.01.28-01.37.29:349][467]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2021.01.28-01.37.29:412][467]LogSavePackage: Moving '../../../../../Git project/Labirynt_KrzysztofCh/Saved/Level_1_Auto26C3F916B4D36D5350D5F4191F31E60A5.tmp' to '../../../../../Git project/Labirynt_KrzysztofCh/Saved/Autosaves/Game/Task/Task_2/Scene/Level_1_Auto2.umap'
+[2021.01.28-01.37.29:413][467]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Task/Task_2/Scene/Level_1' took 0.085
+[2021.01.28-01.37.29:413][467]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.085
+[2021.01.28-01.38.33:379][902]BlueprintLog: New page: Compile Level_1
+[2021.01.28-01.38.33:418][902]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2021.01.28-01.39.09:471][ 11]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Task/Task_2/Scene/Level_1" FILE="../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.28-01.39.09:489][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2021.01.28-01.39.09:542][ 11]LogSavePackage: Moving '../../../../../Git project/Labirynt_KrzysztofCh/Saved/Level_1CE7AA711464D478AA6532BBD1B16A40A.tmp' to '../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap'
+[2021.01.28-01.39.09:572][ 11]LogFileHelpers: Saving map 'Level_1' took 0.102
+[2021.01.28-01.39.09:581][ 11]AssetCheck: New page: Asset Save: Level_1
+[2021.01.28-01.39.09:581][ 11]LogContentValidation: Display: Validating World /Game/Task/Task_2/Scene/Level_1.Level_1
+[2021.01.28-01.44.15:391][313]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Engine/EditorBlueprintResources/StandardMacros.StandardMacros
+[2021.01.28-01.50.45:974][951]LogEditorTransaction: Undo Create Pin Link
+[2021.01.28-01.50.49:136][266]LogEditorTransaction: Undo Delete current selection
+[2021.01.28-01.52.11:354][292]LogEditorTransaction: Undo Move Node
+[2021.01.28-01.52.12:010][322]LogEditorTransaction: Undo Create Pin Link
+[2021.01.28-01.52.12:701][387]LogEditorTransaction: Undo Move Node
+[2021.01.28-01.53.27:367][663]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Task/Task_2/Scene/Level_1" FILE="../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.28-01.53.27:390][663]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2021.01.28-01.53.27:450][663]LogSavePackage: Moving '../../../../../Git project/Labirynt_KrzysztofCh/Saved/Level_1068828FD48FA82FCBF1FD1A24787DC1E.tmp' to '../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap'
+[2021.01.28-01.53.27:481][663]LogFileHelpers: Saving map 'Level_1' took 0.114
+[2021.01.28-01.53.27:489][663]AssetCheck: New page: Asset Save: Level_1
+[2021.01.28-01.53.27:489][663]LogContentValidation: Display: Validating World /Game/Task/Task_2/Scene/Level_1.Level_1
+[2021.01.28-02.09.15:966][ 64]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Task/Task_2/Scene/Level_1" FILE="../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.28-02.09.15:987][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2021.01.28-02.09.16:047][ 64]LogSavePackage: Moving '../../../../../Git project/Labirynt_KrzysztofCh/Saved/Level_12B8F7BF44CE78238D89B33BE9675DB04.tmp' to '../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap'
+[2021.01.28-02.09.16:078][ 64]LogFileHelpers: Saving map 'Level_1' took 0.112
+[2021.01.28-02.09.16:086][ 64]AssetCheck: New page: Asset Save: Level_1
+[2021.01.28-02.09.16:086][ 64]LogContentValidation: Display: Validating World /Game/Task/Task_2/Scene/Level_1.Level_1
+[2021.01.28-02.09.17:083][176]BlueprintLog: New page: Compile Level_1
+[2021.01.28-02.09.17:124][176]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2021.01.28-02.09.19:437][429]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.28-02.09.19:454][429]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.28-02.09.19:454][429]PIE: New page: PIE session: Level_1 (28 sty 2021, 04:09:19)
+[2021.01.28-02.09.19:482][429]LogPlayLevel: Creating play world package: /Game/Task/Task_2/Scene/UEDPIE_0_Level_1
+[2021.01.28-02.09.19:489][429]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006515s)
+[2021.01.28-02.09.19:490][429]LogAIModule: Creating AISystem for world Level_1
+[2021.01.28-02.09.19:490][429]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002234D3D1E00), frame # 434429
+[2021.01.28-02.09.19:490][429]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000223231A9800), frame # 434429
+[2021.01.28-02.09.19:490][429]LogPlayLevel: PIE: World Init took: (0.001374s)
+[2021.01.28-02.09.19:490][429]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Task/Task_2/Scene/Level_1.Level_1 to /Game/Task/Task_2/Scene/UEDPIE_0_Level_1.Level_1 (0.008041s)
+[2021.01.28-02.09.19:511][429]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2021.01.28-02.09.19:512][429]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.28-02.09.19:512][429]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.28-02.09.19:512][429]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.28-02.09.19:512][429]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.28-02.09.19:512][429]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.28-02.09.19:512][429]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.28-02.09.19:512][429]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.28-02.09.19:512][429]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.28-02.09.19:513][429]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.28-02.09.19:513][429]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.28-02.09.19:515][429]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.28-02.09.19:515][429]LogAudioMixer: Display: 1: FrontRight
+[2021.01.28-02.09.19:527][429]LogAudioMixer: Display: Using Audio Device Głośniki (2 — USB Audio CODEC )
+[2021.01.28-02.09.19:527][429]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.28-02.09.19:527][429]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.28-02.09.19:527][429]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.28-02.09.19:528][429]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.28-02.09.19:538][429]LogInit: FAudioDevice initialized.
+[2021.01.28-02.09.19:542][429]LogLoad: Game class is 'GameModeBase'
+[2021.01.28-02.09.19:543][429]LogWorld: Bringing World /Game/Task/Task_2/Scene/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2021.01.28-03.09.19
+[2021.01.28-02.09.19:543][429]LogWorld: Bringing up level for play took: 0.000580
+[2021.01.28-02.09.19:543][429]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2021.01.28-02.09.19:546][429]PIE: Server logged in
+[2021.01.28-02.09.19:547][429]PIE: Play in editor total start time 0,093 seconds.
+[2021.01.28-02.09.53:694][520]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-02.09.53:694][520]LogWorld: BeginTearingDown for /Game/Task/Task_2/Scene/UEDPIE_0_Level_1
+[2021.01.28-02.09.53:694][520]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2021.01.28-02.09.53:694][520]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.28-02.09.53:700][520]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.28-02.09.53:703][520]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.28-02.09.53:734][520]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-02.09.53:734][520]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000223231A9800), frame # 438520
+[2021.01.28-02.09.53:734][520]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002234D3D1E00), frame # 438520
+[2021.01.28-02.09.53:736][520]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2021.01.28-02.09.53:775][521]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2021.01.28-02.10.12:484][492]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Task/Task_2/Scene/Level_1" FILE="../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.28-02.10.12:505][492]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2021.01.28-02.10.12:558][492]LogSavePackage: Moving '../../../../../Git project/Labirynt_KrzysztofCh/Saved/Level_11306975D40AFA79A00C4A3A8E2682F42.tmp' to '../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap'
+[2021.01.28-02.10.12:594][492]LogFileHelpers: Saving map 'Level_1' took 0.110
+[2021.01.28-02.10.12:602][492]AssetCheck: New page: Asset Save: Level_1
+[2021.01.28-02.10.12:602][492]LogContentValidation: Display: Validating World /Game/Task/Task_2/Scene/Level_1.Level_1
+[2021.01.28-02.10.13:411][577]BlueprintLog: New page: Compile Level_1
+[2021.01.28-02.10.13:452][577]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2021.01.28-02.10.15:604][805]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.28-02.10.15:621][805]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.28-02.10.15:621][805]PIE: New page: PIE session: Level_1 (28 sty 2021, 04:10:15)
+[2021.01.28-02.10.15:653][805]LogPlayLevel: Creating play world package: /Game/Task/Task_2/Scene/UEDPIE_0_Level_1
+[2021.01.28-02.10.15:660][805]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007333s)
+[2021.01.28-02.10.15:661][805]LogAIModule: Creating AISystem for world Level_1
+[2021.01.28-02.10.15:661][805]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002233024F400), frame # 440805
+[2021.01.28-02.10.15:661][805]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000022336B75BC0), frame # 440805
+[2021.01.28-02.10.15:661][805]LogPlayLevel: PIE: World Init took: (0.001085s)
+[2021.01.28-02.10.15:661][805]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Task/Task_2/Scene/Level_1.Level_1 to /Game/Task/Task_2/Scene/UEDPIE_0_Level_1.Level_1 (0.008573s)
+[2021.01.28-02.10.15:685][805]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2021.01.28-02.10.15:686][805]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.28-02.10.15:686][805]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.28-02.10.15:686][805]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.28-02.10.15:686][805]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.28-02.10.15:686][805]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.28-02.10.15:686][805]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.28-02.10.15:686][805]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.28-02.10.15:686][805]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.28-02.10.15:687][805]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.28-02.10.15:687][805]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.28-02.10.15:689][805]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.28-02.10.15:689][805]LogAudioMixer: Display: 1: FrontRight
+[2021.01.28-02.10.15:701][805]LogAudioMixer: Display: Using Audio Device Głośniki (2 — USB Audio CODEC )
+[2021.01.28-02.10.15:701][805]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.28-02.10.15:701][805]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.28-02.10.15:701][805]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.28-02.10.15:701][805]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.28-02.10.15:712][805]LogInit: FAudioDevice initialized.
+[2021.01.28-02.10.15:716][805]LogLoad: Game class is 'GameModeBase'
+[2021.01.28-02.10.15:717][805]LogWorld: Bringing World /Game/Task/Task_2/Scene/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2021.01.28-03.10.15
+[2021.01.28-02.10.15:717][805]LogWorld: Bringing up level for play took: 0.000561
+[2021.01.28-02.10.15:717][805]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2021.01.28-02.10.15:720][805]PIE: Server logged in
+[2021.01.28-02.10.15:721][805]PIE: Play in editor total start time 0,1 seconds.
+[2021.01.28-02.11.16:683][112]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-02.11.16:683][112]LogWorld: BeginTearingDown for /Game/Task/Task_2/Scene/UEDPIE_0_Level_1
+[2021.01.28-02.11.16:684][112]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2021.01.28-02.11.16:684][112]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.28-02.11.16:693][112]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.28-02.11.16:696][112]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.28-02.11.16:715][112]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-02.11.16:729][112]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000022336B75BC0), frame # 448112
+[2021.01.28-02.11.16:729][112]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002233024F400), frame # 448112
+[2021.01.28-02.11.16:731][112]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2021.01.28-02.11.16:763][113]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2021.01.28-02.12.40:286][120]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Task/Task_2/Scene/Level_1" FILE="../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.28-02.12.40:306][120]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2021.01.28-02.12.40:362][120]LogSavePackage: Moving '../../../../../Git project/Labirynt_KrzysztofCh/Saved/Level_1930C1B024CB466C2179F058F919FC7C5.tmp' to '../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap'
+[2021.01.28-02.12.40:392][120]LogFileHelpers: Saving map 'Level_1' took 0.107
+[2021.01.28-02.12.40:401][120]AssetCheck: New page: Asset Save: Level_1
+[2021.01.28-02.12.40:401][120]LogContentValidation: Display: Validating World /Game/Task/Task_2/Scene/Level_1.Level_1
+[2021.01.28-02.12.41:660][259]BlueprintLog: New page: Compile Level_1
+[2021.01.28-02.12.41:701][259]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2021.01.28-02.12.43:914][495]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.28-02.12.43:931][495]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.28-02.12.43:931][495]PIE: New page: PIE session: Level_1 (28 sty 2021, 04:12:43)
+[2021.01.28-02.12.43:962][495]LogPlayLevel: Creating play world package: /Game/Task/Task_2/Scene/UEDPIE_0_Level_1
+[2021.01.28-02.12.43:969][495]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006845s)
+[2021.01.28-02.12.43:971][495]LogAIModule: Creating AISystem for world Level_1
+[2021.01.28-02.12.43:971][495]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000222DFF2FE00), frame # 457495
+[2021.01.28-02.12.43:971][495]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000022338E65E40), frame # 457495
+[2021.01.28-02.12.43:971][495]LogPlayLevel: PIE: World Init took: (0.001268s)
+[2021.01.28-02.12.43:971][495]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Task/Task_2/Scene/Level_1.Level_1 to /Game/Task/Task_2/Scene/UEDPIE_0_Level_1.Level_1 (0.008272s)
+[2021.01.28-02.12.43:995][495]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2021.01.28-02.12.43:996][495]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.28-02.12.43:996][495]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.28-02.12.43:996][495]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.28-02.12.43:996][495]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.28-02.12.43:996][495]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.28-02.12.43:996][495]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.28-02.12.43:996][495]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.28-02.12.43:996][495]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.28-02.12.43:996][495]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.28-02.12.43:997][495]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.28-02.12.43:998][495]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.28-02.12.43:999][495]LogAudioMixer: Display: 1: FrontRight
+[2021.01.28-02.12.44:010][495]LogAudioMixer: Display: Using Audio Device Głośniki (2 — USB Audio CODEC )
+[2021.01.28-02.12.44:011][495]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.28-02.12.44:011][495]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.28-02.12.44:011][495]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.28-02.12.44:011][495]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.28-02.12.44:021][495]LogInit: FAudioDevice initialized.
+[2021.01.28-02.12.44:027][495]LogLoad: Game class is 'GameModeBase'
+[2021.01.28-02.12.44:028][495]LogWorld: Bringing World /Game/Task/Task_2/Scene/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2021.01.28-03.12.44
+[2021.01.28-02.12.44:028][495]LogWorld: Bringing up level for play took: 0.000561
+[2021.01.28-02.12.44:029][495]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2021.01.28-02.12.44:031][495]PIE: Server logged in
+[2021.01.28-02.12.44:031][495]PIE: Play in editor total start time 0,1 seconds.
+[2021.01.28-02.16.04:593][552]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-02.16.04:593][552]LogWorld: BeginTearingDown for /Game/Task/Task_2/Scene/UEDPIE_0_Level_1
+[2021.01.28-02.16.04:593][552]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2021.01.28-02.16.04:593][552]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.28-02.16.04:598][552]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.28-02.16.04:601][552]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.28-02.16.04:632][552]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-02.16.04:633][552]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000022338E65E40), frame # 481552
+[2021.01.28-02.16.04:633][552]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000222DFF2FE00), frame # 481552
+[2021.01.28-02.16.04:635][552]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2021.01.28-02.16.04:673][553]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2021.01.28-02.17.30:895][ 98]BlueprintLog: New page: Compile Level_1
+[2021.01.28-02.17.30:935][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2021.01.28-02.17.35:178][561]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.28-02.17.35:196][561]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.28-02.17.35:197][561]PIE: New page: PIE session: Level_1 (28 sty 2021, 04:17:35)
+[2021.01.28-02.17.35:197][561]LogPlayLevel: Creating play world package: /Game/Task/Task_2/Scene/UEDPIE_0_Level_1
+[2021.01.28-02.17.35:203][561]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006547s)
+[2021.01.28-02.17.35:204][561]LogAIModule: Creating AISystem for world Level_1
+[2021.01.28-02.17.35:204][561]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000222DDC02800), frame # 491561
+[2021.01.28-02.17.35:204][561]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000222E498C400), frame # 491561
+[2021.01.28-02.17.35:204][561]LogPlayLevel: PIE: World Init took: (0.001161s)
+[2021.01.28-02.17.35:205][561]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Task/Task_2/Scene/Level_1.Level_1 to /Game/Task/Task_2/Scene/UEDPIE_0_Level_1.Level_1 (0.007846s)
+[2021.01.28-02.17.35:225][561]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2021.01.28-02.17.35:226][561]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.28-02.17.35:226][561]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.28-02.17.35:226][561]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.28-02.17.35:226][561]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.28-02.17.35:226][561]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.28-02.17.35:226][561]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.28-02.17.35:226][561]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.28-02.17.35:226][561]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.28-02.17.35:227][561]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.28-02.17.35:227][561]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.28-02.17.35:229][561]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.28-02.17.35:229][561]LogAudioMixer: Display: 1: FrontRight
+[2021.01.28-02.17.35:241][561]LogAudioMixer: Display: Using Audio Device Głośniki (2 — USB Audio CODEC )
+[2021.01.28-02.17.35:241][561]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.28-02.17.35:241][561]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.28-02.17.35:241][561]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.28-02.17.35:242][561]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.28-02.17.35:252][561]LogInit: FAudioDevice initialized.
+[2021.01.28-02.17.35:257][561]LogLoad: Game class is 'GameModeBase'
+[2021.01.28-02.17.35:258][561]LogWorld: Bringing World /Game/Task/Task_2/Scene/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2021.01.28-03.17.35
+[2021.01.28-02.17.35:258][561]LogWorld: Bringing up level for play took: 0.000560
+[2021.01.28-02.17.35:258][561]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2021.01.28-02.17.35:261][561]PIE: Server logged in
+[2021.01.28-02.17.35:262][561]PIE: Play in editor total start time 0,066 seconds.
+[2021.01.28-02.18.58:963][598]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-02.18.58:963][598]LogWorld: BeginTearingDown for /Game/Task/Task_2/Scene/UEDPIE_0_Level_1
+[2021.01.28-02.18.58:963][598]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2021.01.28-02.18.58:963][598]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.28-02.18.58:974][598]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.28-02.18.58:976][598]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.28-02.18.58:996][598]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-02.18.59:010][598]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000222E498C400), frame # 501598
+[2021.01.28-02.18.59:010][598]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000222DDC02800), frame # 501598
+[2021.01.28-02.18.59:012][598]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2021.01.28-02.18.59:044][599]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2021.01.28-02.19.22:606][123]BlueprintLog: New page: Compile Level_1
+[2021.01.28-02.19.22:645][123]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2021.01.28-02.21.33:997][291]BlueprintLog: New page: Compile Level_1
+[2021.01.28-02.21.34:035][291]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2021.01.28-02.22.30:646][694]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Task/Task_2/Scene/Level_1" FILE="../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.28-02.22.30:667][694]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2021.01.28-02.22.30:719][694]LogSavePackage: Moving '../../../../../Git project/Labirynt_KrzysztofCh/Saved/Level_15CA9245F4A2CC1ECB7EF659DDE6A89B7.tmp' to '../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap'
+[2021.01.28-02.22.30:754][694]LogFileHelpers: Saving map 'Level_1' took 0.108
+[2021.01.28-02.22.30:764][694]AssetCheck: New page: Asset Save: Level_1
+[2021.01.28-02.22.30:764][694]LogContentValidation: Display: Validating World /Game/Task/Task_2/Scene/Level_1.Level_1
+[2021.01.28-02.22.35:313][195]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Task/Task_2/Scene/Level_1" FILE="../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.28-02.22.35:333][195]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2021.01.28-02.22.35:380][195]LogSavePackage: Moving '../../../../../Git project/Labirynt_KrzysztofCh/Saved/Level_129C4C5C94AC59629F4D082B28569AC88.tmp' to '../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap'
+[2021.01.28-02.22.35:410][195]LogFileHelpers: Saving map 'Level_1' took 0.097
+[2021.01.28-02.22.35:419][195]AssetCheck: New page: Asset Save: Level_1
+[2021.01.28-02.22.35:419][195]LogContentValidation: Display: Validating World /Game/Task/Task_2/Scene/Level_1.Level_1
+[2021.01.28-02.22.37:022][367]BlueprintLog: New page: Compile Level_1
+[2021.01.28-02.22.37:061][367]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2021.01.28-02.22.38:329][489]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Task/Task_2/Scene/Level_1" FILE="../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.28-02.22.38:349][489]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2021.01.28-02.22.38:395][489]LogSavePackage: Moving '../../../../../Git project/Labirynt_KrzysztofCh/Saved/Level_15C5785424113C7907EE717B43CD887A4.tmp' to '../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap'
+[2021.01.28-02.22.38:425][489]LogFileHelpers: Saving map 'Level_1' took 0.096
+[2021.01.28-02.22.38:434][489]AssetCheck: New page: Asset Save: Level_1
+[2021.01.28-02.22.38:434][489]LogContentValidation: Display: Validating World /Game/Task/Task_2/Scene/Level_1.Level_1
+[2021.01.28-02.22.40:734][758]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.28-02.22.40:752][758]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.28-02.22.40:752][758]PIE: New page: PIE session: Level_1 (28 sty 2021, 04:22:40)
+[2021.01.28-02.22.40:752][758]LogPlayLevel: Creating play world package: /Game/Task/Task_2/Scene/UEDPIE_0_Level_1
+[2021.01.28-02.22.40:757][758]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004849s)
+[2021.01.28-02.22.40:758][758]LogAIModule: Creating AISystem for world Level_1
+[2021.01.28-02.22.40:758][758]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000022301121800), frame # 526758
+[2021.01.28-02.22.40:758][758]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002233309B4C0), frame # 526758
+[2021.01.28-02.22.40:758][758]LogPlayLevel: PIE: World Init took: (0.000977s)
+[2021.01.28-02.22.40:758][758]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Task/Task_2/Scene/Level_1.Level_1 to /Game/Task/Task_2/Scene/UEDPIE_0_Level_1.Level_1 (0.005936s)
+[2021.01.28-02.22.40:779][758]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2021.01.28-02.22.40:780][758]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.28-02.22.40:780][758]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.28-02.22.40:780][758]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.28-02.22.40:780][758]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.28-02.22.40:780][758]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.28-02.22.40:780][758]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.28-02.22.40:780][758]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.28-02.22.40:780][758]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.28-02.22.40:780][758]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.28-02.22.40:780][758]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.28-02.22.40:782][758]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.28-02.22.40:782][758]LogAudioMixer: Display: 1: FrontRight
+[2021.01.28-02.22.40:794][758]LogAudioMixer: Display: Using Audio Device Głośniki (2 — USB Audio CODEC )
+[2021.01.28-02.22.40:794][758]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.28-02.22.40:794][758]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.28-02.22.40:794][758]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.28-02.22.40:795][758]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.28-02.22.40:804][758]LogInit: FAudioDevice initialized.
+[2021.01.28-02.22.40:813][758]LogLoad: Game class is 'GameModeBase'
+[2021.01.28-02.22.40:814][758]LogWorld: Bringing World /Game/Task/Task_2/Scene/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2021.01.28-03.22.40
+[2021.01.28-02.22.40:815][758]LogWorld: Bringing up level for play took: 0.000743
+[2021.01.28-02.22.40:815][758]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2021.01.28-02.22.40:817][758]PIE: Server logged in
+[2021.01.28-02.22.40:818][758]PIE: Play in editor total start time 0,066 seconds.
+[2021.01.28-02.23.48:004][810]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-02.23.48:004][810]LogWorld: BeginTearingDown for /Game/Task/Task_2/Scene/UEDPIE_0_Level_1
+[2021.01.28-02.23.48:004][810]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2021.01.28-02.23.48:004][810]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.28-02.23.48:012][810]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.28-02.23.48:014][810]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.28-02.23.48:033][810]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.28-02.23.48:047][810]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002233309B4C0), frame # 534810
+[2021.01.28-02.23.48:047][810]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000022301121800), frame # 534810
+[2021.01.28-02.23.48:049][810]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2021.01.28-02.23.48:079][811]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2021.01.28-02.24.22:830][401]BlueprintLog: New page: Compile Level_1
+[2021.01.28-02.24.22:871][401]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2021.01.28-02.24.34:357][670]LogEditorTransaction: Undo Move Node
+[2021.01.28-02.25.39:865][917]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Task/Task_2/Scene/Level_1" FILE="../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.28-02.25.39:887][917]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2021.01.28-02.25.39:935][917]LogSavePackage: Moving '../../../../../Git project/Labirynt_KrzysztofCh/Saved/Level_14695CA674DA45BF34E1BDE990E87FA49.tmp' to '../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap'
+[2021.01.28-02.25.39:966][917]LogFileHelpers: Saving map 'Level_1' took 0.101
+[2021.01.28-02.25.39:976][917]AssetCheck: New page: Asset Save: Level_1
+[2021.01.28-02.25.39:976][917]LogContentValidation: Display: Validating World /Game/Task/Task_2/Scene/Level_1.Level_1
+[2021.01.28-02.25.46:562][619]BlueprintLog: New page: Compile Level_1
+[2021.01.28-02.25.46:601][619]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2021.01.28-02.25.59:293][920]BlueprintLog: New page: Compile Level_1
+[2021.01.28-02.25.59:331][920]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2021.01.28-02.25.59:982][965]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Task/Task_2/Scene/Level_1" FILE="../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.28-02.26.00:006][965]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2021.01.28-02.26.00:052][965]LogSavePackage: Moving '../../../../../Git project/Labirynt_KrzysztofCh/Saved/Level_1A1CF888143DF8EC27E5F5E8016BAB053.tmp' to '../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap'
+[2021.01.28-02.26.00:083][965]LogFileHelpers: Saving map 'Level_1' took 0.101
+[2021.01.28-02.26.00:093][965]AssetCheck: New page: Asset Save: Level_1
+[2021.01.28-02.26.00:093][965]LogContentValidation: Display: Validating World /Game/Task/Task_2/Scene/Level_1.Level_1
+[2021.01.28-02.26.52:768][471]LogEditorTransaction: Undo Move Node
+[2021.01.28-02.26.53:250][484]LogEditorTransaction: Undo Add Node
+[2021.01.28-02.26.58:349][ 34]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Task/Task_2/Scene/Level_1" FILE="../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.28-02.26.58:371][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2021.01.28-02.26.58:419][ 34]LogSavePackage: Moving '../../../../../Git project/Labirynt_KrzysztofCh/Saved/Level_16D98373B46FC32EA27680AB54B5F2BB8.tmp' to '../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap'
+[2021.01.28-02.26.58:451][ 34]LogFileHelpers: Saving map 'Level_1' took 0.102
+[2021.01.28-02.26.58:459][ 34]AssetCheck: New page: Asset Save: Level_1
+[2021.01.28-02.26.58:459][ 34]LogContentValidation: Display: Validating World /Game/Task/Task_2/Scene/Level_1.Level_1
+[2021.01.28-02.27.09:456][205]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.28-02.27.24:266][590]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.28-02.27.37:372][882]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.28-02.27.43:544][477]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.28-02.27.58:192][ 60]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.28-02.28.51:618][567]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.28-02.28.55:502][976]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Task/Task_2/Scene/Level_1" FILE="../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.28-02.28.55:525][976]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2021.01.28-02.28.55:580][976]LogSavePackage: Moving '../../../../../Git project/Labirynt_KrzysztofCh/Saved/Level_1CCF01B59440690D19AF438BF590ED044.tmp' to '../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap'
+[2021.01.28-02.28.55:609][976]LogEditorTransaction: Non zero active count in UTransBuffer::Reset
+ActiveCount : 4
+SessionName : 
+Reason      : Map Saved
+
+Purging the undo buffer...
+
+[2021.01.28-02.28.55:610][976]LogFileHelpers: Saving map 'Level_1' took 0.109
+[2021.01.28-02.28.55:618][976]AssetCheck: New page: Asset Save: Level_1
+[2021.01.28-02.28.55:618][976]LogContentValidation: Display: Validating World /Game/Task/Task_2/Scene/Level_1.Level_1
+[2021.01.28-02.28.56:526][ 63]BlueprintLog: New page: Compile Level_1
+[2021.01.28-02.28.56:564][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2021.01.28-02.39.04:939][285]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2021.01.28-02.39.04:992][285]LogSavePackage: Moving '../../../../../Git project/Labirynt_KrzysztofCh/Saved/Level_1_Auto3E901B9B54BE9C2741EE401AD68CCBA68.tmp' to '../../../../../Git project/Labirynt_KrzysztofCh/Saved/Autosaves/Game/Task/Task_2/Scene/Level_1_Auto3.umap'
+[2021.01.28-02.39.04:994][285]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Task/Task_2/Scene/Level_1' took 0.076
+[2021.01.28-02.39.04:994][285]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.076
+[2021.01.28-02.39.10:162][791]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Task/Task_2/Scene/Level_1" FILE="../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.28-02.39.10:181][791]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.01.28-02.39.10:228][791]LogSavePackage: Moving '../../../../../Git project/Labirynt_KrzysztofCh/Saved/Level_18CFAC28844334894A80799B490F4B798.tmp' to '../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap'
+[2021.01.28-02.39.10:261][791]LogFileHelpers: Saving map 'Level_1' took 0.099
+[2021.01.28-02.39.10:270][791]AssetCheck: New page: Asset Save: Level_1
+[2021.01.28-02.39.10:270][791]LogContentValidation: Display: Validating World /Game/Task/Task_2/Scene/Level_1.Level_1
+[2021.01.28-02.39.11:578][921]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Task/Task_2/Scene/Level_1" FILE="../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.28-02.39.11:597][921]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.01.28-02.39.11:642][921]LogSavePackage: Moving '../../../../../Git project/Labirynt_KrzysztofCh/Saved/Level_1B95442F04B876D5267F6A8ABBE37EA84.tmp' to '../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1.umap'
+[2021.01.28-02.39.11:766][921]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Task/Task_2/Scene/Level_1_BuiltData" FILE="../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1_BuiltData.uasset" SILENT=true
+[2021.01.28-02.39.11:790][921]LogSavePackage: Moving '../../../../../Git project/Labirynt_KrzysztofCh/Saved/Level_1_BuiltDataBA15D8CD40E798469F85D3AE76555DD9.tmp' to '../../../../../Git project/Labirynt_KrzysztofCh/Content/Task/Task_2/Scene/Level_1_BuiltData.uasset'
+[2021.01.28-02.39.11:799][921]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.28-02.39.11:799][921]LogContentValidation: Display: Validating World /Game/Task/Task_2/Scene/Level_1.Level_1
+[2021.01.28-02.39.11:799][921]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Task/Task_2/Scene/Level_1_BuiltData.Level_1_BuiltData
